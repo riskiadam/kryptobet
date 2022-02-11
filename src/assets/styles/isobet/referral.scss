@@ -1,0 +1,115 @@
+.referral{
+
+    .DesktopReferral{
+        display: $desktopA;
+    }
+
+    .MobileReferral{
+        display: $mobileA;
+    }
+
+    .referral-section-container{                
+        color:white;      
+    }
+
+    .referral-row-container{                
+        margin:2% 10% 2% 10%; 
+        padding:0%; 
+        height:100px; 
+        border-top: 1px solid white; 
+        border-bottom: 1px solid white; 
+        background-color:#1c1c1c;   
+    }
+
+    .referral-row-container:hover{                
+        margin:2% 10% 2% 10%; 
+        padding:0%; 
+        height:100px; 
+        border-top: 1px solid white; 
+        border-bottom: 1px solid white; 
+        background-color:#320033;   
+    }
+
+    .referral-text-container{                
+        color:white; 
+        font-weight:bold;   
+    }
+
+    .referral-text-container-col{
+        background-color:#666; 
+        padding:1.5% 1% 1% 1%;
+    }
+
+    .referral-text-container-2{                
+        color:white; 
+        font-weight:bold;   
+    }
+
+    .image-referral-rank {
+        width:40%;
+    }
+
+    // Small devices (landscape phones, 576px and up)
+    @media (max-width: 850px) {
+        .DesktopReferral{
+            display: $desktopB;
+        }
+    
+        .MobileReferral {
+            display: $mobileB;
+        }
+
+        .referral-section-container{  
+            font-size: 18px;              
+            color:white;      
+        }
+
+        .referral-row-container{                
+            margin:2% 5% 2% 5%; 
+            padding:0%; 
+            height:50px; 
+            border-top: 1px solid white; 
+            border-bottom: 1px solid white; 
+            background-color:#1c1c1c;   
+        }
+
+        .referral-row-container:hover{                
+            margin:2% 5% 2% 5%; 
+            padding:0%; 
+            height:50px; 
+            border-top: 1px solid white; 
+            border-bottom: 1px solid white; 
+            background-color:#f1e60d;   
+        }
+
+        .referral-text-container{                
+            color:white; 
+            font-weight:bold;    
+            font-size: 6px; 
+            vertical-align: middle;  
+            margin-top :10px;  
+        }
+
+        .referral-text-container-col{
+            background-color:#666; 
+            padding:0px;
+            margin:0px;
+        }
+
+        .referral-text-container-2{                
+            color:white; 
+            font-weight:bold;   
+            font-size: 6px; 
+            vertical-align: middle; 
+        }
+
+        .image-referral-rank {
+            width:30px;
+            height: 30px;
+            margin:0px;
+            padding:0px;
+
+        }
+    }
+
+}

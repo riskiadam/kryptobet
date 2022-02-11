@@ -1,0 +1,746 @@
+[
+  {
+    "gameType": "New",
+    "gameCode": "817",
+    "gameName": "Back To Venus",
+    "imageUrl": "BackToVenus"
+  },
+  {
+    "gameType": "New",
+    "gameCode": "827",
+    "gameName": "The Hive",
+    "imageUrl": "TheHive"
+  },
+  {
+    "gameType": "New",
+    "gameCode": "820",
+    "gameName": "Quest To The West",
+    "imageUrl": "QuestToTheWest"
+  },
+  {
+    "gameType": "New",
+    "gameCode": "819",
+    "gameName": "Monster Pop",
+    "imageUrl": "MonsterPop"
+  },
+  {
+    "gameType": "New",
+    "gameCode": "818",
+    "gameName": "Total Overdrive",
+    "imageUrl": "TotalOverdrive"
+  },
+  {
+    "gameType": "New",
+    "gameCode": "816",
+    "gameName": "Spring Tails",
+    "imageUrl": "SpringTails"
+  },
+  {
+    "gameType": "New",
+    "gameCode": "815",
+    "gameName": "Super Sweets",
+    "imageUrl": "SuperSweets"
+  },
+  {
+    "gameType": "New",
+    "gameCode": "814",
+    "gameName": "Dragon & Phoenix",
+    "imageUrl": "DragonPhoenix"
+  },
+  {
+    "gameType": "New",
+    "gameCode": "813",
+    "gameName": "Take The Bank",
+    "imageUrl": "TakeTheBank"
+  },
+  {
+    "gameType": "New",
+    "gameCode": "812",
+    "gameName": "Caishen's Arrival",
+    "imageUrl": "CaishensArrival"
+  },
+  {
+    "gameType": "New",
+    "gameCode": "811",
+    "gameName": "Gemmed",
+    "imageUrl": "Gemmed"
+  },
+  {
+    "gameType": "New",
+    "gameCode": "810",
+    "gameName": "Wolf Moon Rising",
+    "imageUrl": "WolfMoonRising"
+  },
+  {
+    "gameType": "New",
+    "gameCode": "807",
+    "gameName": "Spinfinity Man",
+    "imageUrl": "SpinfinityMan"
+  },
+  {
+    "gameType": "New",
+    "gameCode": "805",
+    "gameName": "Viking Voyage",
+    "imageUrl": "VikingVoyage"
+  },
+  {
+    "gameType": "New",
+    "gameCode": "804",
+    "gameName": "Fruitbat Crazy",
+    "imageUrl": "FruitbatCrazy"
+  },
+  {
+    "gameType": "Video Poker",
+    "gameCode": "539",
+    "gameName": "Deuces Wild",
+    "imageUrl": "DeucesWild"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "263",
+    "gameName": "Lucky Seven",
+    "imageUrl": "LuckySeven"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "269",
+    "gameName": "Mr. Vegas",
+    "imageUrl": "Mr.Vegas"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "291",
+    "gameName": "Genie's Fortune",
+    "imageUrl": "GeniesFortune"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "303",
+    "gameName": "Safari Sam",
+    "imageUrl": "SafariSam"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "306",
+    "gameName": "After Night Falls",
+    "imageUrl": "AfterNightFalls"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "312",
+    "gameName": "At The Copa",
+    "imageUrl": "AtTheCopa"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "318",
+    "gameName": "Rook's Revenge",
+    "imageUrl": "RooksRevenge"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "320",
+    "gameName": "Under the Bed",
+    "imageUrl": "UndertheBed"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "324",
+    "gameName": "Boomanji",
+    "imageUrl": "Boomanji"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "342",
+    "gameName": "Greedy Goblins",
+    "imageUrl": "GreedyGoblins"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "345",
+    "gameName": "Slotfather JP",
+    "imageUrl": "SlotfatherJP"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "381",
+    "gameName": "Treasure Room",
+    "imageUrl": "TreasureRoom"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "385",
+    "gameName": "The True Sheriff",
+    "imageUrl": "TheTrueSheriff"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "391",
+    "gameName": "A Night in Paris JP",
+    "imageUrl": "ANightinParisJP"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "396",
+    "gameName": "True Illusions",
+    "imageUrl": "TrueIllusions"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "406",
+    "gameName": "Gladiator",
+    "imageUrl": "Gladiator"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "412",
+    "gameName": "Madder Scientist",
+    "imageUrl": "MadderScientist"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "422",
+    "gameName": "Lost",
+    "imageUrl": "Lost"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "428",
+    "gameName": "Good Girl, Bad Girl",
+    "imageUrl": "GoodGirlBadGirl"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "451",
+    "gameName": "More Gold Diggin",
+    "imageUrl": "MoreGoldDiggin"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "455",
+    "gameName": "Under the Sea",
+    "imageUrl": "UndertheSea"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "462",
+    "gameName": "The Curious Machine Plus",
+    "imageUrl": "TheCuriousMachinePlus"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "465",
+    "gameName": "Sushi Bar",
+    "imageUrl": "SushiBar"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "468",
+    "gameName": "Heist",
+    "imageUrl": "Heist"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "472",
+    "gameName": "Tycoons Plus",
+    "imageUrl": "TycoonsPlus"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "479",
+    "gameName": "Gypsy Rose",
+    "imageUrl": "GypsyRose"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "483",
+    "gameName": "Puppy Love Plus",
+    "imageUrl": "PuppyLovePlus"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "494",
+    "gameName": "Sugar Pop",
+    "imageUrl": "SugarPop"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "501",
+    "gameName": "Dr. Jekyll & Mr. Hyde",
+    "imageUrl": "Dr.JekyllMr.Hyde"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "505",
+    "gameName": "It Came From Venus JP Plus",
+    "imageUrl": "ItCameFromVenusJPPlus"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "513",
+    "gameName": "Fruit Zen",
+    "imageUrl": "FruitZen"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "521",
+    "gameName": "Pinocchio",
+    "imageUrl": "Pinocchio"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "524",
+    "gameName": "Once Upon A Time",
+    "imageUrl": "OnceUponATime"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "531",
+    "gameName": "Enchanted JP",
+    "imageUrl": "EnchantedJP"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "535",
+    "gameName": "Mega Gems",
+    "imageUrl": "MegaGems"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "542",
+    "gameName": "7th Heaven",
+    "imageUrl": "7thHeaven"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "545",
+    "gameName": "Slots Angels",
+    "imageUrl": "SlotsAngels"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "549",
+    "gameName": "Event Horizon",
+    "imageUrl": "EventHorizon"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "584",
+    "gameName": "Mamma Mia",
+    "imageUrl": "MammaMia"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "587",
+    "gameName": "Mega Glam Life JP",
+    "imageUrl": "MegaGlamLifeJP"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "591",
+    "gameName": "Weekend In Vegas",
+    "imageUrl": "WeekendInVegas"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "598",
+    "gameName": "The Tipsy Tourist",
+    "imageUrl": "TheTipsyTourist"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "601",
+    "gameName": "Black Gold",
+    "imageUrl": "BlackGold"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "604",
+    "gameName": "Alkemor's Tower",
+    "imageUrl": "AlkemorsTower"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "607",
+    "gameName": "At the Movies",
+    "imageUrl": "AttheMovies"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "610",
+    "gameName": "Glam Life",
+    "imageUrl": "GlamLife"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "616",
+    "gameName": "2 Million B.C.",
+    "imageUrl": "2MillionB.C."
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "620",
+    "gameName": "A Christmas Carol",
+    "imageUrl": "AChristmasCarol"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "623",
+    "gameName": "Viking Age",
+    "imageUrl": "VikingAge"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "627",
+    "gameName": "Barbary Coast",
+    "imageUrl": "BarbaryCoast"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "638",
+    "gameName": "4 Seasons",
+    "imageUrl": "4Seasons"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "641",
+    "gameName": "The Exterminator",
+    "imageUrl": "TheExterminator"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "644",
+    "gameName": "House of Fun",
+    "imageUrl": "HouseofFun"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "648",
+    "gameName": "Frankenslot's Monster",
+    "imageUrl": "FrankenslotsMonster"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "651",
+    "gameName": "Paco and the Popping Peppers",
+    "imageUrl": "PacoandthePoppingPeppers"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "655",
+    "gameName": "Birds",
+    "imageUrl": "Birds"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "658",
+    "gameName": "Arrival",
+    "imageUrl": "Arrival"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "669",
+    "gameName": "Charms And Clovers",
+    "imageUrl": "CharmsAndClovers"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "693",
+    "gameName": "Fa-Fa Twins",
+    "imageUrl": "FaFaTwins"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "701",
+    "gameName": "Great 88",
+    "imageUrl": "Great88"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "705",
+    "gameName": "Slotfather 2",
+    "imageUrl": "Slotfather2"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "720",
+    "gameName": "Sin City Nights",
+    "imageUrl": "SinCityNights"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "728",
+    "gameName": "Kawaii Kitty",
+    "imageUrl": "KawaiiKitty"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "748",
+    "gameName": "The Angler",
+    "imageUrl": "TheAngler"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "752",
+    "gameName": "Magic Shoppe",
+    "imageUrl": "MagicShoppe"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "756",
+    "gameName": "Fire & Steel",
+    "imageUrl": "FireSteel"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "760",
+    "gameName": "Giovanni's Gems",
+    "imageUrl": "GiovannisGems"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "764",
+    "gameName": "Blood Eternal",
+    "imageUrl": "BloodEternal"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "768",
+    "gameName": "Jumbo Joker",
+    "imageUrl": "JumboJoker"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "772",
+    "gameName": "Stampede",
+    "imageUrl": "Stampede"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "776",
+    "gameName": "Legend Of The Nile",
+    "imageUrl": "LegendOfTheNile"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "785",
+    "gameName": "Sugar Pop 2",
+    "imageUrl": "SugarPop2"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "789",
+    "gameName": "Tiger's Claw",
+    "imageUrl": "TigersClaw"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "792",
+    "gameName": "Reels Of Wealth",
+    "imageUrl": "ReelsOfWealth"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "793",
+    "gameName": "Ogre Empire",
+    "imageUrl": "OgreEmpire"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "794",
+    "gameName": "The Golden Owl of Athena",
+    "imageUrl": "TheGoldenOwlofAthena"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "796",
+    "gameName": "Dragon Kings",
+    "imageUrl": "DragonKings"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "798",
+    "gameName": "Faerie Spells",
+    "imageUrl": "FaerieSpells"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "800",
+    "gameName": "Chilli Pop",
+    "imageUrl": "ChilliPop"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "801",
+    "gameName": "Yak, Yeti & Roll",
+    "imageUrl": "YakYetiRoll"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "802",
+    "gameName": "Carnaval Forever",
+    "imageUrl": "CarnavalForever"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "806",
+    "gameName": "Bamboo Rush",
+    "imageUrl": "BambooRush"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "809",
+    "gameName": "Gold Canyon",
+    "imageUrl": "GoldCanyon"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "833",
+    "gameName": "Primal Hunt",
+    "imageUrl": "PrimalHunt"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "828",
+    "gameName": "Dim Sum Prize",
+    "imageUrl": "DimSumPrize"
+  },
+  {
+    "gameType": "Table",
+    "gameCode": "5",
+    "gameName": "American Roulette",
+    "imageUrl": "AmericanRoulette"
+  },
+  {
+    "gameType": "Table",
+    "gameCode": "9",
+    "gameName": "Pai Gow",
+    "imageUrl": "PaiGow"
+  },
+  {
+    "gameType": "Table",
+    "gameCode": "13",
+    "gameName": "Baccarat",
+    "imageUrl": "Baccarat"
+  },
+  {
+    "gameType": "Table",
+    "gameCode": "43",
+    "gameName": "Ride`m Poker",
+    "imageUrl": "RidemPoker"
+  },
+  {
+    "gameType": "Table",
+    "gameCode": "44",
+    "gameName": "Super 7 Blackjack",
+    "imageUrl": "Super7Blackjack"
+  },
+  {
+    "gameType": "Table",
+    "gameCode": "48",
+    "gameName": "Top Card Trumps",
+    "imageUrl": "TopCardTrumps"
+  },
+  {
+    "gameType": "Table",
+    "gameCode": "64",
+    "gameName": "21 Burn Blackjack",
+    "imageUrl": "21BurnBlackjack"
+  },
+  {
+    "gameType": "Table",
+    "gameCode": "74",
+    "gameName": "Draw Hi-Lo",
+    "imageUrl": "DrawHiLo"
+  },
+  {
+    "gameType": "Table",
+    "gameCode": "81",
+    "gameName": "Pontoon",
+    "imageUrl": "Pontoon"
+  },
+  {
+    "gameType": "Table",
+    "gameCode": "82",
+    "gameName": "Pirate 21",
+    "imageUrl": "Pirate21"
+  },
+  {
+    "gameType": "Table",
+    "gameCode": "94",
+    "gameName": "Red Dog",
+    "imageUrl": "RedDog"
+  },
+  {
+    "gameType": "Table",
+    "gameCode": "105",
+    "gameName": "Triple Edge Poker",
+    "imageUrl": "TripleEdgePoker"
+  },
+  {
+    "gameType": "Table",
+    "gameCode": "191",
+    "gameName": "European Blackjack",
+    "imageUrl": "EuropeanBlackjack"
+  },
+  {
+    "gameType": "Table",
+    "gameCode": "197",
+    "gameName": "Vip European Roulette",
+    "imageUrl": "VipEuropeanRoulette"
+  },
+  {
+    "gameType": "Table",
+    "gameCode": "198",
+    "gameName": "Vip American Roulette",
+    "imageUrl": "VipAmericanRoulette"
+  },
+  {
+    "gameType": "Table",
+    "gameCode": "203",
+    "gameName": "Oasis Poker",
+    "imageUrl": "OasisPoker"
+  },
+  {
+    "gameType": "Table",
+    "gameCode": "244",
+    "gameName": "Three Card Rummy",
+    "imageUrl": "ThreeCardRummy"
+  },
+  {
+    "gameType": "Table",
+    "gameCode": "271",
+    "gameName": "American Blackjack",
+    "imageUrl": "AmericanBlackjack"
+  },
+  {
+    "gameType": "Table",
+    "gameCode": "275",
+    "gameName": "European Roulette",
+    "imageUrl": "EuropeanRoulette"
+  },
+  {
+    "gameType": "Table",
+    "gameCode": "278",
+    "gameName": "Zoom Roulette",
+    "imageUrl": "ZoomRoulette"
+  },
+  {
+    "gameType": "Table",
+    "gameCode": "445",
+    "gameName": "Caribbean Poker",
+    "imageUrl": "CaribbeanPoker"
+  },
+  {
+    "gameType": "Table",
+    "gameCode": "448",
+    "gameName": "Single Deck Blackjack",
+    "imageUrl": "SingleDeckBlackjack"
+  },
+  {
+    "gameType": "New",
+    "gameCode": "779",
+    "gameName": "Max Quest: Wrath of Ra",
+    "imageUrl": "MaxQuestWrathofRa"
+  }
+]

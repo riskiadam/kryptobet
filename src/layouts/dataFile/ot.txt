@@ -1,0 +1,77 @@
+[
+    {
+        "gameCode": "ont_mvphoops",
+        "gameName": "MVP Hoops",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "ont_wildwildwest2120",
+        "gameName": "Wild Wild West 2120",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "ont_flexingdragons",
+        "gameName": "Flexing Dragons",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "ont_queensofglory",
+        "gameName": "Queens of Glory",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "ont_travelingtreasuresbrazil",
+        "gameName": "Traveling Treasures Brazil",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "ont_wheeloffortune",
+        "gameName": "Wheel Of Fortune",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "ont_sumoshowdown-4reels",
+        "gameName": "Sumo Showdown - 4 reels",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "ont_juicy7-3reels",
+        "gameName": "Juicy7 - 3 reels",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "ont_luckylion",
+        "gameName": "Lucky Lion",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "ont_goldenstripe",
+        "gameName": "Golden Stripe",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "ont_watfordslot",
+        "gameName": "Watford Slot",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "ont_fortuneminer-3reels",
+        "gameName": "Fortune Miner - 3 reels",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "ont_steamvault",
+        "gameName": "Steam Vault",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "ont_wackywildlife",
+        "gameName": "Wacky Wildlife",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "ont_bubblesbonanza",
+        "gameName": "Bubbles Bonanza",
+        "alternate": "none"
+    }
+]

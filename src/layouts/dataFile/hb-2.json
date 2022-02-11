@@ -1,0 +1,502 @@
+[
+    {
+        "gameCode": "SG12Zodiacs",
+        "gameName": "12 Zodiacs"
+    },
+    {
+        "gameCode": "SG5LuckyLions",
+        "gameName": "5 Lucky Lions"
+    },
+    {
+        "gameCode": "SG5Mariachis",
+        "gameName": "5 Mariachis"
+    },
+    {
+        "gameCode": "SGAllForOne",
+        "gameName": "All For One"
+    },
+    {
+        "gameCode": "SGArcaneElements",
+        "gameName": "Arcane Elements"
+    },
+    {
+        "gameCode": "SGArcticWonders",
+        "gameName": "Arctic Wonders"
+    },
+    {
+        "gameCode": "SGAzlandsGold",
+        "gameName": "Aztlan's Gold"
+    },
+    {
+        "gameCode": "SGBarnstormerBucks",
+        "gameName": "Barnstormer Bucks"
+    },
+    {
+        "gameCode": "SGBeforeTimeRunsOut",
+        "gameName": "Before Time Runs Out"
+    },
+    {
+        "gameCode": "SGBikiniIsland",
+        "gameName": "Bikini Island"
+    },
+    {
+        "gameCode": "SGBirdOfThunder",
+        "gameName": "Bird of Thunder"
+    },
+    {
+        "gameCode": "SGBlackbeardsBounty",
+        "gameName": "Blackbeard's Bounty"
+    },
+    {
+        "gameCode": "SGBombsAway",
+        "gameName": "Bombs Away"
+    },
+    {
+        "gameCode": "SGBuggyBonus",
+        "gameName": "Buggy Bonus"
+    },
+    {
+        "gameCode": "SGCakeValley",
+        "gameName": "Cake Valley"
+    },
+    {
+        "gameCode": "SGCalaverasExplosivas",
+        "gameName": "Calaveras Explosivas"
+    },
+    {
+        "gameCode": "SGCandyTower",
+        "gameName": "Candy Tower"
+    },
+    {
+        "gameCode": "SGCarnivalCash",
+        "gameName": "Carnival Cash"
+    },
+    {
+        "gameCode": "SGCashosaurus",
+        "gameName": "Cashosaurus"
+    },
+    {
+        "gameCode": "SGCashReef",
+        "gameName": "Cash Reef"
+    },
+    {
+        "gameCode": "SGChristmasGiftRush",
+        "gameName": "Christmas Gift Rush"
+    },
+    {
+        "gameCode": "SGColossalGems",
+        "gameName": "Colossal Gems"
+    },
+    {
+        "gameCode": "SGCoyoteCrash",
+        "gameName": "Coyote Crash"
+    },
+    {
+        "gameCode": "SGDiscoFunk",
+        "gameName": "Disco Funk"
+    },
+    {
+        "gameCode": "SGDoubleODollars",
+        "gameName": "Double O Dollars"
+    },
+    {
+        "gameCode": "SGDragonsRealm",
+        "gameName": "Dragon's Realm"
+    },
+    {
+        "gameCode": "SGDragonsThrone",
+        "gameName": "Dragon's Throne"
+    },
+    {
+        "gameCode": "SGDrFeelgood",
+        "gameName": "Dr Feelgood"
+    },
+    {
+        "gameCode": "SGEgyptianDreams",
+        "gameName": "Egyptian Dreams"
+    },
+    {
+        "gameCode": "SGEgyptianDreamsDeluxe",
+        "gameName": "Egyptian Dreams Deluxe"
+    },
+    {
+        "gameCode": "SGFaCaiShen",
+        "gameName": "Fa Cai Shen"
+    },
+    {
+        "gameCode": "SGFaCaiShenDeluxe",
+        "gameName": "Fa Cai Shen Deluxe"
+    },
+    {
+        "gameCode": "SGFenghuang",
+        "gameName": "Fenghuang"
+    },
+    {
+        "gameCode": "SGFireRooster",
+        "gameName": "Fire Rooster"
+    },
+    {
+        "gameCode": "SGFly",
+        "gameName": "Fly"
+    },
+    {
+        "gameCode": "SGFlyingHigh",
+        "gameName": "Flying High"
+    },
+    {
+        "gameCode": "SGFortuneDogs",
+        "gameName": "Fortune Dogs"
+    },
+    {
+        "gameCode": "SGFourDivineBeasts",
+        "gameName": "Four Divine Beasts"
+    },
+    {
+        "gameCode": "SGFrontierFortunes",
+        "gameName": "Frontier Fortunes"
+    },
+    {
+        "gameCode": "SGGalacticCash",
+        "gameName": "Galactic Cash"
+    },
+    {
+        "gameCode": "SGGangsters",
+        "gameName": "Gangsters"
+    },
+    {
+        "gameCode": "SGGlamRock",
+        "gameName": "Glam Rock"
+    },
+    {
+        "gameCode": "SGGoldenUnicorn",
+        "gameName": "Golden Unicorn"
+    },
+    {
+        "gameCode": "SGGoldRush",
+        "gameName": "Gold Rush"
+    },
+    {
+        "gameCode": "SGGrapeEscape",
+        "gameName": "Grape Escape"
+    },
+    {
+        "gameCode": "SGHappiestChristmasTree",
+        "gameName": "Happiest Christmas Tree"
+    },
+    {
+        "gameCode": "SGHappyApe",
+        "gameName": "Happy Ape"
+    },
+    {
+        "gameCode": "SGHauntedHouse",
+        "gameName": "Haunted House"
+    },
+    {
+        "gameCode": "SGHeySushi",
+        "gameName": "Hey Sushi"
+    },
+    {
+        "gameCode": "SGHotHotFruit",
+        "gameName": "Hot Hot Fruit"
+    },
+    {
+        "gameCode": "SGHotHotHalloween",
+        "gameName": "Hot Hot Halloween"
+    },
+    {
+        "gameCode": "SGIndianCashCatcher",
+        "gameName": "Indian Cash Catcher"
+    },
+    {
+        "gameCode": "SGJellyFishFlow",
+        "gameName": "JellyFish Flow"
+    },
+    {
+        "gameCode": "SGJellyFishFlowUltra",
+        "gameName": "JellyFish Flow Ultra"
+    },
+    {
+        "gameCode": "SGJugglenaut",
+        "gameName": "Jugglenaut"
+    },
+    {
+        "gameCode": "SGJump",
+        "gameName": "Jump!"
+    },
+    {
+        "gameCode": "SGJungleRumble",
+        "gameName": "Jungle Rumble"
+    },
+    {
+        "gameCode": "SGKanesInferno",
+        "gameName": "Kane's Inferno"
+    },
+    {
+        "gameCode": "SGKingTutsTomb",
+        "gameName": "King Tut's Tomb"
+    },
+    {
+        "gameCode": "SGKnockoutFootball",
+        "gameName": "Knockout Football"
+    },
+    {
+        "gameCode": "SGKnockoutFootballRush",
+        "gameName": "Knockout Football Rush"
+    },
+    {
+        "gameCode": "SGLittleGreenMoney",
+        "gameName": "Little Green Money"
+    },
+    {
+        "gameCode": "SGLondonHunter",
+        "gameName": "London Hunter"
+    },
+    {
+        "gameCode": "SGLoonyBlox",
+        "gameName": "Loony Blox"
+    },
+    {
+        "gameCode": "SGLuckyFortuneCat",
+        "gameName": "Lucky Fortune Cat"
+    },
+    {
+        "gameCode": "SGLuckyLucky",
+        "gameName": "Lucky Lucky"
+    },
+    {
+        "gameCode": "SGMagicOak",
+        "gameName": "Magic Oak"
+    },
+    {
+        "gameCode": "SGMarvelousFurlongs",
+        "gameName": "Marvelous Furlongs"
+    },
+    {
+        "gameCode": "SGMonsterMashCash",
+        "gameName": "Monster Mash Cash"
+    },
+    {
+        "gameCode": "SGMountMazuma",
+        "gameName": "Mount Mazuma"
+    },
+    {
+        "gameCode": "SGMrBling",
+        "gameName": "Mr Bling"
+    },
+    {
+        "gameCode": "SGMummyMoney",
+        "gameName": "Mummy Money"
+    },
+    {
+        "gameCode": "SGMysticFortune",
+        "gameName": "Mystic Fortune"
+    },
+    {
+        "gameCode": "SGNaughtySanta",
+        "gameName": "Naughty Santa"
+    },
+    {
+        "gameCode": "SGNuwa",
+        "gameName": "Nuwa"
+    },
+    {
+        "gameCode": "SGOceansCall",
+        "gameName": "Ocean's Call"
+    },
+    {
+        "gameCode": "SGOrbsOfAtlantis",
+        "gameName": "Orbs Of Atlantis"
+    },
+    {
+        "gameCode": "SGPamperMe",
+        "gameName": "Pamper Me"
+    },
+    {
+        "gameCode": "SGPandaPanda",
+        "gameName": "Panda Panda"
+    },
+    {
+        "gameCode": "SGPiratesPlunder",
+        "gameName": "Pirate's Plunder"
+    },
+    {
+        "gameCode": "SGPoolShark",
+        "gameName": "Pool Shark"
+    },
+    {
+        "gameCode": "SGPresto",
+        "gameName": "Presto!"
+    },
+    {
+        "gameCode": "SGPuckerUpPrince",
+        "gameName": "Pucker Up Prince"
+    },
+    {
+        "gameCode": "SGPumpkinPatch",
+        "gameName": "Pumpkin Patch"
+    },
+    {
+        "gameCode": "SGQueenOfQueens1024",
+        "gameName": "Queen of Queens II"
+    },
+    {
+        "gameCode": "SGQueenOfQueens243",
+        "gameName": "Queen of Queens"
+    },
+    {
+        "gameCode": "SGReturnToTheFeature",
+        "gameName": "Return To The Feature"
+    },
+    {
+        "gameCode": "SGRideEmCowboy",
+        "gameName": "Ride 'em Cowboy"
+    },
+    {
+        "gameCode": "SGRodeoDrive",
+        "gameName": "Rodeo Drive"
+    },
+    {
+        "gameCode": "SGRollingRoger",
+        "gameName": "Rolling Roger"
+    },
+    {
+        "gameCode": "SGRomanEmpire",
+        "gameName": "Roman Empire"
+    },
+    {
+        "gameCode": "SGRuffledUp",
+        "gameName": "Ruffled Up"
+    },
+    {
+        "gameCode": "SGSantasVillage",
+        "gameName": "Santa's Village"
+    },
+    {
+        "gameCode": "SGScopa",
+        "gameName": "Scopa"
+    },
+    {
+        "gameCode": "SGScruffyScallywags",
+        "gameName": "Scruffy Scallywags"
+    },
+    {
+        "gameCode": "SGShaolinFortunes100",
+        "gameName": "Shaolin Fortunes 100"
+    },
+    {
+        "gameCode": "SGShaolinFortunes243",
+        "gameName": "Shaolin Fortunes"
+    },
+    {
+        "gameCode": "SGShogunsLand",
+        "gameName": "Shogun's Land"
+    },
+    {
+        "gameCode": "SGSirBlingalot",
+        "gameName": "Sir Blingalot"
+    },
+    {
+        "gameCode": "SGSkysTheLimit",
+        "gameName": "Sky's the Limit"
+    },
+    {
+        "gameCode": "SGSOS",
+        "gameName": "S.O.S!"
+    },
+    {
+        "gameCode": "SGSpaceFortune",
+        "gameName": "Space Fortune"
+    },
+    {
+        "gameCode": "SGSparta",
+        "gameName": "Sparta"
+    },
+    {
+        "gameCode": "SGSuperStrike",
+        "gameName": "Super Strike"
+    },
+    {
+        "gameCode": "SGSuperTwister",
+        "gameName": "Super Twister"
+    },
+    {
+        "gameCode": "SGTabernaDeLosMuertos",
+        "gameName": "Taberna De Los Muertos"
+    },
+    {
+        "gameCode": "SGTabernaDeLosMuertosUltra",
+        "gameName": "Taberna De Los Muertos Ultra"
+    },
+    {
+        "gameCode": "SGTechnoTumble",
+        "gameName": "Techno Tumble "
+    },
+    {
+        "gameCode": "SGTheBigDeal",
+        "gameName": "The Big Deal"
+    },
+    {
+        "gameCode": "SGTheDeadEscape",
+        "gameName": "The Dead Escape"
+    },
+    {
+        "gameCode": "SGTheDragonCastle",
+        "gameName": "Dragon Castle"
+    },
+    {
+        "gameCode": "SGTheKoiGate",
+        "gameName": "Koi Gate"
+    },
+    {
+        "gameCode": "SGTotemTowers",
+        "gameName": "Totem Towers"
+    },
+    {
+        "gameCode": "SGTowerOfPizza",
+        "gameName": "Tower Of Pizza"
+    },
+    {
+        "gameCode": "SGTreasureDiver",
+        "gameName": "Treasure Diver"
+    },
+    {
+        "gameCode": "SGTreasureTomb",
+        "gameName": "Treasure Tomb"
+    },
+    {
+        "gameCode": "SGVikingsPlunder",
+        "gameName": "Viking's Plunder"
+    },
+    {
+        "gameCode": "SGWaysOfFortune",
+        "gameName": "Ways Of Fortune"
+    },
+    {
+        "gameCode": "SGWealthInn",
+        "gameName": "Wealth Inn"
+    },
+    {
+        "gameCode": "SGWeirdScience",
+        "gameName": "Weird Science"
+    },
+    {
+        "gameCode": "SGWickedWitch",
+        "gameName": "Wicked Witch"
+    },
+    {
+        "gameCode": "SGWildTrucks",
+        "gameName": "Wild Trucks"
+    },
+    {
+        "gameCode": "SGWizardsWantWar",
+        "gameName": "Wizards Want War!"
+    },
+    {
+        "gameCode": "SGZeus",
+        "gameName": "Zeus"
+    },
+    {
+        "gameCode": "SGZeus2",
+        "gameName": "Zeus 2"
+    }
+]

@@ -1,0 +1,314 @@
+[
+    {
+        "gameCode": "lgd-monkey-kg",
+        "gameName": "Legendary Monkey King"
+    },
+    {
+        "gameCode": "buffalo-win",
+        "gameName": "Buffalo Win"
+    },
+    {
+        "gameCode": "sprmkt-spree",
+        "gameName": "Supermarket Spree"
+    },
+    {
+        "gameCode": "crypt-fortune",
+        "gameName": "Raider Jane's Crypt of Fortune"
+    },
+    {
+        "gameCode": "groundhog",
+        "gameName": "Groundhog Harvert"
+    },
+    {
+        "gameCode": "mermaid-riches",
+        "gameName": "Mermaid Riches"
+    },
+    {
+        "gameCode": "jurassic-kdm",
+        "gameName": "Jurassic Kingdom"
+    },
+    {
+        "gameCode": "sushi-oishi",
+        "gameName": "Sushi Oishi"
+    },
+    {
+        "gameCode": "rise-of-apollo",
+        "gameName": "Rise of Apollo"
+    },
+    {
+        "gameCode": "heist-stakes",
+        "gameName": "Heist Stakes"
+    },
+    {
+        "gameCode": "ways-of-qilin",
+        "gameName": "Ways of the Qilin"
+    },
+    {
+        "gameCode": "wild-bandito",
+        "gameName": "Wild Bandito"
+    },
+    {
+        "gameCode": "candy-bonanza",
+        "gameName": "Candy Bonanza"
+    },
+    {
+        "gameCode": "majestic-ts",
+        "gameName": "Majestic Treasures"
+    },
+    {
+        "gameCode": "crypto-gold",
+        "gameName": "Crypto Gold"
+    },
+    {
+        "gameCode": "bali-vacation",
+        "gameName": "Bali Vacation"
+    },
+    {
+        "gameCode": "fortune-ox",
+        "gameName": "Fortune Ox"
+    },
+    {
+        "gameCode": "opera-dynasty",
+        "gameName": "Opera Dynasty"
+    },
+    {
+        "gameCode": "gdn-ice-fire",
+        "gameName": "Guardians of Ice and Fire"
+    },
+    {
+        "gameCode": "galactic-gems",
+        "gameName": "Galactic Gems"
+    },
+    {
+        "gameCode": "jack-frosts",
+        "gameName": "Jack Frost's Winter"
+    },
+    {
+        "gameCode": "lucky-neko",
+        "gameName": "Lucky Neko"
+    },
+    {
+        "gameCode": "jewels-prosper",
+        "gameName": "Jewels of Prosperity"
+    },
+    {
+        "gameCode": "queen-bounty",
+        "gameName": "Queen of Bounty"
+    },
+    {
+        "gameCode": "vampires-charm",
+        "gameName": "Vampire's Charm"
+    },
+    {
+        "gameCode": "sct-cleopatra",
+        "gameName": "Secret of Cleopatra"
+    },
+    {
+        "gameCode": "thai-river",
+        "gameName": "Thai River Wonders"
+    },
+    {
+        "gameCode": "circus-delight",
+        "gameName": "Circus Delight"
+    },
+    {
+        "gameCode": "treasures-aztec",
+        "gameName": "Treasures of Aztec"
+    },
+    {
+        "gameCode": "genies-wishes",
+        "gameName": "Genie's 3 Wishes"
+    },
+    {
+        "gameCode": "dim-sum-mania",
+        "gameName": "Dim Sum Mania"
+    },
+    {
+        "gameCode": "wild-fireworks",
+        "gameName": "Wild Fireworks"
+    },
+    {
+        "gameCode": "dreams-of-macau",
+        "gameName": "Dreams of Macau"
+    },
+    {
+        "gameCode": "phoenix-rises",
+        "gameName": "Phoenix Rises"
+    },
+    {
+        "gameCode": "ganesha-fortune",
+        "gameName": "Ganesha Fortune"
+    },
+    {
+        "gameCode": "egypts-book-mystery",
+        "gameName": "Egypt's Book of Mystery"
+    },
+    {
+        "gameCode": "mahjong-ways2",
+        "gameName": "Mahjong Ways 2"
+    },
+    {
+        "gameCode": "bikini-paradise",
+        "gameName": "Bikini Paradise"
+    },
+    {
+        "gameCode": "cai-shen-wins",
+        "gameName": "Caishen Wins"
+    },
+    {
+        "gameCode": "candy-burst",
+        "gameName": "Candy Burst"
+    },
+    {
+        "gameCode": "shaolin-soccer",
+        "gameName": "Shaolin Soccer"
+    },
+    {
+        "gameCode": "gem-saviour-conquest",
+        "gameName": "Gem Saviour Conquest"
+    },
+    {
+        "gameCode": "fortune-mouse",
+        "gameName": "Fortune Mouse"
+    },
+    {
+        "gameCode": "reel-love",
+        "gameName": "Reel Love"
+    },
+    {
+        "gameCode": "dragon-hatch",
+        "gameName": "Dragon Hatch"
+    },
+    {
+        "gameCode": "mahjong-ways",
+        "gameName": "Mahjong Ways"
+    },
+    {
+        "gameCode": "dragon-tiger-luck",
+        "gameName": "Dragon Tiger Luck"
+    },
+    {
+        "gameCode": "ninja-vs-samurai",
+        "gameName": "Ninja vs Samurai"
+    },
+    {
+        "gameCode": "flirting-scholar",
+        "gameName": "Flirting Scholar"
+    },
+    {
+        "gameCode": "leprechaun-riches",
+        "gameName": "Leprechaun Riches"
+    },
+    {
+        "gameCode": "captains-bounty",
+        "gameName": "Captain's Bounty"
+    },
+    {
+        "gameCode": "journey-to-the-wealth",
+        "gameName": "Journey to the Wealth"
+    },
+    {
+        "gameCode": "the-great-icescape",
+        "gameName": "The Great Icescape"
+    },
+    {
+        "gameCode": "double-fortune",
+        "gameName": "Double Fortune"
+    },
+    {
+        "gameCode": "jungle-delight",
+        "gameName": "Jungle Delight"
+    },
+    {
+        "gameCode": "three-monkeys",
+        "gameName": "Three Monkeys"
+    },
+    {
+        "gameCode": "ganesha-gold",
+        "gameName": "Ganesha Gold"
+    },
+    {
+        "gameCode": "emperors-favour",
+        "gameName": "Emperor's Favour"
+    },
+    {
+        "gameCode": "symbols-of-egypt",
+        "gameName": "Symbols of Egypt"
+    },
+    {
+        "gameCode": "dragon-legend",
+        "gameName": "Dragon Legend"
+    },
+    {
+        "gameCode": "fortune-gods",
+        "gameName": "Fortune Gods"
+    },
+    {
+        "gameCode": "gem-saviour",
+        "gameName": "Gem Saviour"
+    },
+    {
+        "gameCode": "gem-saviour-sword",
+        "gameName": "Gem Saviour Sword"
+    },
+    {
+        "gameCode": "hip-hop-panda",
+        "gameName": "Hip Hop Panda"
+    },
+    {
+        "gameCode": "diaochan",
+        "gameName": "Honey Trap of Diao Chan"
+    },
+    {
+        "gameCode": "hood-wolf",
+        "gameName": "Hood vs Wood"
+    },
+    {
+        "gameCode": "hotpot",
+        "gameName": "Hotpot"
+    },
+    {
+        "gameCode": "legend-of-hou-yi",
+        "gameName": "Legend of Hou Yi"
+    },
+    {
+        "gameCode": "medusa",
+        "gameName": "Medusa"
+    },
+    {
+        "gameCode": "medusa2",
+        "gameName": "Medusa 2"
+    },
+    {
+        "gameCode": "mr-hallow-win",
+        "gameName": "Mr. Hallow-Win"
+    },
+    {
+        "gameCode": "piggy-gold",
+        "gameName": "Piggy Gold"
+    },
+    {
+        "gameCode": "plushie-frenzy",
+        "gameName": "Plushie Frenzy"
+    },
+    {
+        "gameCode": "prosperity-lion",
+        "gameName": "Prosperity Lion"
+    },
+    {
+        "gameCode": "santas-gift-rush",
+        "gameName": "Santa's Gift Rush"
+    },
+    {
+        "gameCode": "fortune-tree",
+        "gameName": "Tree of Fortune"
+    },
+    {
+        "gameCode": "win-win-won2",
+        "gameName": "Win Win Won 2"
+    },
+    {
+        "gameCode": "wizdom-wonders",
+        "gameName": "Wizdom Wonders"
+    }
+]

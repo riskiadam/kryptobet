@@ -1,0 +1,55 @@
+[
+    {
+        "label": "Wm Casino",
+        "gameProviderId": 0,
+        "gameId": 0,
+        "imageUrl": "/images/casinos/CasinoImgWM-en.png"
+    },
+    {
+        "label": "BigGaming",
+        "gameProviderId": 5,
+        "gameId": 0,
+        "imageUrl": "/images/casinos/CasinoImgBigGaming-en.png"
+    },
+    {
+        "label": "SexyBaccarat",
+        "gameProviderId": 7,
+        "gameId": 0,
+        "imageUrl": "/images/casinos/CasinoImgSexyGaming-en.png"
+    },
+    {
+        "label": "ION Live Casino",
+        "gameProviderId": 12,
+        "gameId": 0,
+        "imageUrl": "/images/casinos/CasinoImgIONLC-en.png"
+    },
+    {
+        "label": "IdnLive",
+        "gameProviderId": 17,
+        "imageUrl": "/images/casinos/CasinoImgIDNLive-en.png"
+    },
+    {
+        "label": "Sa Gaming",
+        "gameProviderId": 19,
+        "gameId": 0,
+        "imageUrl": "/images/casinos/CasinoImgSaGaming-en.png"
+    },
+    {
+        "label": "Evolution Gaming",
+        "gameProviderId": 0,
+        "gameId": 0,
+        "imageUrl": "/images/casinos/CasinoImgEvolutionGaming-en.png"
+    },
+    {
+        "label": "Allbet",
+        "gameProviderId": 28,
+        "gameId": 0,
+        "imageUrl": "/images/casinos/CasinoImgAllBet-en.png"
+    },
+    {
+        "label": "Green Dragon",
+        "gameProviderId": 33,
+        "gameId": 0,
+        "imageUrl": "/images/casinos/CasinoImgGreenDragon-en.png"
+    }
+]

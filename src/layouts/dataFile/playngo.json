@@ -1,0 +1,826 @@
+[
+    {
+        "gameName": "Sparky & Shortz",
+        "gameCode": "sparkyandshortz"
+    },
+    {
+        "gameName": "The Wild Class",
+        "gameCode": "thewildclass"
+    },
+    {
+        "gameName": "Ghost of Dead",
+        "gameCode": "ghostofdead"
+    },
+    {
+        "gameName": "Dr Toonz",
+        "gameCode": "drtoonz"
+    },
+    {
+        "gameName": "Sisters of The Sun",
+        "gameCode": "sistersofthesun"
+    },
+    {
+        "gameName": "Agent of Hearts",
+        "gameCode": "agentofhearts"
+    },
+    {
+        "gameName": "Diamonds of the Realm",
+        "gameCode": "diamondsoftherealm"
+    },
+    {
+        "gameName": "Odin: Protector of Realms",
+        "gameCode": "odinprotectorofrealms"
+    },
+    {
+        "gameName": "Hotel Yeti-Way",
+        "gameCode": "hotelyetiway"
+    },
+    {
+        "gameName": "Gemix 2",
+        "gameCode": "gemix2"
+    },
+    {
+        "gameName": "Pack & Cash",
+        "gameCode": "packandcash"
+    },
+    {
+        "gameName": "Free Reelin’ Joker",
+        "gameCode": "freereelinjoker"
+    },
+    {
+        "gameName": "Charlie Chance",
+        "gameCode": "charliechance"
+    },
+    {
+        "gameName": "Candy Island Princess",
+        "gameCode": "candyislandprincess"
+    },
+    {
+        "gameName": "Prism of Gems",
+        "gameCode": "prismofgems"
+    },
+    {
+        "gameName": "Scroll of Dead",
+        "gameCode": "scrollofdead"
+    },
+    {
+        "gameName": "3 Clown Monty",
+        "gameCode": "threeclownmonty"
+    },
+    {
+        "gameName": "Court of Hearts",
+        "gameCode": "courtofhearts"
+    },
+    {
+        "gameName": "Fire Joker Freeze",
+        "gameCode": "firejokerfreeze"
+    },
+    {
+        "gameName": "Fire Toad",
+        "gameCode": "firetoad"
+    },
+    {
+        "gameName": "Rich Wilde and The Amulet of Dead",
+        "gameCode": "amuletofdead"
+    },
+    {
+        "gameName": "Shimmering Woods",
+        "gameCode": "theshimmeringwoods"
+    },
+    {
+        "gameName": "House of Doom 2: The Crypt",
+        "gameCode": "thecrypt"
+    },
+    {
+        "gameName": "The Green Knight",
+        "gameCode": "thegreenknight"
+    },
+    {
+        "gameName": "The Faces of Freya",
+        "gameCode": "thefacesoffreya"
+    },
+    {
+        "gameName": "The Paying Piano Club",
+        "gameCode": "thepayingpianoclub"
+    },
+    {
+        "gameName": "Thunder Screech",
+        "gameCode": "thunderscreech"
+    },
+    {
+        "gameName": "Lord Merlin and The Lady of the Lake",
+        "gameCode": "ladyofthelake"
+    },
+    {
+        "gameName": "Bull in a China Shop",
+        "gameCode": "bullinachinashop"
+    },
+    {
+        "gameName": "Miner Donkey Trouble",
+        "gameCode": "minerdonkeytrouble"
+    },
+    {
+        "gameName": "Coils of Cash",
+        "gameCode": "coilsofcash"
+    },
+    {
+        "gameName": "Piggy Bank Farm",
+        "gameCode": "piggybankfarm"
+    },
+    {
+        "gameName": "Golden Osiris",
+        "gameCode": "goldenosiris"
+    },
+    {
+        "gameName": "Frozen Gems",
+        "gameCode": "frozengems"
+    },
+    {
+        "gameName": "Ice Joker",
+        "gameCode": "icejoker"
+    },
+    {
+        "gameName": "Reactoonz 2",
+        "gameCode": "reactoonztwo"
+    },
+    {
+        "gameName": "Disco Diamonds",
+        "gameCode": "discodiamonds"
+    },
+    {
+        "gameName": "New Year Riches",
+        "gameCode": "newyearriches"
+    },
+    {
+        "gameName": "24k Dragon",
+        "gameCode": "twentyfourkdragon"
+    },
+    {
+        "gameName": "Viking Runecraft Bingo",
+        "gameCode": "vikingrunecraftbingo"
+    },
+    {
+        "gameName": "Rise of Athena",
+        "gameCode": "riseofathena"
+    },
+    {
+        "gameName": "Holiday Spirits",
+        "gameCode": "holidayspirits"
+    },
+    {
+        "gameName": "Madame Ink",
+        "gameCode": "madameink"
+    },
+    {
+        "gameName": "Rabbit Hole Riches",
+        "gameCode": "rabbitholeriches"
+    },
+    {
+        "gameName": "Reactoonz",
+        "gameCode": "reactoonz"
+    },
+    {
+        "gameName": "Feline Fury",
+        "gameCode": "felinefury"
+    },
+    {
+        "gameName": "Octopus Treasure",
+        "gameCode": "octopustreasure"
+    },
+    {
+        "gameName": "Jolly Roger 2",
+        "gameCode": "jollyroger2"
+    },
+    {
+        "gameName": "Golden Ticket 2",
+        "gameCode": "goldenticket2"
+    },
+    {
+        "gameName": "Charlie Chance and the Curse of Cleopatra",
+        "gameCode": "curseofcleopatra"
+    },
+    {
+        "gameName": "Cat Wilde in the Eclipse of the Sun God",
+        "gameCode": "catwildeeclipse"
+    },
+    {
+        "gameName": "5x Magic",
+        "gameCode": "5xmagic"
+    },
+    {
+        "gameName": "7 Sins",
+        "gameCode": "sevensins"
+    },
+    {
+        "gameName": "Ace of Spades",
+        "gameCode": "aceofspades"
+    },
+    {
+        "gameName": "Agent Destiny",
+        "gameCode": "agentdestiny"
+    },
+    {
+        "gameName": "Ankh of Anubis",
+        "gameCode": "ankhofanubis"
+    },
+    {
+        "gameName": "Annihilator",
+        "gameCode": "annihilator"
+    },
+    {
+        "gameName": "Aztec Idols",
+        "gameCode": "aztecidols"
+    },
+    {
+        "gameName": "Aztec Warrior Princess",
+        "gameCode": "aztecwarriorprincess"
+    },
+    {
+        "gameName": "Baker's Treat",
+        "gameCode": "bakerstreat"
+    },
+    {
+        "gameName": "Banana Rock",
+        "gameCode": "bananarock"
+    },
+    {
+        "gameName": "Battle Royal",
+        "gameCode": "battleroyal"
+    },
+    {
+        "gameName": "Big Win 777",
+        "gameCode": "bigwin777"
+    },
+    {
+        "gameName": "Big Win Cat",
+        "gameCode": "bigwincat"
+    },
+    {
+        "gameName": "Black Mamba",
+        "gameCode": "blackmamba"
+    },
+    {
+        "gameName": "Blinged",
+        "gameCode": "blinged"
+    },
+    {
+        "gameName": "Book of Dead",
+        "gameCode": "bookofdead"
+    },
+    {
+        "gameName": "Bugs Party",
+        "gameCode": "bugsparty"
+    },
+    {
+        "gameName": "Cash Pump",
+        "gameCode": "cashpump"
+    },
+    {
+        "gameName": "Cash Vandal",
+        "gameCode": "cashvandal"
+    },
+    {
+        "gameName": "Cat Wilde and the Doom of Dead",
+        "gameCode": "doomofdead"
+    },
+    {
+        "gameName": "Cats and Cash",
+        "gameCode": "catsandcash"
+    },
+    {
+        "gameName": "Charlie Chance in Hell to Pay",
+        "gameCode": "charliechancehelltopay"
+    },
+    {
+        "gameName": "Chinese New Year",
+        "gameCode": "chinesenewyear"
+    },
+    {
+        "gameName": "Chronos Joker",
+        "gameCode": "chronosjoker"
+    },
+    {
+        "gameName": "Cloud Quest",
+        "gameCode": "cloudquest"
+    },
+    {
+        "gameName": "Contact",
+        "gameCode": "contact"
+    },
+    {
+        "gameName": "Cops'n'Robbers",
+        "gameCode": "copsnrobbers"
+    },
+    {
+        "gameName": "Coywolf Cash",
+        "gameCode": "coywolfcash"
+    },
+    {
+        "gameName": "Crazy Cows",
+        "gameCode": "crazycows"
+    },
+    {
+        "gameName": "Crystal Sun",
+        "gameCode": "crystalsun"
+    },
+    {
+        "gameName": "Dawn of Egypt",
+        "gameCode": "dawnofegypt"
+    },
+    {
+        "gameName": "Demon",
+        "gameCode": "demon"
+    },
+    {
+        "gameName": "Diamond Vortex",
+        "gameCode": "diamondvortex"
+    },
+    {
+        "gameName": "Divine Showdown",
+        "gameCode": "divineshowdown"
+    },
+    {
+        "gameName": "Doom of Egypt",
+        "gameCode": "doomofegypt"
+    },
+    {
+        "gameName": "Dragon Maiden",
+        "gameCode": "dragonmaiden"
+    },
+    {
+        "gameName": "Dragon Ship",
+        "gameCode": "dragonship"
+    },
+    {
+        "gameName": "Easter Eggs",
+        "gameCode": "eastereggs"
+    },
+    {
+        "gameName": "Enchanted Crystals",
+        "gameCode": "enchantedcrystals"
+    },
+    {
+        "gameName": "Enchanted Meadow",
+        "gameCode": "enchantedmeadow"
+    },
+    {
+        "gameName": "Energoonz",
+        "gameCode": "energoonz"
+    },
+    {
+        "gameName": "Eye of the Kraken",
+        "gameCode": "eyeofthekraken"
+    },
+    {
+        "gameName": "Fire Joker",
+        "gameCode": "firejoker"
+    },
+    {
+        "gameName": "Firefly Frenzy",
+        "gameCode": "fireflyfrenzy"
+    },
+    {
+        "gameName": "Flying Pigs",
+        "gameCode": "flyingpigs"
+    },
+    {
+        "gameName": "Fortune Teller",
+        "gameCode": "fortuneteller"
+    },
+    {
+        "gameName": "Fortunes of Ali Baba",
+        "gameCode": "fortunesofalibaba"
+    },
+    {
+        "gameName": "FU ER DAI",
+        "gameCode": "fuerdai"
+    },
+    {
+        "gameName": "Game of Gladiators",
+        "gameCode": "gameofgladiators"
+    },
+    {
+        "gameName": "Gemix",
+        "gameCode": "gemix"
+    },
+    {
+        "gameName": "Gold King",
+        "gameCode": "goldking"
+    },
+    {
+        "gameName": "Gold Trophy 2",
+        "gameCode": "goldtrophy2"
+    },
+    {
+        "gameName": "Gold Volcano",
+        "gameCode": "goldvolcano"
+    },
+    {
+        "gameName": "Golden Caravan",
+        "gameCode": "goldencaravan"
+    },
+    {
+        "gameName": "Golden Colts",
+        "gameCode": "goldencolts"
+    },
+    {
+        "gameName": "Golden Legend",
+        "gameCode": "goldenlegend"
+    },
+    {
+        "gameName": "Golden Ticket",
+        "gameCode": "goldenticket"
+    },
+    {
+        "gameName": "Golden Ticket 2",
+        "gameCode": "goldenticket2"
+    },
+    {
+        "gameName": "Grim Muerto",
+        "gameCode": "grimmuerto"
+    },
+    {
+        "gameName": "Happy Halloween",
+        "gameCode": "happyhalloween"
+    },
+    {
+        "gameName": "Holiday Season",
+        "gameCode": "holidayseason"
+    },
+    {
+        "gameName": "Honey Rush",
+        "gameCode": "honeyrush"
+    },
+    {
+        "gameName": "House of Doom",
+        "gameCode": "houseofdoom"
+    },
+    {
+        "gameName": "Hugo",
+        "gameCode": "hugo"
+    },
+    {
+        "gameName": "Hugo 2",
+        "gameCode": "hugotwo"
+    },
+    {
+        "gameName": "Hugo Goal",
+        "gameCode": "hugogoal"
+    },
+    {
+        "gameName": "Hugo's Adventure",
+        "gameCode": "hugosadventure"
+    },
+    {
+        "gameName": "Imperial Opera",
+        "gameCode": "imperialopera"
+    },
+    {
+        "gameName": "Inferno Joker",
+        "gameCode": "infernojoker"
+    },
+    {
+        "gameName": "Inferno Star",
+        "gameCode": "infernostar"
+    },
+    {
+        "gameName": "Irish Gold",
+        "gameCode": "irishgold"
+    },
+    {
+        "gameName": "Iron Girl",
+        "gameCode": "irongirl"
+    },
+    {
+        "gameName": "Jade Magician",
+        "gameCode": "jademagician"
+    },
+    {
+        "gameName": "Jewel Box",
+        "gameCode": "jewelbox"
+    },
+    {
+        "gameName": "Jolly Roger",
+        "gameCode": "jollyroger"
+    },
+    {
+        "gameName": "Keno",
+        "gameCode": "keno"
+    },
+    {
+        "gameName": "Lady of Fortune",
+        "gameCode": "ladyoffortune"
+    },
+    {
+        "gameName": "Legacy of Dead",
+        "gameCode": "legacyofdead"
+    },
+    {
+        "gameName": "Legacy of Egypt",
+        "gameCode": "legacyofegypt"
+    },
+    {
+        "gameName": "Leprechaun goes Egypt",
+        "gameCode": "leprechaungoesegypt"
+    },
+    {
+        "gameName": "Leprechaun Goes Wild",
+        "gameCode": "leprechaungoeswild"
+    },
+    {
+        "gameName": "Lucky Diamonds",
+        "gameCode": "luckydiamonds"
+    },
+    {
+        "gameName": "Mahjong 88",
+        "gameCode": "mahjong88"
+    },
+    {
+        "gameName": "Matsuri",
+        "gameCode": "matsuri"
+    },
+    {
+        "gameName": "Mermaid's Diamond",
+        "gameCode": "mermaidsdiamond"
+    },
+    {
+        "gameName": "Merry Xmas",
+        "gameCode": "merryxmas"
+    },
+    {
+        "gameName": "Mission Cash",
+        "gameCode": "missioncash"
+    },
+    {
+        "gameName": "Moon Princess",
+        "gameCode": "moonprincess"
+    },
+    {
+        "gameName": "MULTIFRUIT 81",
+        "gameCode": "multifruit81"
+    },
+    {
+        "gameName": "Mystery Joker",
+        "gameCode": "mysteryjoker"
+    },
+    {
+        "gameName": "Mystery Joker 6000",
+        "gameCode": "mysteryjoker6000"
+    },
+    {
+        "gameName": "Myth",
+        "gameCode": "myth"
+    },
+    {
+        "gameName": "Ninja Fruits",
+        "gameCode": "ninjafruits"
+    },
+    {
+        "gameName": "Nyjah Huston: Skate for Gold",
+        "gameCode": "skateforgold"
+    },
+    {
+        "gameName": "Pearl Lagoon",
+        "gameCode": "pearllagoon"
+    },
+    {
+        "gameName": "Pearls of India",
+        "gameCode": "pearlsofindia"
+    },
+    {
+        "gameName": "Perfect Gems",
+        "gameCode": "perfectgems"
+    },
+    {
+        "gameName": "Phoenix Reborn",
+        "gameCode": "phoenixreborn"
+    },
+    {
+        "gameName": "Photo Safari",
+        "gameCode": "photosafari"
+    },
+    {
+        "gameName": "Pimped",
+        "gameCode": "pimped"
+    },
+    {
+        "gameName": "Planet Fortune",
+        "gameCode": "planetfortune"
+    },
+    {
+        "gameName": "Prissy Princess",
+        "gameCode": "prissyprincess"
+    },
+    {
+        "gameName": "Prosperity Palace",
+        "gameCode": "prosperitypalace"
+    },
+    {
+        "gameName": "Queen's Day Tilt",
+        "gameCode": "queensdaytilt"
+    },
+    {
+        "gameName": "Rage to Riches",
+        "gameCode": "ragetoriches"
+    },
+    {
+        "gameName": "Raging Rex",
+        "gameCode": "ragingrex"
+    },
+    {
+        "gameName": "Rainforest Magic",
+        "gameCode": "rainforestmagic"
+    },
+    {
+        "gameName": "Rainforest Magic Bingo",
+        "gameCode": "rainforestmagicbingo"
+    },
+    {
+        "gameName": "Rally 4 Riches",
+        "gameCode": "rally4riches"
+    },
+    {
+        "gameName": "Reactoonz",
+        "gameCode": "reactoonz"
+    },
+    {
+        "gameName": "Rich Wilde & The Shield of Athena",
+        "gameCode": "shieldofathena"
+    },
+    {
+        "gameName": "Riches of RA",
+        "gameCode": "richesofra"
+    },
+    {
+        "gameName": "Riches of Robin",
+        "gameCode": "richesofrobin"
+    },
+    {
+        "gameName": "Riddle Reels: A Case of Riches",
+        "gameCode": "riddlereels"
+    },
+    {
+        "gameName": "Ring of Odin",
+        "gameCode": "ringofodin"
+    },
+    {
+        "gameName": "Rise of Dead",
+        "gameCode": "riseofdead"
+    },
+    {
+        "gameName": "Rise of Merlin",
+        "gameCode": "riseofmerlin"
+    },
+    {
+        "gameName": "Rise of Olympus",
+        "gameCode": "riseofolympus"
+    },
+    {
+        "gameName": "Royal Masquerade",
+        "gameCode": "masquerade"
+    },
+    {
+        "gameName": "Sabaton",
+        "gameCode": "sabaton"
+    },
+    {
+        "gameName": "Sails of Gold",
+        "gameCode": "sailsofgold"
+    },
+    {
+        "gameName": "Samba Carnival",
+        "gameCode": "sambacarnival"
+    },
+    {
+        "gameName": "Saxon",
+        "gameCode": "saxon"
+    },
+    {
+        "gameName": "Sea Hunter",
+        "gameCode": "seahunter"
+    },
+    {
+        "gameName": "Sizzling Spins",
+        "gameCode": "sizzlingspins"
+    },
+    {
+        "gameName": "Space Race",
+        "gameCode": "spacerace"
+    },
+    {
+        "gameName": "Spin Party",
+        "gameCode": "spinparty"
+    },
+    {
+        "gameName": "Star Joker",
+        "gameCode": "starjoker"
+    },
+    {
+        "gameName": "Sticky Joker",
+        "gameCode": "stickyjoker"
+    },
+    {
+        "gameName": "Street Magic",
+        "gameCode": "streetmagic"
+    },
+    {
+        "gameName": "Super Flip",
+        "gameCode": "superflip"
+    },
+    {
+        "gameName": "Sweet 27",
+        "gameCode": "sweet27"
+    },
+    {
+        "gameName": "Sweet Alchemy",
+        "gameCode": "sweetalchemy"
+    },
+    {
+        "gameName": "Sweet Alchemy Bingo",
+        "gameCode": "sweetalchemybingo"
+    },
+    {
+        "gameName": "Testament",
+        "gameCode": "testament"
+    },
+    {
+        "gameName": "That's Rich",
+        "gameCode": "thatsrich"
+    },
+    {
+        "gameName": "The Sword and The Grail",
+        "gameCode": "theswordandthegrail"
+    },
+    {
+        "gameName": "Tome of Madness",
+        "gameCode": "tomeofmadness"
+    },
+    {
+        "gameName": "Tower Quest",
+        "gameCode": "towerquest"
+    },
+    {
+        "gameName": "Troll Hunters",
+        "gameCode": "trollhunters"
+    },
+    {
+        "gameName": "Troll Hunters 2",
+        "gameCode": "trollhunters2"
+    },
+    {
+        "gameName": "Twisted Sister",
+        "gameCode": "twistedsister"
+    },
+    {
+        "gameName": "Viking Runecraft",
+        "gameCode": "vikingrunecraft"
+    },
+    {
+        "gameName": "Wild Blood",
+        "gameCode": "wildblood"
+    },
+    {
+        "gameName": "Wild Blood 2",
+        "gameCode": "wildblood2"
+    },
+    {
+        "gameName": "Wild Falls",
+        "gameCode": "wildfalls"
+    },
+    {
+        "gameName": "Wild Frames",
+        "gameCode": "wildframes"
+    },
+    {
+        "gameName": "Wild Melon",
+        "gameCode": "wildmelon"
+    },
+    {
+        "gameName": "Wild North",
+        "gameCode": "wildnorth"
+    },
+    {
+        "gameName": "Wild Rails",
+        "gameCode": "wildrails"
+    },
+    {
+        "gameName": "Wildhound Derby",
+        "gameCode": "wildhoundderby"
+    },
+    {
+        "gameName": "Win-A-Beest",
+        "gameCode": "winabeest"
+    },
+    {
+        "gameName": "Wizard of Gems",
+        "gameCode": "wizardofgems"
+    },
+    {
+        "gameName": "Xmas Joker",
+        "gameCode": "christmasjoker"
+    },
+    {
+        "gameName": "Xmas Magic",
+        "gameCode": "xmasmagic"
+    }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pop_autumngold_eye",
+    "gameName": "Autumn Gold"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "gpas_ceruption_pop",
+    "gameName": "Chili Eruption"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "gpas_dostormspp_pop",
+    "gameName": "Djinn of Storms™ PowerPlay Jackpot"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "gpas_dhall_pop",
+    "gameName": "Dragon's Hall Thundershots"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "gpas_gguardians_pop",
+    "gameName": "Dragon's Hall Thundershots"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "gpas_gguardians_pop",
+    "gameName": "Glorious Guardians"
+  }
+]

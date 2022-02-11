@@ -1,0 +1,1477 @@
+[
+  {
+    "gameCode": "pop_autumngold_eye",
+    "gameName": "Autumn Gold",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_ceruption_pop",
+    "gameName": "Chili Eruption",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_dostormspp_pop",
+    "gameName": "Djinn of Storms™ PowerPlay Jackpot",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_dhall_pop",
+    "gameName": "Dragon's Hall Thundershots",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_gguardians_pop",
+    "gameName": "Glorious Guardians",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_holdthesafe_eye",
+    "gameName": "Hold The Safe",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_kissmeclover_eye",
+    "gameName": "Kiss Me Clover",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_pstrike_pop",
+    "gameName": "Power Zones™: Pyramid Valley",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_ccsahara_pop",
+    "gameName": "Sahara Riches™: Cash Collect",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_sgomagic_pop",
+    "gameName": "Sorcerer's Guild of Magic",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_amammoth_pop",
+    "gameName": "Absolutely Mammoth!™",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_eape2_pop",
+    "gameName": "Epic Ape II™ Jackpot Blitz™",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_sscarab_pop",
+    "gameName": "Eye of Anubis™",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_twolf_pop",
+    "gameName": "Fire Blaze™: Tundra Wolf™",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_fbars_pop",
+    "gameName": "Flaming Bars™",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_gskc_pop",
+    "gameName": "Gem Splash™: Kings Court™",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_bokings2pp_pop",
+    "gameName": "Jane Jones - Book of Kings 2™ PowerPlay Jackpot",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_mblocks_pop",
+    "gameName": "Mayan Blocks™",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_kgomoon_pop",
+    "gameName": "Mega Fire Blaze™: Khonsu God of Moon™",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_ppayspp_pop",
+    "gameName": "Panther Pays™ PowerPlay Jackpot",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_ishtar_pop",
+    "gameName": "Power Zones™: Ishtar",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_shppngspr_eye",
+    "gameName": "Shopping Spree",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_wlinx_pop",
+    "gameName": "Wild LinX™",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_yoyoswild_eye",
+    "gameName": "YoYo's Wild",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_tttotemspp_pop",
+    "gameName": "Tip Top Totems™ Powerplay Jackpot",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_puggypayout_eye",
+    "gameName": "Puggy Payout",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_piggypayout_eye",
+    "gameName": "Piggy Payout",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_kittypayout_eye",
+    "gameName": "Kitty Payout",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_fbgbb_pop",
+    "gameName": "Fire Blaze Golden™: Buccaneer Bells",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_aognnl_pop",
+    "gameName": "Age of the Gods™ Norse: Norse Legends",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_zcharms_pop",
+    "gameName": "Zodiac Charms",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_stepback7s_eye",
+    "gameName": "Step Back 7s",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_pastthepost_eye",
+    "gameName": "Past The Post",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_lostisland_eye",
+    "gameName": "Lost Island",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_gporang_pop",
+    "gameName": "Gold Pile™: Orangutan!",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_rwizard_pop",
+    "gameName": "Fire Blaze™: Red Wizard",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_eemeraldspp_pop",
+    "gameName": "Egyptian Emeralds™ PowerPlay Jackpot",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_btthbbbs_eye",
+    "gameName": "Beat The Bobbies",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_bokingpp_pop",
+    "gameName": "Book of Kings™ PowerPlay Jackpot",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_bbob_pop",
+    "gameName": "Breakout Bob™",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_nchntdprnc_eye",
+    "gameName": "Enchanted Prince",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_hgextreme_pop",
+    "gameName": "Hot Gems™ Xtreme",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_rbtssplndr_eye",
+    "gameName": "Rebets Splendour",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_secretgarden_eye",
+    "gameName": "Secret Garden",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_strkrgswld_eye",
+    "gameName": "Striker Goes Wild",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_whtwzrddlx_eye",
+    "gameName": "White Wizard Deluxe",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_nalight_pop",
+    "gameName": "Jane Jones Book of Kings 2™",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_e63aedf0_eye",
+    "gameName": "Galactic Girls",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_aogbooracle_pop",
+    "gameName": "Age of Gods™: Book of Oracle",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_pppearls_pop",
+    "gameName": "Fire Blaze: Pearls Pearls Pearls",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_df48c20d_eye",
+    "gameName": "Fluffy Favourites Megaways",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_scupid_pop",
+    "gameName": "Lovefool",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_irishluck_eye",
+    "gameName": "Irish Luck",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_aogrotu_pop",
+    "gameName": "Age of the Gods : Ruler Of The Dead",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_bfrenzy_pop",
+    "gameName": "Bee Frenzy",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_afactory_pop",
+    "gameName": "Fire Blaze Golden : Amazing Factory",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_zcjbao2_pop",
+    "gameName": "Zhao Cai Jin Bao 2",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_aoggagiants_pop",
+    "gameName": "Age of the Gods Norse: Gods and Giants",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_aogkasgard_pop",
+    "gameName": "Age of the Gods Norse: King of Asgard",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_aognwot_pop",
+    "gameName": "Age of the Gods Norse: Ways of Thunder",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_aogggriffin_pop",
+    "gameName": "Age of the Gods: Glorious Griffin",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_betwilds_pop",
+    "gameName": "Better Wilds",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_bbells_pop",
+    "gameName": "Blazing Bells",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_dsparks_pop",
+    "gameName": "Dragon Spark",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_eemeralds_pop",
+    "gameName": "Egyptian Emeralds",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_atrail_pop",
+    "gameName": "Fire Blaze: Adventure Trail",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_gemburst_pop",
+    "gameName": "GemBurst",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_ggrizzly_pop",
+    "gameName": "Giant Grizzly",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_gpnyg_pop",
+    "gameName": "Gold Pile: New Years Gold",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_ttreasure_pop",
+    "gameName": "Gold Pile™: Toltec Treasure",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_jhreels_pop",
+    "gameName": "Joker Hot Reels",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_lemeralds_pop",
+    "gameName": "Lucky Emeralds",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_mwilds_pop",
+    "gameName": "Midnight Wild",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_rrider_pop",
+    "gameName": "Retro Rush",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_sstrike_pop",
+    "gameName": "Stallion Strike",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_wlava_pop",
+    "gameName": "Wild Lava",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_wwd_pop",
+    "gameName": "Wild West Wilds",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_28dman_pop",
+    "gameName": "28 Mansions",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_gogold_pop",
+    "gameName": "Age of the Gods Norse: Book of Dwarves",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_cways_pop",
+    "gameName": "Caishen Ways",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_caravantcro_eye",
+    "gameName": "Caravan To Cairo",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_1fc2f43a_eye",
+    "gameName": "Clover Rollover 2",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_fgift_pop",
+    "gameName": "Frogs Gift",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_buddhaways_pop",
+    "gameName": "Golden Ways",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_heartburst_eye",
+    "gameName": "Heartburst",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_lotwild2_pop",
+    "gameName": "Legacy of the Wild 2",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_lucharumble_eye",
+    "gameName": "Lucha Rumble",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_lottiger_pop",
+    "gameName": "Mega Fire Blaze: Legacy of the Tiger",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_strongox_pop",
+    "gameName": "Ox Riches",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_hydra_pop",
+    "gameName": "PowerZones: Legend of Hydra",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_047c7908_eye",
+    "gameName": "Shamans Dream 2",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_xngnbzh_eye",
+    "gameName": "Xingyun BaoZhu",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_bblitz2_pop",
+    "gameName": "Buffalo Blitz II",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_dragonchi_pop",
+    "gameName": "Dragon Chi",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_extrfruits_pop",
+    "gameName": "Extreme Fruits Ultimate",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_rempress_pop",
+    "gameName": "Fire Blaze: River Empress",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_rgift_pop",
+    "gameName": "Gem Splash: Rainbows Gift",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "infdrg",
+    "gameName": "Infinity Dragon",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "lumli",
+    "gameName": "Luminous Life",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_spacedig_pop",
+    "gameName": "Space Digger",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_aogrotsea_pop",
+    "gameName": "AOTG Ruler of the Seas",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_bomaway_pop",
+    "gameName": "Bombs",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_crystallotus_eye",
+    "gameName": "Crystal Lotus",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_cupcarnaval_eye",
+    "gameName": "Cup Carnaval",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_sgift_pop",
+    "gameName": "Fire Blaze: Sisters Gift",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_frwrksfrnz_eye",
+    "gameName": "Fireworks Frenzy",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_flfffvrts_eye",
+    "gameName": "Fluffy Favourites",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_tfortune_pop",
+    "gameName": "Gold Pile: Tigers Pride",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_pluck_pop",
+    "gameName": "Panda Luck",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_stampede_eye",
+    "gameName": "Stampede",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "totl",
+    "gameName": "Treasures of the lamps",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_whitewizard_eye",
+    "gameName": "White Wizard",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_hice_pop",
+    "gameName": "Hainan Ice",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_cotvalk_pop",
+    "gameName": "Call Of The Valkyries",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_boking_pop",
+    "gameName": "Book of Kings",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_aogetroy_pop",
+    "gameName": "Age of the Gods - Epic Troy",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_5aogold_pop",
+    "gameName": "5 Ages of Gold",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "agoeg",
+    "gameName": "Age of Egypt",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_a3250b6e_skw",
+    "gameName": "Cai Shen Da Hai",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_sw_fufarm_skw",
+    "gameName": "Fu Farm",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_swfufishintw_skw",
+    "gameName": "Fu Fish",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_swfufishjp_skw",
+    "gameName": "Fu Fish Jackpot",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_sw_or_skw",
+    "gameName": "Ocean Ruler",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "aogmt",
+    "gameName": "Age Of The Gods : Mighty Midas",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "aogmm",
+    "gameName": "Age of the Gods : Medusa & Monsters",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "aogrots",
+    "gameName": "Age of the Gods : Ruler of the Sky",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "ub",
+    "gameName": "Ugga Bugga",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "ashwdw",
+    "gameName": "Wild Wishes",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "hb",
+    "gameName": "A Night Out",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "ashadv",
+    "gameName": "Adventures in Wonderland Deluxe",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "aogs",
+    "gameName": "Age Of Gods",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "ftsis",
+    "gameName": "Age of the Gods : Fate Sisters",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "furf",
+    "gameName": "Age of the Gods : Furious Four",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "athn",
+    "gameName": "Age of the Gods : Goddess of Wisdom",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "zeus",
+    "gameName": "Age of the Gods : King of Olympus",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "hrcls",
+    "gameName": "Age of the Gods : Prince of Olympus",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "aeolus",
+    "gameName": "Age of the Gods : God of Storms",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "ashamw",
+    "gameName": "Amazon Wild",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "anwild",
+    "gameName": "Anaconda Wild",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "arc",
+    "gameName": "Archer",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "art",
+    "gameName": "Arctic Treasure",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gtsatq",
+    "gameName": "Atlantis Queen",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "bs",
+    "gameName": "Bai Shi",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "bl",
+    "gameName": "Beach Life",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "bt",
+    "gameName": "Bermuda Triangle",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "bob",
+    "gameName": "Bonus Bears",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "ashbob",
+    "gameName": "Bounty of the Beanstalk",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "bfb",
+    "gameName": "Buffalo Blitz",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "ct",
+    "gameName": "Captain's Treasure",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "ctiv",
+    "gameName": "Cat In Vegas",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "catqc",
+    "gameName": "Cat Queen",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "chl",
+    "gameName": "Cherry Love",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "ashcpl",
+    "gameName": "Chests of Plenty",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "ccccny",
+    "gameName": "Coin Coin Coin CNY",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gtscnb",
+    "gameName": "Cops N' Bandits",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gtscbl",
+    "gameName": "Cowboys & Aliens",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "mobdt",
+    "gameName": "Desert Treasure",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "dnr",
+    "gameName": "Dolphin Reef",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "drgch",
+    "gameName": "Dragon Champions",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "eas",
+    "gameName": "Easter Surprise",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "esm",
+    "gameName": "Esmeralda",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "evj",
+    "gameName": "Everybody's Jackpot",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "fcgz",
+    "gameName": "Fei Cui Gong Zhu",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gtsflzt",
+    "gameName": "Fei Long Zai Tian",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "ftg",
+    "gameName": "Five Tiger Generals",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "foy",
+    "gameName": "Fountain of Youth",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gtsfc",
+    "gameName": "Football Carnival",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "fbr",
+    "gameName": "Football Rules",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "fow",
+    "gameName": "Forest of Wonders",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "frtf",
+    "gameName": "Fortunate 5",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "fday",
+    "gameName": "Fortune Day",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "fxf",
+    "gameName": "Fortunes of the Fox",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "fdt",
+    "gameName": "Frankie Dettori's Magic Seven",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "fdtjg",
+    "gameName": "Frankie Dettori's Magic Seven Jackpot",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "fmn",
+    "gameName": "Fruit Mania",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "ashfmf",
+    "gameName": "Full Moon Fortunes",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "fff",
+    "gameName": "Funky Fruits Farm",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "fnfrj",
+    "gameName": "Funky Fruits",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "fm",
+    "gameName": "Funky Monkey",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "fmjp",
+    "gameName": "Funky Monkey Jackpot",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "popc",
+    "gameName": "Gaelic Luck",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "glrj",
+    "gameName": "Gladiator Jackpot",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "grel",
+    "gameName": "Gold Rally",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gos",
+    "gameName": "Golden Tour",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "bib",
+    "gameName": "Great Blue",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "grbjp",
+    "gameName": "Great Blue Jackpot",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "hlf",
+    "gameName": "Halloween Fortune",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "hlf2",
+    "gameName": "Halloween Fortune 2",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "hh",
+    "gameName": "Haunted House",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "hk",
+    "gameName": "Highway Kings",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gts50",
+    "gameName": "Hot Gems",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "hotktv",
+    "gameName": "Hot KTV",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "aztec",
+    "gameName": "Inca Jackpot",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "ashicv",
+    "gameName": "Ice Cave",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "irl",
+    "gameName": "Irish Luck",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "jpgt",
+    "gameName": "Jackpot Giant",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gtsje",
+    "gameName": "Jade Emperor",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gtsjxb",
+    "gameName": "Ji Xiang 8",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "jnglg",
+    "gameName": "Jungle Giants",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "lndg",
+    "gameName": "Land of Gold",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "legwld",
+    "gameName": "Legacy Of The Wild",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "ght_a",
+    "gameName": "Lie Yan Zuan Shi",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "kfp",
+    "gameName": "Liu Fu Shou",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "ljxy",
+    "gameName": "Long Jia Xiang Yun",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "lm",
+    "gameName": "Lotto Madness",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "mgstk",
+    "gameName": "Magical Stacks",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gtsmrln",
+    "gameName": "Marilyn Monroe",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "mnkmn",
+    "gameName": "Monkey Mania",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "mfrt",
+    "gameName": "Miss Fortune",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "mcb",
+    "gameName": "Mr. Cashback",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "nk",
+    "gameName": "Neptunes Kingdom",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "nian",
+    "gameName": "Nian Nian You Yu",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pmn",
+    "gameName": "Panther Moon",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pgv",
+    "gameName": "Penguin Vacation",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pst",
+    "gameName": "Pharaoh's Secrets",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "phtd",
+    "gameName": "Pharaoh’s Treasure Deluxe",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "paw",
+    "gameName": "Piggies and the Wolf",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pnp",
+    "gameName": "Pink Panther",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pisa",
+    "gameName": "Pixel Samurai",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gtspor",
+    "gameName": "Plenty O'Fortune",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "phot",
+    "gameName": "Purple Hot",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "photk",
+    "gameName": "Purple Hot Kiosk",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "ririjc",
+    "gameName": "Ri Ri Jin Cai",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "ririshc",
+    "gameName": "Ri Ri Sheng Cai",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "rky",
+    "gameName": "Rocky",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "rng2",
+    "gameName": "Rome and Glory",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "sfh",
+    "gameName": "Safari Heat",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gtssmbr",
+    "gameName": "Samba Brazil",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "ssp",
+    "gameName": "Santa Surprise",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "samz",
+    "gameName": "Secrets of the Amazon",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "shmst",
+    "gameName": "Sherlock Mystery",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "sis",
+    "gameName": "Silent Samurai",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "sib",
+    "gameName": "Silver Bullet",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "ashsbd",
+    "gameName": "Sinbad's Golden Voyage",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "sol",
+    "gameName": "Streak of Luck",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gtsswk",
+    "gameName": "Sun Wukong",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "slion",
+    "gameName": "Super Lion",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "cnpr",
+    "gameName": "Sweet Party",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "tpd2",
+    "gameName": "Thai Paradise",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "tht",
+    "gameName": "Thai Temple",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gtsgme",
+    "gameName": "The Great Ming Empire",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "donq",
+    "gameName": "The Riches of Don Quixote",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "tigc",
+    "gameName": "Tiger Claw",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "ashtmd",
+    "gameName": "Time for a Deal",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "topg",
+    "gameName": "Top Gun",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "ttc",
+    "gameName": "Top Trump Celebs",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "er",
+    "gameName": "Vacation Station",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "vcstd",
+    "gameName": "Vacation Station Deluxe",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gts52",
+    "gameName": "Vikingmania",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "wotp",
+    "gameName": "Ways of the Phoenix",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "whk",
+    "gameName": "White King",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "whk2",
+    "gameName": "White King 2",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gtswg",
+    "gameName": "Wild Gambler",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "ashwgaa",
+    "gameName": "Wild Gambler: Arctic Adventure",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "wlg",
+    "gameName": "Wu Long",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "wlcsh",
+    "gameName": "Wu Lu Cai Shen",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "xufe",
+    "gameName": "Xuan Pu Lian Huan",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "yclong",
+    "gameName": "Yun Cong Long",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "zcjb",
+    "gameName": "Zhao Cai Jin Bao",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "zcjbjp",
+    "gameName": "Zhao Cai Jing Bao Jackpot",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_gmacaque_pop",
+    "gameName": "Golden Macaque",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_swes_skw",
+    "gameName": "Egypt Spin",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_swfshprwncr_skw",
+    "gameName": "Fish Prawn Crab",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_swsc_skw",
+    "gameName": "Savannah Cash",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_sw_sland_skw",
+    "gameName": "Sugar Land",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_swwg_skw",
+    "gameName": "Warriors Gold",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_swtm_skw",
+    "gameName": "Triple Monkey",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_swshctz_skw",
+    "gameName": "Zhao Cai Tong Zi",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_sw_8tr1qu_skw",
+    "gameName": "8 Treasures 1 Queen",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_swaf_skw",
+    "gameName": "Asian Fantasy",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_sw_ar_skw",
+    "gameName": "Aztec Reel",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_bwizard_pop",
+    "gameName": "Blue Wizard",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_dbond_pop",
+    "gameName": "Dragon Bond",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_elady_pop",
+    "gameName": "Eternal Lady",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_fatchoy_pop",
+    "gameName": "Fat Choy Choy Sun",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_fiesta_pop",
+    "gameName": "Fiesta de la Memoria",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_sw_fr_skw",
+    "gameName": "Fire Reel",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_swfl_skw",
+    "gameName": "Fortune Lions",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_swhcs_skw",
+    "gameName": "Haoshi Cheng Shuang",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_jflong_pop",
+    "gameName": "Jinfu Long",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_xjinfu_pop",
+    "gameName": "Jinfu Xingyun",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_sw_mr_skw",
+    "gameName": "Metal Reel",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_nsshen_pop",
+    "gameName": "Ni Shu Shen Me",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_scqueen_pop",
+    "gameName": "Pharaoh’s Daughter",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_sw_rm_ab_jp_skw",
+    "gameName": "Respin Mania Wu Shi Jackpot",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_sw_rr_skw",
+    "gameName": "Riverboat Reel",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_sjungle_pop",
+    "gameName": "Savage Jungle",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_satsumo_pop",
+    "gameName": "Satsumo's Revenge",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_swsl_skw",
+    "gameName": "Si Ling",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_squeen_pop",
+    "gameName": "Sky Queen",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_tsgift_pop",
+    "gameName": "Tsai Shen's Gift",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_tigertdp_pop",
+    "gameName": "Tiger Turtle Dragon Phoenix",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "gpas_tstacks_pop",
+    "gameName": "Tiger Stacks",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_sw_wrl_skw",
+    "gameName": "Water Reel",
+    "alternate": "none"
+  },
+  {
+    "gameCode": "pop_sw_yxlb_skw",
+    "gameName": "Ying Xiong Lu Bu",
+    "alternate": "none"
+  }
+]

@@ -1,0 +1,356 @@
+.register{
+
+    .DesktopRegister{
+        display: $desktopA; 
+        
+        .col-register{
+            background-color:#ec1c24;
+            color:#fff;
+            padding-top:10px;
+            padding-bottom:10px;
+            font-weight: bold;
+        }
+    
+        .register-content{
+            background-color:#000;
+            padding:10px 30px 30px 30px;
+    
+            .register-section-container{
+                //overflow: hidden;
+                //margin-bottom:25px;
+    
+                .register-section-title{
+                    background-color:#fff;
+                    color:#000;
+                    padding:20px 10px;
+                    font-weight: bold;
+                    font-size: 24px;
+                    font-family: 'Ubuntu', sans-serif;
+                }
+    
+                .register-section-content{
+                    background-color:#320033;
+                    padding:25px 25px;
+                    font-family: 'Roboto', sans-serif;
+    
+                    .register-form-row{
+                        margin-bottom:25px;
+                    }
+                    .register-form-row-last{
+                        margin-bottom:0px;
+                    }
+    
+                    .register-form-label{
+                        padding-top:4px;
+                        color:#fff;
+                        font-weight: bold;
+    
+                        .small-note{
+                            font-size: 13px;
+                            font-weight: lighter;
+                            margin-top:-8px;
+                            font-style: italic;
+                        }
+                    }
+    
+                    .checkbox-col{
+                        padding-top:20px;
+                    }
+    
+                    .register-form-input{
+    
+                        .small-checkbox-text{
+                            font-size: 13px;
+                            font-weight: bold;
+                            line-height: 1.5;
+                            color: white;
+                        }
+                        
+                        .reset-button{
+                            background-color:#C72026;
+                            color:#fff;
+                            width:100%;
+                            border:1px solid #c72026;
+                            border-radius:20px;
+                        }
+    
+                        .submit-button{
+                            background-color:#fe9900;
+                            color:#000;
+                            font-weight: bold;
+                            width:180px;
+                            border:1px solid #000;
+                            
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .MobileRegister{
+        display: $mobileA; 
+
+        .col-register{
+            background-color:#ec1c24;
+            color:#fff;
+            padding-top:10px;
+            padding-bottom:10px;
+            font-weight: bold;
+        }
+    
+        .register-content{
+            background-color:#990000;
+            padding:15px;
+    
+            .register-section-container{
+                //overflow: hidden;
+                //margin-bottom:25px;
+    
+                .register-section-title{
+                    background-color:#000;
+                    color:#fff;
+                    padding:20px 10px;
+                    font-weight: bold;
+                    font-size: 24px;
+                    font-family: 'Ubuntu', sans-serif;
+                }
+    
+                .register-section-content{
+                    background-color:#000;
+                    color: #fff;
+                    border-top: 1px solid gray;
+                    padding:25px 5px;
+                    font-family: 'Roboto', sans-serif;
+    
+                    .register-form-row{
+                        margin-bottom:25px;
+                    }
+                    .register-form-row-last{
+                        margin-bottom:0px;
+                    }
+    
+                    .register-form-label{
+                        padding-top:4px;
+                        color:#fff;
+                        font-weight: bold;
+    
+                        .small-note{
+                            font-size: 13px;
+                            font-weight: lighter;
+                            margin-top:-8px;
+                            font-style: italic;
+                        }
+                    }
+    
+                    .checkbox-col{
+                        padding-top:20px;
+                    }
+    
+                    .register-form-input{
+    
+                        .small-checkbox-text{
+                            font-size: 13px;
+                            font-weight: bold;
+                            line-height: 1.5;
+                        }
+                        
+                        .reset-button{
+                            background-color:#C72026;
+                            color:#fff;
+                            width:100%;
+                            border:1px solid #c72026;
+                            border-radius:20px;
+                        }
+    
+                        .submit-button{
+                            background-color:#f18713;
+                            color:#fff;
+                            width:180px;
+                            border:1px solid white;
+                            
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    @media (max-width: 850px) {
+        .DesktopRegister{
+            display: $desktopB; 
+
+            .col-register{
+                background-color:#ec1c24;
+                color:#fff;
+                padding-top:10px;
+                padding-bottom:10px;
+                font-weight: bold;
+            }
+        
+            .register-content{
+                background-color:#990000;
+                padding:30px;
+        
+                .register-section-container{
+                    //overflow: hidden;
+                    //margin-bottom:25px;
+        
+                    .register-section-title{
+                        background-color:#fff;
+                        color:#000;
+                        padding:20px 10px;
+                        font-weight: bold;
+                        font-size: 24px;
+                        font-family: 'Ubuntu', sans-serif;
+                    }
+        
+                    .register-section-content{
+                        background-color:#999;
+                        padding:25px 25px;
+                        font-family: 'Roboto', sans-serif;
+        
+                        .register-form-row{
+                            margin-bottom:25px;
+                        }
+                        .register-form-row-last{
+                            margin-bottom:0px;
+                        }
+        
+                        .register-form-label{
+                            padding-top:4px;
+                            color:#000;
+                            font-weight: bold;
+        
+                            .small-note{
+                                font-size: 13px;
+                                font-weight: lighter;
+                                margin-top:-8px;
+                                font-style: italic;
+                            }
+                        }
+        
+                        .checkbox-col{
+                            padding-top:20px;
+                        }
+        
+                        .register-form-input{
+        
+                            .small-checkbox-text{
+                                font-size: 13px;
+                                font-weight: bold;
+                                line-height: 1.5;
+                            }
+                            
+                            .reset-button{
+                                background-color:#C72026;
+                                color:#fff;
+                                width:100%;
+                                border:1px solid #c72026;
+                                border-radius:20px;
+                            }
+        
+                            .submit-button{
+                                background-color:#000;
+                                color:#fff;
+                                width:180px;
+                                border:1px solid #000;
+                                
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        .MobileRegister{
+            display: $mobileB; 
+
+            .col-register{
+                background-color:#ec1c24;
+                color:#fff;
+                padding-top:10px;
+                padding-bottom:10px;
+                font-weight: bold;
+            }
+        
+            .register-content{
+                background-color:#f1e60d;
+                padding:15px;
+        
+                .register-section-container{
+                    //overflow: hidden;
+                    //margin-bottom:25px;
+        
+                    .register-section-title{
+                        background-color:#000;
+                        color:#fff;
+                        padding:20px 10px;
+                        font-weight: bold;
+                        font-size: 24px;
+                        font-family: 'Ubuntu', sans-serif;
+                    }
+        
+                    .register-section-content{
+                        background-color:#000;
+                        color: #fff;
+                        border-top: 1px solid gray;
+                        padding:25px 5px;
+                        font-family: 'Roboto', sans-serif;
+        
+                        .register-form-row{
+                            margin-bottom:25px;
+                        }
+                        .register-form-row-last{
+                            margin-bottom:0px;
+                        }
+        
+                        .register-form-label{
+                            padding-top:4px;
+                            color:#fff;
+                            font-weight: bold;
+        
+                            .small-note{
+                                font-size: 13px;
+                                font-weight: lighter;
+                                margin-top:-8px;
+                                font-style: italic;
+                            }
+                        }
+        
+                        .checkbox-col{
+                            padding-top:20px;
+                        }
+        
+                        .register-form-input{
+        
+                            .small-checkbox-text{
+                                font-size: 13px;
+                                font-weight: bold;
+                                line-height: 1.5;
+                            }
+                            
+                            .reset-button{
+                                background-color:#C72026;
+                                color:#fff;
+                                width:100%;
+                                border:1px solid #c72026;
+                                border-radius:20px;
+                            }
+        
+                            .submit-button{
+                                background-color:#fe9900;
+                                color:#000;
+                                font-weight: bold;
+                                width:180px;
+                                border:1px solid white;
+                                
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    
+}

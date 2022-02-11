@@ -1,0 +1,387 @@
+.wallet {
+
+  background-color:#ddd;
+
+  .ButtonHome{
+    display: none;
+  }
+
+  .KategoriHome{
+    display: none;
+  }
+
+  th.text-center{
+    color: white !important;
+    background-color: black;
+  }
+
+  td.text-center{
+    color:white !important;
+    background-color: #707070;
+  }
+
+  td{
+    color:white !important;
+    background-color: #707070;
+  }
+
+  .text-report{
+      color: black !important;
+  }
+
+  .card-wallet {
+    background-color: #fff; 
+    border-radius: 10px;
+  }
+
+  .img-tab {
+    width: 5%;
+  }
+
+  .table-data {
+    background-color:#5574A7;
+  }
+
+  .credit-list-title{
+    font-size: 16px;
+    font-weight: bold;
+    text-align: left;
+    padding-top:8px;
+  }
+
+  .credit-btn-refreh{
+    padding-bottom:10px;
+    text-align: right;
+  }
+
+  .credit-row{
+    background-color:#d9d9d9;
+    border-bottom: 1px solid #888;
+
+    .credit-code{
+      text-align: left;
+      padding:6px 15px;
+    }
+
+    .credit-balance{
+      text-align: right;
+      padding:6px 16px;
+    }
+  }
+
+
+  .text-wallet-1 {
+    color:black;
+    font-weight: bold;
+    margin: 0% 2%;
+  }
+
+  .form-control {
+    width: 100%;
+  }
+
+  @media (max-width: 850px) {
+
+    .ButtonHome{
+      display: block;
+    }
+  
+    .KategoriHome{
+      display: block;
+    }
+
+    .form-control {
+      font-size: 10px;
+      width: 100%;
+    }
+
+    .form-control-2 {
+      font-size: 10px;
+      width: 100%;
+      word-break: break-all;
+    }
+    
+    .form-cont-col
+    {
+      padding: 0px 0px;
+    }
+  }
+
+  .row-text-wallet {
+    width: 100%;
+    padding: 0%;
+    margin: 0%;
+    height: 50%;
+  }
+
+  .row-table-wallet {
+    width: 100%;
+  }
+
+  .col-text-wallet {
+    width: 100%;
+    padding: 0% 0%;
+    margin: 1% 0%;
+  }
+
+  .btn-sispay {
+    color: #189C8C;
+    font-weight: bold;
+    background-color: #ffffff;
+    border: 3px solid #189C8C;
+    border-radius: 30px;
+    font-size: 14px;
+    width: 100%;
+    height: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .btn-bank {
+    color:#043B99;
+    font-weight: bold;
+    background-color: #ffffff;
+    border: 3px solid #043B99;
+    border-radius: 30px;
+    font-size: 14px;
+    width: 100%;
+    height: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .submit-button-2 {
+    color: #fff;
+    background-color: #000000;
+    border: 2px solid #ff0000;
+    font-size: 14px;    
+    height: 100%;
+  }
+
+  .submit-button-3 {
+    color: #fff;
+    background-color: #5574A7;
+    border: 1px solid #041734;
+    font-size: 14px;
+    height: 100%;
+  }
+
+  .custom-mb{
+    padding-bottom:0px;
+  }
+
+  @media (max-width: 850px) {
+    
+    .table-data {
+      background-color:#5574A7;
+      font-size: 10px;
+    }
+
+    .img-tab {
+      width: 25%;
+    }
+
+    .text-tab {
+      font-size: 12px;
+    }
+
+    .text-table {
+      font-size: 10px;
+    }
+
+    .submit-button-2 {
+      width: 100%;
+    }
+
+    .row-table-wallet {
+      width: 20%;
+    }
+
+    .submit-button-3{
+      width:100%;
+    }
+
+    .custom-mb{
+      padding-bottom:10px;
+    }
+  }
+
+  .custom-tab{
+    border-radius: 0px;
+  }
+
+  .nav-tabs{
+    background-color:#272600 !important;
+  }
+
+  .nav-link {
+    background-color:#000;
+    color: white;
+    margin: 5px;   
+    border: 2px solid white;
+    border-radius: 10px;
+   }
+  
+   .nav-link.active {
+    background-color :  #fff;
+    color: black;
+    margin: 5px;   
+    border: 2px solid black;
+    border-radius: 10px;
+    
+   }
+    
+  .col-wallet {
+    background-color: #44130d;
+    color: #fff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+  }
+
+  .wallet-content {
+    background-color:#000;
+    padding: 20px;
+
+    .wallet-section-container {
+      border-radius: 20px;
+      overflow: hidden;
+      margin-bottom: 25px;
+
+      .wallet-section-title {
+        background-color: #ec1c24;
+        color: #fff;
+        padding: 8px 20px;
+        font-weight: bold;
+      }
+
+      .wallet-section-content {
+        background-color: transparent;
+        padding: 2px 40px;
+
+        .align-left{
+          text-align: left;
+        }
+
+        .wallet-form-row {
+          margin-bottom: 25px;
+        }
+        .wallet-form-row-last {
+          margin-bottom: 0px;
+        }
+
+        .wallet-form-label {
+          padding-top: 4px;
+          color: #fff;
+          font-weight: bold;
+        }
+
+        .deposit {
+          .submit-button {
+            color: #fff;
+            background-color: #5574A7;
+            border: 1px solid #041734;
+            font-size: 14px;
+            width: 180px;
+          }
+        }
+
+        .tab-button {
+          background-color: #c72026;
+          color: #fff;
+          width: 100%;
+          border: 1px solid #c72026;
+          border-radius: 20px;
+        }
+
+      }
+
+      @media (max-width: 850px) {
+        .wallet-section-content {
+          padding: 2px 10px;
+        }
+      }
+    }
+  }
+
+  .col-no-padding{
+    padding-left:0px;
+    padding-right:0px;
+  }
+
+  .col-type{
+    width:100%;
+    padding:12px;
+    background:#666;
+    color:#000;
+    text-align: center;
+    border:1px solid #555;
+    margin-bottom:2px;
+  }
+
+  @media (max-width: 850px) {
+    .col-type{
+      width:100%;
+      padding:2px;
+      background:#666;
+      color:#000;
+      text-align: center;
+      border:1px solid #555;
+      margin-bottom:2px;
+    }
+  }
+
+  .col-type-active{
+    background-color:#D1D1D1 !important;
+  }
+
+  .font-weight-bold{
+    font-size:14px;
+    color: white;
+  }
+  
+  .tab-deposit-container{
+    width:100%;
+    padding:12px;
+    background-color:#f2f2f2;
+    min-height:200px;
+
+    .tab-deposit-content{
+      border:1px solid #aaa;
+      min-height:176px;
+      padding:15px;
+    }
+  }
+
+  @media (max-width: 850px) {
+    .tab-deposit-container{
+      width:100%;
+      padding:12px 5px;
+      background-color:#f2f2f2;
+      min-height:200px;
+  
+      .tab-deposit-content{
+        border:1px solid #aaa;
+        min-height:176px;
+        padding:15px;
+      }
+    }
+
+    .container-fluid
+    {
+      padding: 0px 0px;
+    }
+
+    .margin-form-cont
+    {
+      margin-top: 10px;
+    }
+  }
+}
+
+.title-deposit{
+  font-size: 14px; 
+  font-weight: bold; 
+  margin-left:20px;
+  margin-bottom:20px;
+}

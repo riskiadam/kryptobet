@@ -1,0 +1,582 @@
+.animation-text{
+    font-family:'advanced_dot_digital7'; 
+    bottom: 10%; 
+    left: 63%;  
+    transform: translate(-50%, -50%); 
+    padding: 0px; 
+    width:1000px;
+}
+
+.animation-text-value{
+    color:#B300EE; 
+    font-size:40px; 
+    font-weight:bold;
+}
+
+.carousel-control-next-icon{
+    background-image: none;
+}
+
+.carousel-control-prev-icon{
+    background-image: none;
+}
+
+.text-menu-bottom{
+    background-color: #000; 
+    border: 0px; 
+    margin-left:1px; 
+    margin-right:1px;
+}
+
+.bank-img{
+    width:100%;
+}
+
+.row-deskripsi-hokilay{
+    padding-right: 120px;
+}
+
+.DesktopHome{
+    display: block; 
+}
+
+.MobileHome{
+    display: none; 
+}
+
+.home{    
+
+    .ButtonHome{
+        background-image: linear-gradient( #0B0000, #400000, #680000); 
+        padding:0px; 
+        margin:0px;
+    }
+
+    .KategoriHome{
+        background-color: #000000;
+        padding:0px; 
+        margin:0px;
+    }
+
+    .home-text-title{
+        font-family: Arial, Helvetica, sans-serif;
+        background-color:#dad017; 
+        text-align: center;
+        color: #000;
+        padding:20px;
+        margin: 10px 20px;
+    }
+
+    .home-subtext-title{
+        font-family: Arial, Helvetica, sans-serif;
+        padding:0px 20px;
+        margin: 0px 20px;
+    }
+
+    .home-text-description{
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight:bold;
+        font-size: 20px;
+        color: black;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .home-subtext-subdescription{
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight:bold;
+        font-size: 20px;
+        color: #000;
+        background-color: #fff;
+        margin: 0px;
+        padding: 10px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .home-subtext-subdescription-small{
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight:bold;
+        font-size: 15px;
+        color: #000;
+        background-color: #fff;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 0px;
+        margin-top: 0px;
+        padding: 10px;
+        text-align: center;
+    }
+
+    .home-text-subtitle{
+        font-family: Arial, Helvetica, sans-serif;
+        background-color:black; 
+        padding:20px;
+        margin: 10px 20px;
+    }
+
+    .home-subtext-description{
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: justify;
+        text-justify: inter-word;
+        line-height: 180%;
+        color: white;
+        font-size: 15px;
+        margin: 0px;
+    }
+
+    .home-subtext-description a{
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: justify;
+        text-justify: inter-word;
+        line-height: 180%;
+        color: #DAD017;
+        font-size: 15px;
+        margin: 0px;
+    }
+
+    .home-banner-container{
+        background-image: linear-gradient(#000, #220021, #2A0129, #320033);
+        padding:20px;
+
+        .custom-padding-banner{
+            padding-left:7px;
+            padding-right:7px;
+            text-align: center;
+
+            img{
+                width:100%;
+            }
+        }
+    }
+
+    .home-banner-container-2{
+        background-image: linear-gradient(#320033, #320033, #320033, #270028);
+        padding:20px;
+
+        .custom-padding-banner-2{
+            padding-left:7px;
+            padding-right:7px;
+            text-align: center;
+
+            img{
+                width:100%;
+            }
+        }
+    }
+
+    .home-banner-container-3{
+        background-image: linear-gradient(#270028, #190119, #060006, #000000);
+        padding:20px 20px;
+        color: white;
+        font-weight: bold;
+        height: 100px;
+
+        .custom-padding-banner-2{
+            padding-left:7px;
+            padding-right:7px;
+            text-align: center;
+
+            img{
+                width:100%;
+            }
+        }
+    }
+
+    .home-iframe-container{
+        padding-left:25px;
+        padding-right:25px;
+        margin-left: 25px;
+        margin-right: 25px;
+        margin-bottom: 15px;
+        border:1px solid #d9d9d9;
+
+        iframe{
+            border:1px solid #d9d9d9;
+        }
+    }
+
+    .home-description-container{
+        color:#fff;
+        padding:10px 20px;
+        text-align: center;
+        
+        span{
+            font-size:18px;
+            font-family: Helvetica, Arial, sans-serif;
+        }
+
+        p{
+            margin-top:10px;
+        }
+    }
+
+    .btn-cektoto{
+        color: #fff;
+        font-weight: bold;
+        background-color: #555C68;
+        border: 0px solid #C1D2D6;
+        border-radius: 0px;
+        padding: 0px;
+        font-size: 14px;
+        width: 200px;
+        height: 150px;
+        padding-top:10px; 
+        margin-bottom: 20px;
+        margin-left: 5px;      
+        margin-right: 5px;      
+    }
+
+    .btn-cektoto-span{
+        font-weight: bold; 
+        font-size: 22px; 
+        text-align: center;        
+    }
+
+    .btn-cektoto-date{
+        padding:0px; 
+        margin:0px; 
+        margin-top:10px; 
+        background-color:#616A7B      
+    }
+
+    .btn-cektoto-date-details{
+        padding:0px; 
+        margin:0px; 
+        margin-top:12px;     
+    }
+
+    .btn-cektoto-date-p{
+        font-weight: bold; 
+        font-size: 10px;     
+    }
+
+    .btn-cektoto-score{
+        font-weight: bold; 
+        font-size: 25px;    
+    }    
+
+    .informasi-cektoto{
+        background-image: linear-gradient( #000000, #0B0000); 
+        margin:0px;  
+        padding-top:20px; 
+        padding-bottom:30px; 
+        border-bottom: 1px solid white;
+    }
+
+    .informasi-games{
+        margin:0px; 
+        padding:0px; 
+        background-image: linear-gradient( #0B0000, #270000, #330000); 
+        padding-top:20px; 
+        padding-bottom:20px; 
+        border-bottom: 1px solid white;
+    }
+
+    .informasi-games-span{
+        font-weight: bold; 
+        font-size: 15px; 
+        text-align: center; 
+        color:white; 
+    }
+
+    .informasi-games-row{
+        padding-right: 12px;
+        padding-left: 10px;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+
+    .informasi-games-img{
+        height:50%; 
+        width:10%;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+    .informasi-games-img:hover{
+        cursor: pointer;
+    }
+
+    .informasi-games-img-2{
+        height:50%; 
+        width:9%;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    
+    .informasi-games-img-2:hover{
+        cursor: pointer;
+    }
+
+    @media (max-width: 850px) {     
+            
+        .informasi-games-img{
+            height:50%; 
+            width:8%;
+        }
+
+        .informasi-games-img-2{
+            height:50%;  
+            width:6.5%;
+        } 
+        
+        .home-banner-container-3{
+            background-image: linear-gradient(#270028, #190119, #060006, #000000);
+            padding:0px;
+            color: white;
+            font-weight: bold;
+            height: 40px;
+    
+            .custom-padding-banner-2{
+                padding-left:7px;
+                padding-right:7px;
+                text-align: center;
+    
+                img{
+                    width:100%;
+                }
+            }
+        }
+    }
+
+    @media (max-width: 850px){
+    
+        .DesktopHome{
+            display: $desktopB;
+        }
+        
+        .MobileHome{
+            display: $mobileB;            
+        }
+
+        .ButtonHome{
+            background-image: linear-gradient( #0B0000, #400000, #680000); 
+            padding:0px; 
+            margin:0px;
+        }
+
+        .KategoriHome{
+            background-color: #000000;
+            padding:0px; 
+            margin:0px;
+        }
+
+        .home-banner-container{
+            padding:20px;
+
+            .custom-padding-banner{
+                padding-left:7px;
+                padding-right:7px;
+                text-align: center;
+
+                img{
+                    width:100%;
+                }
+            }
+        }
+
+        .home-iframe-container{
+            padding-left:25px;
+            padding-right:25px;
+            margin-left: 25px;
+            margin-right: 25px;
+            margin-bottom: 15px;
+            border:1px solid #d9d9d9;
+
+            iframe{
+                border:1px solid #d9d9d9;
+            }
+        }
+
+        .home-description-container{
+            color:#fff;
+            padding:10px 20px;
+            text-align: center;
+            
+            span{
+                font-size:18px;
+                font-family: Helvetica, Arial, sans-serif;
+            }
+
+            p{
+                margin-top:10px;
+            }
+        }
+
+        .btn-cektoto{
+            color: #fff;
+            font-weight: bold;
+            background-color: #555C68;
+            border: 0px solid #C1D2D6;
+            border-radius: 0px;
+            padding: 0px;
+            font-size: 14px;
+            width: 130px;
+            height: 130px;
+            padding-top:10px; 
+            margin-bottom: 35px;
+            margin-left: 5px;      
+            margin-right: 5px;      
+        }
+
+        .btn-cektoto-span{
+            font-weight: bold; 
+            font-size: 22px; 
+            text-align: center;        
+        }
+
+        .btn-cektoto-date{
+            padding:0px; 
+            margin:0px; 
+            margin-top:10px; 
+            background-color:#616A7B      
+        }
+
+        .btn-cektoto-date-details{
+            padding:0px; 
+            margin:0px; 
+            margin-top:12px;     
+        }
+
+        .btn-cektoto-date-p{
+            font-weight: bold; 
+            font-size: 10px;     
+        }
+
+        .btn-cektoto-score{
+            font-weight: bold; 
+            font-size: 25px;    
+        }
+    
+        .informasi-cektoto{
+            background-image: linear-gradient( #000000, #0B0000); 
+            margin:0px;  
+            padding-top:20px; 
+            padding-bottom:30px; 
+            border-bottom: 1px solid white;
+        }
+
+        .informasi-cektoto-row{
+            padding : 0px;
+        }
+
+        .informasi-games{
+            margin:0px; 
+            padding:0px; 
+            background-image: linear-gradient( #0B0000, #270000, #330000); 
+            padding-top:20px; 
+            padding-bottom:20px; 
+            border-bottom: 1px solid white;
+        }
+
+        .informasi-games-span{
+            font-weight: bold; 
+            font-size: 15px; 
+            text-align: center; 
+            color:white; 
+        }
+
+        .informasi-games-row{
+            padding-right: 12px;
+            padding-left: 10px;
+            margin-top: 15px;
+            margin-bottom: 15px;
+        }
+
+        .informasi-games-img{
+            height:50%; 
+            width:10%;
+            margin-left: 5px;
+            margin-right: 5px;
+        }
+
+        .informasi-games-img:hover{
+            cursor: pointer;
+        }
+
+        .informasi-games-img-2{
+            height:50%; 
+            width:9%;
+            margin-left: 5px;
+            margin-right: 5px;
+        }
+        .informasi-games-img-2:hover{
+            cursor: pointer;
+        }
+
+        @media (max-width: 850px){     
+                
+            .informasi-games-img{
+                height:50%; 
+                width:8%;
+            }
+
+            .informasi-games-img-2{
+                height:50%;  
+                width:6.5%;
+            }            
+        }
+    }
+}
+
+@media (max-width: 850px) {
+    .DesktopHome{
+        display: none; 
+    }
+    
+    .MobileHome{
+        display: block; 
+    }
+
+    .animation-text{ 
+        font-family:'advanced_dot_digital7';  
+        transform: translate(-50%, -50%); 
+        left: 50%;
+        top: 50%;
+        padding: 0px; 
+        margin: 0px;
+        width: 100%;
+        height: auto;
+    }
+    
+    .animation-text-value{   
+        font-family:'advanced_dot_digital7';       
+        color:#f1e60d;         
+        font-size:10px; 
+        padding: 0px; 
+        margin: 0px;
+        font-weight:bold;
+    }
+
+    .text-menu-bottom{
+        background-color: #000; 
+        border: 0px; 
+        font-size: 10px;
+        margin-left:1px; 
+        margin-right:1px;
+    }
+
+    .games-type {
+        padding: 0%;
+        margin: 0%;
+    }
+
+    .bank-img {
+        width:100%;
+    }
+
+    .kolom-deskripsi {
+        margin-top: 5%;
+    }
+
+    .row-deskripsi-hokilay {
+        padding-right: 0px;
+    }
+
+    .text-description-hokilay {
+        text-align: justify;
+        text-justify: inter-word;
+        line-height: 120%;
+    }
+}

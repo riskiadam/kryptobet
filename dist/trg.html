@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head style="margin: 0%; padding:0%; width: 100%;">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link rel="icon" href="favicon.ico">
+    <!-- <title><%= htmlWebpackPlugin.options.title %></title> -->
+    <title>trillion TRG</title>
+  </head>
+  
+  <body>
+    <form method="post" id="form1">
+        <input type="hidden" id="Payload" name="Payload" value="">
+    </form>
+    <script type="text/javascript">
+
+        const queryString = window.location.search;
+        const urlParams = new URLSearchParams(queryString);
+        const payload = urlParams.get('payload');
+        const target = urlParams.get('target');
+
+        document.getElementById("Payload").value = decodeURIComponent(payload);
+        document.getElementById("form1").action = decodeURIComponent(target);
+
+        console.log(payload);
+        console.log(target);
+
+        document.getElementById("form1").submit();
+
+    </script>
+  </body>
+</html>

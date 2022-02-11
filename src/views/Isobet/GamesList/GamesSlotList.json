@@ -1,0 +1,104 @@
+[
+    {
+        "label": "Pragmatic Play",
+        "gameProviderId": 3,
+        "gameId": 0,
+        "imageUrl": "/images/games/GameImgPragmaticPlay-en.png"
+    },
+    {
+        "label": "SBO SLOT",
+        "gameProviderId": 14,
+        "gameId": 0,
+        "imageUrl": "/images/games/GameImgSboSlot-en.png"
+    },
+    {
+        "label": "CQ9",
+        "gameProviderId": 2,
+        "gameId": 0,
+        "imageUrl": "/images/games/GameImgCQNine-en.png"
+    },
+    {
+        "label": "Joker Gaming",
+        "gameProviderId": 10,
+        "gameId": 0,
+        "imageUrl": "/images/games/GameImgJokerGaming-en.png"
+    },
+    {
+        "label": "Realtime Gaming",
+        "gameProviderId": 11,
+        "gameId": 0,
+        "imageUrl": "/images/games/GameImgRealtimeGaming-en.png"
+    },
+    {
+        "label": "World Match",
+        "gameProviderId": 13,
+        "gameId": 0,
+        "imageUrl": "/images/games/GameImgWorldMatch-en.png"
+    },
+    {
+        "label": "Funky Gaming",
+        "gameProviderId": 16,
+        "gameId": 0,
+        "imageUrl": "/images/games/GameImgFunkyGames-en.png"
+    },
+    {
+        "label": "Netent",
+        "gameProviderId": 36000001,
+        "gameId": 36000001,
+        "imageUrl": "/images/games/GameImgNetent-en.png"
+    },
+    {
+        "label": "Kiron",
+        "gameProviderId": 36000002,
+        "gameId": 36000002,
+        "imageUrl": "/images/games/GameImgKiron-en.png"
+    },
+    {
+        "label": "Play N Go",
+        "gameProviderId": 36000004,
+        "gameId": 36000004,
+        "imageUrl": "/images/games/GameImgSboSlot-en.png"
+    },
+    {
+        "label": "QuickSpin",
+        "gameProviderId": 36000005,
+        "gameId": 36000005,
+        "imageUrl": "/images/games/GameImgQuickspin-en.png"
+    },
+    {
+        "label": "Red Tiger",
+        "gameProviderId": 39,
+        "gameId": 0,
+        "imageUrl": "/images/games/GameImgRedTiger-en.png"
+    },
+    {
+        "label": "Yggdrasil",
+        "gameProviderId": 22,
+        "gameId": 0,
+        "imageUrl": "/images/games/GameImgYggdrasil-en.png"
+    },
+    {
+        "label": "Gamatron",
+        "gameProviderId": 41,
+        "gameId": 0,
+        "imageUrl": "/images/games/GameImgGamatron-en.png"
+    },
+    {
+        "label": "PGSoft",
+        "gameProviderId": 35,
+        "gameId": 0,
+        "imageUrl": "/images/games/GameImgPGSoft-en.png"
+    },
+    {
+        "label": "Gioco Plus",
+        "gameProviderId": 47,
+        "gameId": 0,
+        "imageUrl": "/images/games/GameImgGiocoPlus-en.png"
+    },
+    {
+        "label": "Micro Gaming",
+        "gameProviderId": 29,
+        "gameId": 0,
+        "imageUrl": "/images/games/MicroGaming/300x300_MicrogamingLogoPNG_no_bg.png"
+    }
+]

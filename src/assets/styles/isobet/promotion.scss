@@ -1,0 +1,203 @@
+.table-promotion-content {
+  background-color: white;
+  width: 100%;
+}
+
+/* ---------------------------------------------------------------- */
+/* BUAT PROMOTION LANDSCAPE */
+/* ---------------------------------------------------------------- */
+
+.collapse-promotion {
+  background-color: #210122;
+  text-align: left;
+}
+.row-desktop {
+  max-width: 1024px;
+}
+
+.collapse-title {
+  margin-top: 5px;
+  font-size: 25px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.hr-sidemenu {
+  padding: 0;
+  margin: 4px;
+  width: 100%;
+  background-color: #dfc64f;
+}
+
+.promotion-horizontal h2 {
+  padding: 0;
+  margin: 4px;
+  font-size: 20px;
+  text-align: left;
+  font-weight: bold;
+}
+
+.promotion-horizontal h3 {
+  padding: 0;
+  margin: 4px;
+  font-size: 15px;
+  text-align: left;
+}
+
+.promotion-horizontal h4 {
+  padding: 0;
+  margin: 4px;
+  font-size: 15px;
+  text-align: left;
+}
+
+.promotion-horizontal h5 {
+  padding: 0;
+  margin: 4px;
+  font-size: 15px;
+  text-align: left;
+}
+
+.promotion-horizontal h6 {
+  padding: 0;
+  margin: 4px;
+  font-size: 15px;
+  text-align: left;
+}
+
+.promotion-horizontal p {
+  padding: 0;
+  margin: 4px;
+  font-size: 15px;
+  text-align: left;
+}
+
+@media (max-width: 550px) {
+  .collapse-promotion {
+    background-color: #210122;
+  }
+
+  .collapse-title {
+    font-size: 14px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+  }
+
+  .hr-sidemenu {
+    padding: 0;
+    margin: 3px;
+    width: 100%;
+    background-color: #dfc64f;
+  }
+
+  .promotion-horizontal h2 {
+    padding: 0;
+    margin: 3px;
+    font-size: 12px;
+    text-align: left;
+    font-weight: bold;
+    color: white;
+  }
+
+  .promotion-horizontal h3 {
+    padding: 0;
+    margin: 3px;
+    font-size: 9px;
+    text-align: left;
+    color: white;
+  }
+
+  .promotion-horizontal h4 {
+    padding: 0;
+    margin: 3px;
+    font-size: 9px;
+    text-align: left;
+    color: white;
+  }
+
+  .promotion-horizontal h5 {
+    padding: 0;
+    margin: 3px;
+    font-size: 9px;
+    text-align: left;
+    color: white;
+  }
+
+  .promotion-horizontal h6 {
+    padding: 0;
+    margin: 3px;
+    font-size: 9px;
+    text-align: left;
+    color: white;
+  }
+
+  .promotion-horizontal p {
+    padding: 0;
+    margin: 3px;
+    font-size: 9px;
+    text-align: left;
+    color: white;
+  }
+
+  .image-mobile {
+    width: 70%;
+    margin: 5px 0px 0px 0px;
+    padding: 0px;
+  }
+
+  .table-promotion-content {
+    background-color: white;
+    width: 50%;
+    font-size: 10px;
+  }
+
+  .promotion {
+    padding: 20px 12px;
+    //background-image: linear-gradient(#610e0e, #000, #610e0e);
+  }
+}
+
+.bannerPromotion {
+  display: $mobileA;
+}
+
+@media (max-width: 500px) {
+  .bannerPromotion {
+    display: $mobileB;
+  }
+}
+
+.promotion {
+  padding: 20px 12px;
+
+  .desktopPromotion {
+    display: $desktopA;
+  }
+
+  .mobilePromotion {
+    display: $mobileA;
+  }
+
+  @media (max-width: 500px) {
+    .desktopPromotion {
+      display: $desktopB;
+    }
+
+    .mobilePromotion {
+      display: $mobileB;
+    }
+  }
+
+  .promotion-content {
+    background-color: #000;
+    border-radius: 15px;
+    padding: 20px 15px;
+  }
+
+  img {
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+}

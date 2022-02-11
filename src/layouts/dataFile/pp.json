@@ -1,0 +1,988 @@
+[
+  {
+    "gameType": "Video Slot",
+    "gameName": "Cash Bonanza™",
+    "gameCode": "vswaysbankbonz"
+  },
+  {
+    "gameType": "Video Slot",
+    "gameName": "Piggy Bank Bills™",
+    "gameCode": "vs9piggybank"
+  },
+  {
+    "gameType": "Video Slot",
+    "gameName": "7 Monkeys",
+    "gameCode": "vs7monkeys_jp"
+  },
+  {
+    "gameType": "Video Slot",
+    "gameName": "Hot Safari",
+    "gameCode": "vs25safari_jp"
+  },
+  {
+    "gameType": "Video Slot",
+    "gameName": "The Tweety House™",
+    "gameCode": "vs20tweethouse"
+  },
+  {
+    "gameType": "Video Slot",
+    "gameName": "Day of Dead™",
+    "gameCode": "vs20daydead"
+  },
+  {
+    "gameType": "Video Slot",
+    "gameName": "Candy Village™",
+    "gameCode": "vs20candvil"
+  },
+  {
+    "gameType": "Fishing",
+    "gameName": "Blue Ocean 3D™",
+    "gameCode": "pp5fish"
+  },
+  {
+    "gameType": "Fishing",
+    "gameName": "Pirate Fishing™",
+    "gameCode": "pp6fish"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Treasure Wild",
+    "gameCode": "vs20trsbox"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Bigger Bass Bonanza",
+    "gameCode": "vs12bbb"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Starlight Princess",
+    "gameCode": "vs20starlight"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Pyramid Bonanza",
+    "gameCode": "vs20pbonanza"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Raging Bull",
+    "gameCode": "vs243chargebull"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Yum Yum Powerways",
+    "gameCode": "vswaysyumyum"
+  },
+  {
+    "gameName": "Sweet Bonanza",
+    "gameCode": "vs20fruitsw",
+    "tournament": true
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "5 Lions Megaways&trade;",
+    "gameCode": "vswayslions"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Buffalo King Megaways&trade;",
+    "gameCode": "vswaysbufking",
+    "tournament": true
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Rise of Giza PowerNudge",
+    "gameCode": "vs10nudgeit"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Chilli Heat Megaways&trade;",
+    "gameCode": "vswayschilheat"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Aztec King Megaways&trade;",
+    "gameCode": "vswaysaztecking"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Bronco Spirit&trade;",
+    "gameCode": "vs75bronco"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Amazing Money Machine&trade;",
+    "gameCode": "vs10amm"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Aztec King&trade;",
+    "gameCode": "vs25aztecking"
+  },
+  {
+    "gameName": "Gates of Olympus&trade;",
+    "gameCode": "vs20olympgate",
+    "tournament": true
+  },
+  {
+    "gameName": "Wild West Gold",
+    "gameCode": "vs40wildwest",
+    "tournament": true
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Aztec Gems",
+    "gameCode": "vs5aztecgems"
+  },
+  {
+    "gameName": "Sweet Bonanza Xmas&trade;",
+    "gameCode": "vs20sbxmas",
+    "tournament": true
+  },
+  {
+    "gameName": "The Hand of Midas&trade;",
+    "gameCode": "vs20midas",
+    "tournament": true
+  },
+  {
+    "gameType": "ClassicGames",
+    "gameName": "888 Dragons",
+    "gameCode": "vs1dragon8"
+  },
+  {
+    "gameName": "Power of Thor Megaways&trade;",
+    "gameCode": "vswayshammthor",
+    "tournament": true
+  },
+  {
+    "gameName": "Great Rhino Megaways&trade;",
+    "gameCode": "vswaysrhino",
+    "tournament": true
+  },
+  {
+    "gameName": "Bonanza Gold&trade;",
+    "gameCode": "vs20bonzgold",
+    "tournament": true
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Big Bass Bonanza&trade;",
+    "gameCode": "vs10bbbonanza"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Joker's Jewels",
+    "gameCode": "vs5joker"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Cowboys Gold&trade;",
+    "gameCode": "vs10cowgold"
+  },
+  {
+    "gameName": "The Dog House Megaways&trade;",
+    "gameCode": "vswaysdogs",
+    "tournament": true
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Lucky Lightning&trade;",
+    "gameCode": "vswayslight"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Rise of Samurai Megaways&trade;",
+    "gameCode": "vswayssamurai"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Empty the Bank&trade;",
+    "gameCode": "vs20emptybank"
+  },
+  {
+    "gameName": "Hot Fiesta&trade;",
+    "gameCode": "vs25hotfiesta",
+    "tournament": true
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Chicken Drop&trade;",
+    "gameCode": "vs20chickdrop"
+  },
+  {
+    "gameName": "Fruit Party&trade;",
+    "gameCode": "vs20fruitparty",
+    "tournament": true
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "John Hunter and the Tomb of the Scarab Queen&trade;",
+    "gameCode": "vs25scarabqueen"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Fruit Party 2&trade;",
+    "gameCode": "vs20fparty2"
+  },
+  {
+    "gameName": "Gems Bonanza&trade;",
+    "gameCode": "vs20goldfever",
+    "tournament": true
+  },
+  {
+    "gameName": "Christmas Carol Megaways&trade;",
+    "gameCode": "vs20xmascarol",
+    "tournament": true
+  },
+  {
+    "gameName": "Madame Destiny Megaways&trade;",
+    "gameCode": "vswaysmadame",
+    "tournament": true
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Aztec Gems Deluxe&trade;",
+    "gameCode": "vs9aztecgemsdx"
+  },
+  {
+    "gameName": "Temujin Treasures&trade;",
+    "gameCode": "vs1024temuj",
+    "tournament": true
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Fire Strike&trade;",
+    "gameCode": "vs10firestrike"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "The Dog House",
+    "gameCode": "vs20doghouse"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Panda's Fortune",
+    "gameCode": "vs25pandagold"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Diamond Strike",
+    "gameCode": "vs15diamond"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Aztec Bonanza&trade;",
+    "gameCode": "vs7776aztec"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Lucky Grace And Charm&trade;",
+    "gameCode": "vs10luckcharm"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Phoenix Forge&trade;",
+    "gameCode": "vs20phoenixf"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Heart of Rio&trade;",
+    "gameCode": "vs25rio"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Dragon Hot Hold and Spin&trade;",
+    "gameCode": "vs5drhs"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Cash Elevator&trade;",
+    "gameCode": "vs20terrorv"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Hokkaido Wolf&trade;",
+    "gameCode": "vs576hokkwolf"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "The Magic Cauldron - Enchanted Brew&trade;",
+    "gameCode": "vs20magicpot"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Panda Fortune 2&trade;",
+    "gameCode": "vs25pandatemple"
+  },
+  {
+    "gameName": "Wild Booster&trade;",
+    "gameCode": "vs20wildboost",
+    "tournament": true
+  },
+  {
+    "gameName": "Juicy Fruits",
+    "gameCode": "vs50juicyfr",
+    "tournament": true
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Golden Ox&trade;",
+    "gameCode": "vs25gldox"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Mustang Gold",
+    "gameCode": "vs25mustang"
+  },
+  {
+    "gameName": "John Hunter and the Book of Tut&trade;",
+    "gameCode": "vs10bookoftut",
+    "tournament": true
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Tree of Riches&trade;",
+    "gameCode": "vs1fortunetree"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Fire 88",
+    "gameCode": "vs7fire88"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Floating Dragon Hold & Spin&trade;",
+    "gameCode": "vs10floatdrg"
+  },
+  {
+    "gameName": "Pirate Gold Deluxe&trade;",
+    "gameCode": "vs40pirgold",
+    "tournament": true
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "5 Lions Gold",
+    "gameCode": "vs243lionsgold"
+  },
+  {
+    "gameName": "Drago - Jewels of Fortune&trade;",
+    "gameCode": "vs1600drago",
+    "tournament": true
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Hot to Burn Hold and Spin&trade;",
+    "gameCode": "vs20hburnhs"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Joker King&trade;",
+    "gameCode": "vs25jokerking"
+  },
+  {
+    "gameName": "Release the Kraken&trade;",
+    "gameCode": "vs20kraken",
+    "tournament": true
+  },
+  {
+    "gameName": "Mysterious Egypt&trade;",
+    "gameCode": "vs10wildtut",
+    "tournament": true
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Eye of the Storm&trade;",
+    "gameCode": "vs10eyestorm"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Dragon Kingdom Eyes of Fire&trade;",
+    "gameCode": "vs5drmystery"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Emerald King Rainbow Road&trade;",
+    "gameCode": "vs20ekingrr"
+  },
+  {
+    "gameType": "p2p",
+    "gameName": "Fishing King&trade;",
+    "gameCode": "pp3fish"
+  },
+  {
+    "gameType": "p2p",
+    "gameName": "Fortune Fishing&trade;",
+    "gameCode": "pp4fortune"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Congo Cash&trade;",
+    "gameCode": "vs432congocash"
+  },
+  {
+    "gameName": "Voodoo Magic&trade;",
+    "gameCode": "vs40voodoo",
+    "tournament": true
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Great Rhino Deluxe&trade;",
+    "gameCode": "vs20rhinoluxe"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "8 Dragons",
+    "gameCode": "vs20eightdragons"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Spartan King&trade;",
+    "gameCode": "vs40spartaking"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "John Hunter and the Mayan Gods&trade;",
+    "gameCode": "vs10mayangods"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Book Of Kingdoms&trade;",
+    "gameCode": "vs25bkofkngdm"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Emerald King&trade;",
+    "gameCode": "vs20eking"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Dragon Tiger&trade;",
+    "gameCode": "vs1024dtiger"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Return of the Dead&trade;",
+    "gameCode": "vs10returndead"
+  },
+  {
+    "gameType": "ClassicGames",
+    "gameName": "888 Gold",
+    "gameCode": "cs5triple8gold"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Super 7s&trade;",
+    "gameCode": "vs5super7"
+  },
+  {
+    "gameType": "ClassicGames",
+    "gameName": "Monkey Madness",
+    "gameCode": "vs9madmonkey"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Money Mouse&trade;",
+    "gameCode": "vs25mmouse"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Master Joker&trade;",
+    "gameCode": "vs1masterjoker"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Caishen's Gold",
+    "gameCode": "vs243fortune"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Vegas Magic",
+    "gameCode": "vs20vegasmagic"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Wild Walker&trade;",
+    "gameCode": "vs25walker"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Pyramid King&trade;",
+    "gameCode": "vs25pyramid"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Rise of Samurai&trade;",
+    "gameCode": "vs25samurai"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "5 Lions Dance&trade;",
+    "gameCode": "vs1024lionsd"
+  },
+  {
+    "gameName": "Star Bounty",
+    "gameCode": "vswayshive",
+    "tournament": true
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Dance Party&trade;",
+    "gameCode": "vs243dancingpar"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Dragon Ball&trade;",
+    "gameCode": "vs1ball"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Caishen Cash",
+    "gameCode": "vs243caishien"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Star Fortune&trade;",
+    "gameCode": "vs10threestar"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Golden Pig",
+    "gameCode": "vs25goldpig"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Wild Wild Riches&trade;",
+    "gameCode": "vs576treasures"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Jungle Gorilla&trade;",
+    "gameCode": "vs20gorilla"
+  },
+  {
+    "gameName": "Curse of the Werewolf Megaways&trade;",
+    "gameCode": "vswayswerewolf",
+    "tournament": true
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Tiger Warrior&trade;",
+    "gameCode": "vs25tigerwar"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Street Racer&trade;",
+    "gameCode": "vs40streetracer"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Fu Fu Fu&trade;",
+    "gameCode": "vs1fufufu"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Ultra burn&trade;",
+    "gameCode": "vs5ultrab"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Money Money Money&trade;",
+    "gameCode": "vs1money"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "The Wild Machine&trade;",
+    "gameCode": "vs40madwheel"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Wolf Gold",
+    "gameCode": "vs25wolfgold"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Golden Beauty",
+    "gameCode": "vs75empress"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Megaways&trade;",
+    "gameCode": "vs117649starz"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Hot to burn&trade;",
+    "gameCode": "vs5hotburn"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "5 Lions",
+    "gameCode": "vs243lions"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Fruit Rainbow&trade;",
+    "gameCode": "vs40frrainbow"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Mysterious&trade;",
+    "gameCode": "vs4096mystery"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Buffalo King&trade;",
+    "gameCode": "vs4096bufking"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Magic Journey&trade;",
+    "gameCode": "vs8magicjourn"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Aladdin and the Sorcerer&trade;",
+    "gameCode": "vs20aladdinsorc"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Greek Gods&trade;",
+    "gameCode": "vs243fortseren"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Hercules and Pegasus&trade;",
+    "gameCode": "vs20hercpeg"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Journey to the West",
+    "gameCode": "vs25journey"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Hot Safari",
+    "gameCode": "vs25safari"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Honey Honey Honey&trade;",
+    "gameCode": "vs20honey"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "The Great Chicken Escape&trade;",
+    "gameCode": "vs20chicken"
+  },
+  {
+    "gameType": "ClassicGames",
+    "gameName": "Monkey Warrior&trade;",
+    "gameCode": "vs243mwarrior"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Treasure Horse",
+    "gameCode": "vs18mashang"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Pirate Gold",
+    "gameCode": "vs40pirate"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Gold Rush",
+    "gameCode": "vs25goldrush"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "John Hunter and the Aztec Treasure&trade;",
+    "gameCode": "vs7776secrets"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Super Joker&trade;",
+    "gameCode": "vs5spjoker"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Chilli Heat",
+    "gameCode": "vs25chilli"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Extra Juicy",
+    "gameCode": "vs10fruity2"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Triple Joker",
+    "gameCode": "vs5trjokers"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Hot Chilli&trade;",
+    "gameCode": "vs9hotroll"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Lucky New Year",
+    "gameCode": "vs25newyear"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Vampires VS Wolves&trade;",
+    "gameCode": "vs10vampwolf"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Da Vinci's Treasure",
+    "gameCode": "vs25davinci"
+  },
+  {
+    "gameType": "ClassicGames",
+    "gameName": "Triple Tigers",
+    "gameCode": "vs1tigers"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Pixie Wings",
+    "gameCode": "vs50pixie"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Wild Spells",
+    "gameCode": "vs25wildspells"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Dragon Kingdom",
+    "gameCode": "vs25dragonkingdom"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "3 Kingdoms - Battle of Red Cliffs",
+    "gameCode": "vs25kingdoms"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Asgard",
+    "gameCode": "vs25asgard"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Master Chen's Fortune",
+    "gameCode": "vs9chen"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Mighty Kong",
+    "gameCode": "vs50kingkong"
+  },
+  {
+    "gameType": "ClassicGames",
+    "gameName": "Money Roll",
+    "gameCode": "cs5moneyroll"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Peking Luck",
+    "gameCode": "vs25peking"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Egyptian Fortunes",
+    "gameCode": "vs20egypttrs"
+  },
+  {
+    "gameType": "ClassicGames",
+    "gameName": "Diamonds are Forever 3 Lines",
+    "gameCode": "cs3w"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Busy Bees",
+    "gameCode": "vs20bl"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Panther Queen",
+    "gameCode": "vs25pantherqueen"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Vegas Nights",
+    "gameCode": "vs25vegas"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Lady Godiva",
+    "gameCode": "vs20godiva"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Dwarven Gold Deluxe",
+    "gameCode": "vs25dwarves_new"
+  },
+  {
+    "gameType": "ClassicGames",
+    "gameName": "Irish Charms",
+    "gameCode": "cs3irishcharms"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "3 Genie Wishes",
+    "gameCode": "vs50aladdin"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Triple Dragons",
+    "gameCode": "vs5trdragons"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Fairytale Fortune",
+    "gameCode": "vs15fairytale"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Lucky Dragons",
+    "gameCode": "vs50chinesecharms"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Jade Butterfly",
+    "gameCode": "vs1024butterfly"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Wild Pixies",
+    "gameCode": "vs20wildpix"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "7 Piggies",
+    "gameCode": "vs7pigs"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Leprechaun Carol",
+    "gameCode": "vs20leprexmas"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Magic Crystals",
+    "gameCode": "vs243crystalcave"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Wild Gladiators",
+    "gameCode": "vs25gladiator"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Santa",
+    "gameCode": "vs20santa"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Queen of Gold",
+    "gameCode": "vs25queenofgold"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Gold Train",
+    "gameCode": "vs3train"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Sugar Rush",
+    "gameCode": "vs20cm"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Beowulf",
+    "gameCode": "vs40beowulf"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "7 Monkeys",
+    "gameCode": "vs7monkeys"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Aladdin's Treasure",
+    "gameCode": "vs50amt"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Safari King",
+    "gameCode": "vs50safariking"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Madame Destiny",
+    "gameCode": "vs10madame"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Jurassic Giants",
+    "gameCode": "vs4096jurassic"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Great Reef",
+    "gameCode": "vs25sea"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Devil`s 13",
+    "gameCode": "vs13g"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Ancient Egypt",
+    "gameCode": "vs10egypt"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Lady of the Moon",
+    "gameCode": "vs13ladyofmoon"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Leprechaun Song",
+    "gameCode": "vs20leprechaun"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Hercules Son of Zeus",
+    "gameCode": "vs50hercules"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Glorious Rome",
+    "gameCode": "vs20rome"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Queen of Atlantis",
+    "gameCode": "vs1024atlantis"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Tales of Egypt",
+    "gameCode": "vs20egypt"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "Dwarven Gold",
+    "gameCode": "vs25dwarves"
+  },
+  {
+    "gameType": "VideoSlots",
+    "gameName": "The Champions",
+    "gameCode": "vs25champ"
+  }
+]

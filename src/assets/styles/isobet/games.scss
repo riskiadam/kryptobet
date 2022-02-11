@@ -1,0 +1,364 @@
+.games-page{
+    width:100%;
+
+    .DesktopGames{
+        display: $desktopA;
+    }
+
+    .MobileGames{
+        display: $mobileA;        
+    }
+
+    .btn-reset{
+        bottom: 10%;
+        left: 20%;  
+        transform: translate(-50%, -50%);
+        padding: 0px;
+    }
+
+    @media (max-width: 850px) {
+        .btn-reset{
+            bottom: 10%;
+            left: 20%;  
+            transform: translate(-50%, -50%);
+            padding: 0px;
+        }
+    }
+
+    .row-games{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    //sportbook
+    .game-img-2{
+        margin-top: 20px;
+        width:100%;
+        height: 62%;
+    }
+
+    .game-img-3{
+        width:100%;
+        height: 16%;
+        margin-top: 1%;
+    }
+
+    .games-page-container{
+        padding-top:15px;
+        padding-bottom:15px;
+        background-color: black;
+        min-height: calc(100vh - 135px);
+        //box-shadow: 2px 3px 5px rgba(0, 0, 0, 0.45);
+
+        .game-card{
+            margin-bottom:10px;
+
+            .game-img{
+                width:100%;
+                height:50%;
+            }    
+
+            @media (max-width: 850px) {
+                .game-img{
+                    width:100%;
+                    height:inherit;
+                }
+            }
+
+            .game-label{
+                position: relative;
+                background-color:#3F2D64;
+                color:#fff;
+                padding:10px;
+                height:51px;
+
+                .game-play{
+                    display: inline-block;
+                    // float:right;
+                }
+            }
+
+            .game-label:after{
+                content: '';
+                clear: both;
+                display: block;
+            }
+
+            
+        }
+    }
+
+    .game-btn-maintenance{
+        // background-color:#f2f2f2;
+        // color:#000;
+        // border:1px solid #f2f2f2;
+        background-position: center;
+        background-size: contain;
+        width: 155px;
+        height: 37px;
+        background-image: url("~@/assets/images/games/desktop/under-main.png")
+    }
+
+    .game-btn-play{
+        background-position: center;
+        background-size: cover;
+        width: 155px;
+        height: 37px;
+        background-image: url("~@/assets/images/games/desktop/play-now.png")
+    }
+
+    .game-btn-show{
+        background-position: center;
+        background-size: contain;
+        width: 155px;
+        height: 37px;
+        background-image: url("~@/assets/images/games/desktop/show-games.png")
+    }
+
+    @media (max-width: 850px) {
+        .game-btn-maintenance{
+            background-position: center;
+            background-size: contain;
+            width: 116px;
+            height: 30px;
+            background-image: url("~@/assets/images/games/desktop/under-main.png")
+        }
+
+        .game-btn-play{
+            background-position: center;
+            background-size: cover;
+            width: 116px;
+            height: 30px;
+            background-image: url("~@/assets/images/games/desktop/play-now.png")
+        }
+
+        .game-btn-show{
+            background-position: center;
+            background-size: contain;
+            width: 116px;
+            height: 30px;
+            background-image: url("~@/assets/images/games/desktop/show-games.png")
+        }
+    }
+}
+
+.modal-body{
+    background-color: #310000;
+}
+
+@media (max-width: 850px) {
+    .btn.button-games.router-link-exact-active.router-link-active.btn-secondary{
+        background-color: #f1e60d;
+        color: #000000;
+        width:100%; 
+        padding:10px 0px; 
+        margin:0px; 
+        border-radius:0px; 
+        border: 0.5px solid gray;
+    }
+
+    .btn.button-games.btn-secondary{
+        background-color: black;
+        width:100%; 
+        padding:10px 0px; 
+        margin:0px; 
+        border-radius:0px; 
+        border: 0.5px solid gray;
+    }
+
+    .button-games:hover{
+        color: #f1e60d;
+        width:100%; 
+        padding:10px 0px; 
+        margin:0px; 
+        border-radius:0px; 
+        border: 0.5px solid gray;
+    }
+
+    .button-games-span{
+        font-size:12px; 
+        font-weight:bold;
+    }
+
+    .games-page{        
+
+        .DesktopGames{
+            display: $desktopB;
+        }
+
+        .MobileGames{
+            display: $mobileB;
+            background-color: black;
+
+            .ButtonHome{
+                background-image: linear-gradient( #0B0000, #400000, #680000); 
+                padding:0px; 
+                margin:0px;
+            }
+
+            .KategoriHome
+            {
+                background-color: #000000;
+                padding:0px; 
+                margin:0px;
+            }
+
+            .home-banner-container{
+                padding:20px;
+    
+                .custom-padding-banner{
+                    padding-left:7px;
+                    padding-right:7px;
+                    text-align: center;
+    
+                    img{
+                        width:100%;
+                    }
+                }
+            }
+    
+            .home-iframe-container{
+                padding-left:25px;
+                padding-right:25px;
+                margin-left: 25px;
+                margin-right: 25px;
+                margin-bottom: 15px;
+                border:1px solid #d9d9d9;
+    
+                iframe{
+                    border:1px solid #d9d9d9;
+                }
+            }
+    
+            .home-description-container{
+                color:#fff;
+                padding:10px 20px;
+                text-align: center;
+                
+                span{
+                    font-size:18px;
+                    font-family: Helvetica, Arial, sans-serif;
+                }
+    
+                p{
+                    margin-top:10px;
+                }
+            }
+    
+            .btn-cektoto{
+                color: #fff;
+                font-weight: bold;
+                background-color: #555C68;
+                border: 0px solid #C1D2D6;
+                border-radius: 0px;
+                padding: 0px;
+                font-size: 14px;
+                width: 130px;
+                height: 130px;
+                padding-top:10px; 
+                margin-bottom: 35px;
+                margin-left: 5px;      
+                margin-right: 5px;      
+            }
+    
+            .btn-cektoto-span{
+                font-weight: bold; 
+                font-size: 22px; 
+                text-align: center;        
+            }
+    
+            .btn-cektoto-date{
+                padding:0px; 
+                margin:0px; 
+                margin-top:10px; 
+                background-color:#616A7B      
+            }
+    
+            .btn-cektoto-date-details{
+                padding:0px; 
+                margin:0px; 
+                margin-top:12px;     
+            }
+    
+            .btn-cektoto-date-p{
+                font-weight: bold; 
+                font-size: 10px;     
+            }
+    
+            .btn-cektoto-score{
+                font-weight: bold; 
+                font-size: 25px;    
+            }
+    
+            .informasi-cektoto{
+                background-image: linear-gradient( #000000, #0B0000); 
+                margin:0px;  
+                padding-top:20px; 
+                padding-bottom:30px; 
+                border-bottom: 1px solid white;
+            }
+
+            .informasi-cektoto-row{
+                padding : 0px;
+            }
+    
+            .informasi-games{
+                margin:0px; 
+                padding:0px; 
+                background-image: linear-gradient( #0B0000, #270000, #330000); 
+                padding-top:20px; 
+                padding-bottom:20px; 
+                border-bottom: 1px solid white;
+            }
+    
+            .informasi-games-span{
+                font-weight: bold; 
+                font-size: 15px; 
+                text-align: center; 
+                color:white; 
+            }
+    
+            .informasi-games-row{
+                padding-right: 12px;
+                padding-left: 10px;
+                margin-top: 15px;
+                margin-bottom: 15px;
+            }
+    
+            .informasi-games-img{
+                height:50%; 
+                width:10%;
+                margin-left: 5px;
+                margin-right: 5px;
+            }
+    
+            .informasi-games-img:hover{
+                cursor: pointer;
+            }
+    
+            .informasi-games-img-2{
+                height:50%; 
+                width:9%;
+                margin-left: 5px;
+                margin-right: 5px;
+            }
+            .informasi-games-img-2:hover{
+                cursor: pointer;
+            }
+    
+            @media (max-width: 850px) {     
+                    
+                .informasi-games-img{
+                    height:50%; 
+                    width:8%;
+                }
+    
+                .informasi-games-img-2{
+                    height:50%;  
+                    width:6.5%;
+                }
+                
+            }
+        }
+    }
+}

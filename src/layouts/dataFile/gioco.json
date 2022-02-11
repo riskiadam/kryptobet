@@ -1,0 +1,54 @@
+[
+    {
+        "gameName": "Soccer Fever 2",
+        "gameCode": "gps_sdragon2"
+    },
+    {
+        "gameName": "Lucky Knife",
+        "gameCode": "gps_knifethrow"
+    },
+    {
+        "gameName": "Panty Seeker",
+        "gameCode": "gps_skirt"
+    },
+    {
+        "gameName": "Money Game",
+        "gameCode": "gps_grabmoney"
+    },
+    {
+        "gameName": "Soccer Fever",
+        "gameCode": "gps_sdragon"
+    },
+    {
+        "gameName": "Pulling Money",
+        "gameCode": "gps_napkin"
+    },
+    {
+        "gameName": "Shadow Ninja",
+        "gameCode": "gps_ninja"
+    },
+    {
+        "gameName": "Home run Shooter",
+        "gameCode": "gps_baseball"
+    },
+    {
+        "gameName": "Firing Combat",
+        "gameCode": "gps_shooting"
+    },
+    {
+        "gameName": "Win in the Ring",
+        "gameCode": "gps_ringtoss"
+    },
+    {
+        "gameName": "Basketball Shoot",
+        "gameCode": "gps_basketball"
+    },
+    {
+        "gameName": "Jewel Rush",
+        "gameCode": "gps_digdig"
+    },
+    {
+        "gameName": "Battle of Midway",
+        "gameCode": "gps_planecatch1943"
+    }
+]

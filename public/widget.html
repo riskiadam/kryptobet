@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head style="margin: 0%; padding:0%; width: 100%;">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link rel="icon" href="<%= BASE_URL %>favicon.ico">
+    <!-- <title><%= htmlWebpackPlugin.options.title %></title> -->
+    <title>Isobet Kenno</title>
+  </head>
+
+  <script src="kennoWidget.js"></script>
+  
+  <body>
+    <div id="kenno-widget"></div>
+    <script type="text/javascript">
+
+        const queryString = window.location.search;
+        const urlParams = new URLSearchParams(queryString);
+        const token = urlParams.get('token');
+        const lang = urlParams.get('lang');
+
+        var setup = {
+            container: 'kenno-widget',
+            lang: lang,
+            options:{
+                game: 'LuckySix'
+            },
+            UserToken: token,
+            onLoad: function(instance){
+                console.log('Game is loaded');
+            },
+            onChangeBalance: function(){
+                console.log('Balance is changed');
+            }
+        };
+        MagicGames.addWidget(setup);
+    </script>
+  </body>
+</html>

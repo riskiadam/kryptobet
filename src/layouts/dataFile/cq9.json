@@ -1,0 +1,1358 @@
+[
+  {
+    "gameCode": "207",
+    "gameName": "Thai HILO",
+    "gameType": "Arcade",
+    "imageUrl": "207_en-us.png"
+  },
+  {
+    "gameCode": "1",
+    "gameName": "FruitKing",
+    "gameType": "Slot",
+    "imageUrl": "1_en-us.png"
+  },
+  {
+    "gameCode": "10",
+    "gameName": "LuckyBats",
+    "gameType": "Slot",
+    "imageUrl": "10_en-us.png"
+  },
+  {
+    "gameCode": "1010",
+    "gameName": "LuckyBatsJP",
+    "gameType": "Slot",
+    "imageUrl": "1010_en-us.png"
+  },
+  {
+    "gameCode": "102",
+    "gameName": "FruityCarnival",
+    "gameType": "Slot",
+    "imageUrl": "102_en-us.png"
+  },
+  {
+    "gameCode": "103",
+    "gameName": "JewelLuxury",
+    "gameType": "Slot",
+    "imageUrl": "103_en-us.png"
+  },
+  {
+    "gameCode": "104",
+    "gameName": "ChickyParmParm",
+    "gameType": "Slot",
+    "imageUrl": "104_en-us.png"
+  },
+  {
+    "gameCode": "105",
+    "gameName": "jumping mobile",
+    "gameType": "Slot",
+    "imageUrl": "105_en-us.png"
+  },
+  {
+    "gameCode": "1067",
+    "gameName": "GoldenEggsJP",
+    "gameType": "Slot",
+    "imageUrl": "1067_en-us.png"
+  },
+  {
+    "gameCode": "1074",
+    "gameName": "TreasureBowlJP",
+    "gameType": "Slot",
+    "imageUrl": "1074_en-us.png"
+  },
+  {
+    "gameCode": "108",
+    "gameName": "Jump Higher mobile",
+    "gameType": "Slot",
+    "imageUrl": "108_en-us.png"
+  },
+  {
+    "gameCode": "109",
+    "gameName": "Rave Jump mobile",
+    "gameType": "Slot",
+    "imageUrl": "109_en-us.png"
+  },
+  {
+    "gameCode": "111",
+    "gameName": "FlyOut",
+    "gameType": "Slot",
+    "imageUrl": "111_en-us.png"
+  },
+  {
+    "gameCode": "112",
+    "gameName": "Pyramid Raider",
+    "gameType": "Slot",
+    "imageUrl": "112_en-us.png"
+  },
+  {
+    "gameCode": "113",
+    "gameName": "Flying Cai Shen",
+    "gameType": "Slot",
+    "imageUrl": "113_en-us.png"
+  },
+  {
+    "gameCode": "115",
+    "gameName": "Snow Queen",
+    "gameType": "Slot",
+    "imageUrl": "115_en-us.png"
+  },
+  {
+    "gameCode": "116",
+    "gameName": "Wonderland",
+    "gameType": "Slot",
+    "imageUrl": "116_en-us.png"
+  },
+  {
+    "gameCode": "117",
+    "gameName": "5 God Beasts",
+    "gameType": "Slot",
+    "imageUrl": "117_en-us.png"
+  },
+  {
+    "gameCode": "118",
+    "gameName": "SkrSkr",
+    "gameType": "Slot",
+    "imageUrl": "118_en-us.png"
+  },
+  {
+    "gameCode": "12",
+    "gameName": "TreasureHouse",
+    "gameType": "Slot",
+    "imageUrl": "12_en-us.png"
+  },
+  {
+    "gameCode": "121",
+    "gameName": "RaveJump2 M",
+    "gameType": "Slot",
+    "imageUrl": "121_en-us.png"
+  },
+  {
+    "gameCode": "122",
+    "gameName": "ZumaWild",
+    "gameType": "Slot",
+    "imageUrl": "122_en-us.png"
+  },
+  {
+    "gameCode": "123",
+    "gameName": "LuckyBats M",
+    "gameType": "Slot",
+    "imageUrl": "123_en-us.png"
+  },
+  {
+    "gameCode": "124",
+    "gameName": "Invincible Elephant",
+    "gameType": "Slot",
+    "imageUrl": "124_en-us.png"
+  },
+  {
+    "gameCode": "125",
+    "gameName": "Zeus M",
+    "gameType": "Slot",
+    "imageUrl": "125_en-us.png"
+  },
+  {
+    "gameCode": "127",
+    "gameName": "God of War M",
+    "gameType": "Slot",
+    "imageUrl": "127_en-us.png"
+  },
+  {
+    "gameCode": "128",
+    "gameName": "Wheel Money",
+    "gameType": "Slot",
+    "imageUrl": "128_en-us.png"
+  },
+  {
+    "gameCode": "129",
+    "gameName": "Gu Gu Gu 2 M",
+    "gameType": "Slot",
+    "imageUrl": "129_en-us.png"
+  },
+  {
+    "gameCode": "13",
+    "gameName": "SakuraLegend",
+    "gameType": "Slot",
+    "imageUrl": "13_en-us.png"
+  },
+  {
+    "gameCode": "130",
+    "gameName": "Gold Stealer",
+    "gameType": "Slot",
+    "imageUrl": "130_en-us.png"
+  },
+  {
+    "gameCode": "131",
+    "gameName": "Fa Cai Shen M",
+    "gameType": "Slot",
+    "imageUrl": "131_en-us.png"
+  },
+  {
+    "gameCode": "132",
+    "gameName": "Meow",
+    "gameType": "Slot",
+    "imageUrl": "132_en-us.png"
+  },
+  {
+    "gameCode": "133",
+    "gameName": "Good Fortune M",
+    "gameType": "Slot",
+    "imageUrl": "133_en-us.png"
+  },
+  {
+    "gameCode": "135",
+    "gameName": "Gu Gu Gu M",
+    "gameType": "Slot",
+    "imageUrl": "135_en-us.png"
+  },
+  {
+    "gameCode": "136",
+    "gameName": "Running Animals",
+    "gameType": "Slot",
+    "imageUrl": "136_en-us.png"
+  },
+  {
+    "gameCode": "137",
+    "gameName": "DiscoNight M",
+    "gameType": "Slot",
+    "imageUrl": "137_en-us.png"
+  },
+  {
+    "gameCode": "138",
+    "gameName": "Move n' Jump",
+    "gameType": "Slot",
+    "imageUrl": "138_en-us.png"
+  },
+  {
+    "gameCode": "139",
+    "gameName": "Fire Chibi M",
+    "gameType": "Slot",
+    "imageUrl": "139_en-us.png"
+  },
+  {
+    "gameCode": "140",
+    "gameName": "Fire Chibi 2",
+    "gameType": "Slot",
+    "imageUrl": "140_en-us.png"
+  },
+  {
+    "gameCode": "141",
+    "gameName": "Xmas",
+    "gameType": "Slot",
+    "imageUrl": "141_en-us.png"
+  },
+  {
+    "gameCode": "142",
+    "gameName": "Hephaestus",
+    "gameType": "Slot",
+    "imageUrl": "142_en-us.png"
+  },
+  {
+    "gameCode": "143",
+    "gameName": "Fa Cai Fu Wa",
+    "gameType": "Slot",
+    "imageUrl": "143_en-us.png"
+  },
+  {
+    "gameCode": "144",
+    "gameName": "Diamond treasure",
+    "gameType": "Slot",
+    "imageUrl": "144_en-us.png"
+  },
+  {
+    "gameCode": "146",
+    "gameName": "Sky Lanterns",
+    "gameType": "Slot",
+    "imageUrl": "146_en-us.png"
+  },
+  {
+    "gameCode": "147",
+    "gameName": "Flower Fortunes",
+    "gameType": "Slot",
+    "imageUrl": "147_en-us.png"
+  },
+  {
+    "gameCode": "148",
+    "gameName": "Fortune Totem",
+    "gameType": "Slot",
+    "imageUrl": "148_en-us.png"
+  },
+  {
+    "gameCode": "15",
+    "gameName": "GuGuGu",
+    "gameType": "Slot",
+    "imageUrl": "15_en-us.png"
+  },
+  {
+    "gameCode": "150",
+    "gameName": "Shou-Xin",
+    "gameType": "Slot",
+    "imageUrl": "150_en-us.png"
+  },
+  {
+    "gameCode": "152",
+    "gameName": "Double Fly",
+    "gameType": "Slot",
+    "imageUrl": "152_en-us.png"
+  },
+  {
+    "gameCode": "153",
+    "gameName": "Six Candy",
+    "gameType": "Slot",
+    "imageUrl": "153_en-us.png"
+  },
+  {
+    "gameCode": "154",
+    "gameName": "Kronos",
+    "gameType": "Slot",
+    "imageUrl": "154_en-us.png"
+  },
+  {
+    "gameCode": "157",
+    "gameName": "5 Boxing",
+    "gameType": "Slot",
+    "imageUrl": "157_en-us.png"
+  },
+  {
+    "gameCode": "16",
+    "gameName": "Super5",
+    "gameType": "Slot",
+    "imageUrl": "16_en-us.png"
+  },
+  {
+    "gameCode": "160",
+    "gameName": "Fa Cai Shen2",
+    "gameType": "Slot",
+    "imageUrl": "160_en-us.png"
+  },
+  {
+    "gameCode": "161",
+    "gameName": "Hercules",
+    "gameType": "Slot",
+    "imageUrl": "161_en-us.png"
+  },
+  {
+    "gameCode": "163",
+    "gameName": "Ne Zha Advent",
+    "gameType": "Slot",
+    "imageUrl": "163_en-us.png"
+  },
+  {
+    "gameCode": "17",
+    "gameName": "GreatLion",
+    "gameType": "Slot",
+    "imageUrl": "17_en-us.png"
+  },
+  {
+    "gameCode": "173",
+    "gameName": "6 Toros",
+    "gameType": "Slot",
+    "imageUrl": "173_en-us.png"
+  },
+  {
+    "gameCode": "179",
+    "gameName": "Jump High 2",
+    "gameType": "Slot",
+    "imageUrl": "179_en-us.png"
+  },
+  {
+    "gameCode": "180",
+    "gameName": "Gu Gu Gu 3",
+    "gameType": "Slot",
+    "imageUrl": "180_en-us.png"
+  },
+  {
+    "gameCode": "182",
+    "gameName": "Thor 2",
+    "gameType": "Slot",
+    "imageUrl": "182_en-us.png"
+  },
+  {
+    "gameCode": "183",
+    "gameName": "Wolf Disco",
+    "gameType": "Slot",
+    "imageUrl": "183_en-us.png"
+  },
+  {
+    "gameCode": "184",
+    "gameName": "Six Gacha",
+    "gameType": "Slot",
+    "imageUrl": "184_en-us.png"
+  },
+  {
+    "gameCode": "185",
+    "gameName": "Dragon Ball",
+    "gameType": "Slot",
+    "imageUrl": "185_en-us.png"
+  },
+  {
+    "gameCode": "186",
+    "gameName": "Fire Queen2",
+    "gameType": "Slot",
+    "imageUrl": "186_en-us.png"
+  },
+  {
+    "gameCode": "187",
+    "gameName": "Wing Chun",
+    "gameType": "Slot",
+    "imageUrl": "187_en-us.png"
+  },
+  {
+    "gameCode": "188",
+    "gameName": "Cricket Fever",
+    "gameType": "Slot",
+    "imageUrl": "188_en-us.png"
+  },
+  {
+    "gameCode": "19",
+    "gameName": "HotSpin",
+    "gameType": "Slot",
+    "imageUrl": "19_en-us.png"
+  },
+  {
+    "gameCode": "194",
+    "gameName": "Fortune Dragon",
+    "gameType": "Slot",
+    "imageUrl": "194_en-us.png"
+  },
+  {
+    "gameCode": "195",
+    "gameName": "Lord Ganesha",
+    "gameType": "Slot",
+    "imageUrl": "195_en-us.png"
+  },
+  {
+    "gameCode": "196",
+    "gameName": "Tenfold Eggs",
+    "gameType": "Arcade",
+    "imageUrl": "196_en-us.png"
+  },
+  {
+    "gameCode": "197",
+    "gameName": "Dragonâ€™s Treasure",
+    "gameType": "Slot",
+    "imageUrl": "197_en-us.png"
+  },
+  {
+    "gameCode": "199",
+    "gameName": "Songkran Festival",
+    "gameType": "Slot",
+    "imageUrl": "199_en-us.png"
+  },
+  {
+    "gameCode": "2",
+    "gameName": "GodOfChess",
+    "gameType": "Slot",
+    "imageUrl": "2_en-us.png"
+  },
+  {
+    "gameCode": "20",
+    "gameName": "888",
+    "gameType": "Slot",
+    "imageUrl": "20_en-us.png"
+  },
+  {
+    "gameCode": "200",
+    "gameName": "Alice Run",
+    "gameType": "Arcade",
+    "imageUrl": "200_en-us.png"
+  },
+  {
+    "gameCode": "201",
+    "gameName": "MuayThai",
+    "gameType": "Slot",
+    "imageUrl": "201_en-us.png"
+  },
+  {
+    "gameCode": "202",
+    "gameName": "OrientalBeauty",
+    "gameType": "Slot",
+    "imageUrl": "202_en-us.png"
+  },
+  {
+    "gameCode": "203",
+    "gameName": "RaveHigh",
+    "gameType": "Slot",
+    "imageUrl": "203_en-us.png"
+  },
+  {
+    "gameCode": "204",
+    "gameName": "LuckyBoxes",
+    "gameType": "Slot",
+    "imageUrl": "204_en-us.png"
+  },
+  {
+    "gameCode": "205",
+    "gameName": "DiscoNight",
+    "gameType": "Slot",
+    "imageUrl": "205_en-us.png"
+  },
+  {
+    "gameCode": "206",
+    "gameName": "Sweet POP",
+    "gameType": "Slot",
+    "imageUrl": "206_en-us.png"
+  },
+  {
+    "gameCode": "208",
+    "gameName": "Money Tree",
+    "gameType": "Slot",
+    "imageUrl": "208_en-us.png"
+  },
+  {
+    "gameCode": "209",
+    "gameName": "The Cupids",
+    "gameType": "Slot",
+    "imageUrl": "209_en-us.png"
+  },
+  {
+    "gameCode": "21",
+    "gameName": "BigWolf",
+    "gameType": "Slot",
+    "imageUrl": "21_en-us.png"
+  },
+  {
+    "gameCode": "210",
+    "gameName": "Oo Ga Cha Ka",
+    "gameType": "Slot",
+    "imageUrl": "210_en-us.png"
+  },
+  {
+    "gameCode": "212",
+    "gameName": "Burning Xi-You",
+    "gameType": "Slot",
+    "imageUrl": "212_en-us.png"
+  },
+  {
+    "gameCode": "213",
+    "gameName": "Mini Roulette",
+    "gameType": "Arcade",
+    "imageUrl": "213_en-us.png"
+  },
+  {
+    "gameCode": "214",
+    "gameName": "Ninja Raccoon",
+    "gameType": "Slot",
+    "imageUrl": "214_en-us.png"
+  },
+  {
+    "gameCode": "215",
+    "gameName": "Hot Pinatas",
+    "gameType": "Slot",
+    "imageUrl": "215_en-us.png"
+  },
+  {
+    "gameCode": "22",
+    "gameName": "MonkeyOfficeLegend",
+    "gameType": "Slot",
+    "imageUrl": "22_en-us.png"
+  },
+  {
+    "gameCode": "221",
+    "gameName": "Detective Dee2",
+    "gameType": "Slot",
+    "imageUrl": "221_en-us.png"
+  },
+  {
+    "gameCode": "23",
+    "gameName": "YuanBao",
+    "gameType": "Slot",
+    "imageUrl": "23_en-us.png"
+  },
+  {
+    "gameCode": "24",
+    "gameName": "RaveJump2",
+    "gameType": "Slot",
+    "imageUrl": "24_en-us.png"
+  },
+  {
+    "gameCode": "26",
+    "gameName": "777",
+    "gameType": "Slot",
+    "imageUrl": "26_en-us.png"
+  },
+  {
+    "gameCode": "27",
+    "gameName": "Magic World",
+    "gameType": "Slot",
+    "imageUrl": "27_en-us.png"
+  },
+  {
+    "gameCode": "29",
+    "gameName": "WaterWorld",
+    "gameType": "Slot",
+    "imageUrl": "29_en-us.png"
+  },
+  {
+    "gameCode": "3",
+    "gameName": "VampireKiss",
+    "gameType": "Slot",
+    "imageUrl": "3_en-us.png"
+  },
+  {
+    "gameCode": "31",
+    "gameName": "God of War",
+    "gameType": "Slot",
+    "imageUrl": "31_en-us.png"
+  },
+  {
+    "gameCode": "32",
+    "gameName": "Detective Dee",
+    "gameType": "Slot",
+    "imageUrl": "32_en-us.png"
+  },
+  {
+    "gameCode": "33",
+    "gameName": "Fire Chibi",
+    "gameType": "Slot",
+    "imageUrl": "33_en-us.png"
+  },
+  {
+    "gameCode": "34",
+    "gameName": "Gophers War",
+    "gameType": "Slot",
+    "imageUrl": "34_en-us.png"
+  },
+  {
+    "gameCode": "35",
+    "gameName": "Crazy NuoZha",
+    "gameType": "Slot",
+    "imageUrl": "35_en-us.png"
+  },
+  {
+    "gameCode": "36",
+    "gameName": "Pub Tycoon",
+    "gameType": "Slot",
+    "imageUrl": "36_en-us.png"
+  },
+  {
+    "gameCode": "38",
+    "gameName": "All Wilds",
+    "gameType": "Slot",
+    "imageUrl": "38_en-us.png"
+  },
+  {
+    "gameCode": "39",
+    "gameName": "Apsaras",
+    "gameType": "Slot",
+    "imageUrl": "39_en-us.png"
+  },
+  {
+    "gameCode": "4",
+    "gameName": "WildTarzan",
+    "gameType": "Slot",
+    "imageUrl": "4_en-us.png"
+  },
+  {
+    "gameCode": "42",
+    "gameName": "Sherlock Holmes",
+    "gameType": "Slot",
+    "imageUrl": "42_en-us.png"
+  },
+  {
+    "gameCode": "44",
+    "gameName": "FruitKingII",
+    "gameType": "Slot",
+    "imageUrl": "44_en-us.png"
+  },
+  {
+    "gameCode": "46",
+    "gameName": "Wolf Moon",
+    "gameType": "Slot",
+    "imageUrl": "46_en-us.png"
+  },
+  {
+    "gameCode": "47",
+    "gameName": "Pharaoh's Gold",
+    "gameType": "Slot",
+    "imageUrl": "47_en-us.png"
+  },
+  {
+    "gameCode": "49",
+    "gameName": "Lonely Planet",
+    "gameType": "Slot",
+    "imageUrl": "49_en-us.png"
+  },
+  {
+    "gameCode": "5",
+    "gameName": "Mr.Rich",
+    "gameType": "Slot",
+    "imageUrl": "5_en-us.png"
+  },
+  {
+    "gameCode": "50",
+    "gameName": "Good Fortune",
+    "gameType": "Slot",
+    "imageUrl": "50_en-us.png"
+  },
+  {
+    "gameCode": "5007",
+    "gameName": "Da Fa Cai",
+    "gameType": "Slot",
+    "imageUrl": "5007_en-us.png"
+  },
+  {
+    "gameCode": "5008",
+    "gameName": "Da Hong Zhong",
+    "gameType": "Slot",
+    "imageUrl": "5008_en-us.png"
+  },
+  {
+    "gameCode": "5009",
+    "gameName": "Uproar In Heaven",
+    "gameType": "Slot",
+    "imageUrl": "5009_en-us.png"
+  },
+  {
+    "gameCode": "51",
+    "gameName": "Ecstatic Circus",
+    "gameType": "Slot",
+    "imageUrl": "51_en-us.png"
+  },
+  {
+    "gameCode": "52",
+    "gameName": "JumpHigh",
+    "gameType": "Slot",
+    "imageUrl": "52_en-us.png"
+  },
+  {
+    "gameCode": "54",
+    "gameName": "Funny Alpaca",
+    "gameType": "Slot",
+    "imageUrl": "54_en-us.png"
+  },
+  {
+    "gameCode": "55",
+    "gameName": "Dragon Heart",
+    "gameType": "Slot",
+    "imageUrl": "55_en-us.png"
+  },
+  {
+    "gameCode": "57",
+    "gameName": "The Beast War",
+    "gameType": "Slot",
+    "imageUrl": "57_en-us.png"
+  },
+  {
+    "gameCode": "58",
+    "gameName": "GuGuGu2",
+    "gameType": "Slot",
+    "imageUrl": "58_en-us.png"
+  },
+  {
+    "gameCode": "59",
+    "gameName": "SummerMood",
+    "gameType": "Slot",
+    "imageUrl": "59_en-us.png"
+  },
+  {
+    "gameCode": "60",
+    "gameName": "Jungle Party",
+    "gameType": "Arcade",
+    "imageUrl": "60_en-us.png"
+  },
+  {
+    "gameCode": "61",
+    "gameName": "Mr.Bean",
+    "gameType": "Arcade",
+    "imageUrl": "61_en-us.png"
+  },
+  {
+    "gameCode": "64",
+    "gameName": "Zeus",
+    "gameType": "Slot",
+    "imageUrl": "64_en-us.png"
+  },
+  {
+    "gameCode": "66",
+    "gameName": "Fire777",
+    "gameType": "Slot",
+    "imageUrl": "66_en-us.png"
+  },
+  {
+    "gameCode": "67",
+    "gameName": "Golden Eggs",
+    "gameType": "Slot",
+    "imageUrl": "67_en-us.png"
+  },
+  {
+    "gameCode": "68",
+    "gameName": "WuKong&Peaches",
+    "gameType": "Slot",
+    "imageUrl": "68_en-us.png"
+  },
+  {
+    "gameCode": "69",
+    "gameName": "FaCaiShen",
+    "gameType": "Slot",
+    "imageUrl": "69_en-us.png"
+  },
+  {
+    "gameCode": "7",
+    "gameName": "RaveJump",
+    "gameType": "Slot",
+    "imageUrl": "7_en-us.png"
+  },
+  {
+    "gameCode": "70",
+    "gameName": "WanBaoDino",
+    "gameType": "Slot",
+    "imageUrl": "70_en-us.png"
+  },
+  {
+    "gameCode": "72",
+    "gameName": "HappyRichYear",
+    "gameType": "Slot",
+    "imageUrl": "72_en-us.png"
+  },
+  {
+    "gameCode": "74",
+    "gameName": "TreasureBowl",
+    "gameType": "Slot",
+    "imageUrl": "74_en-us.png"
+  },
+  {
+    "gameCode": "76",
+    "gameName": "WonWonWon",
+    "gameType": "Slot",
+    "imageUrl": "76_en-us.png"
+  },
+  {
+    "gameCode": "77",
+    "gameName": "RedPhoenix",
+    "gameType": "Slot",
+    "imageUrl": "77_en-us.png"
+  },
+  {
+    "gameCode": "78",
+    "gameName": "Apollo",
+    "gameType": "Slot",
+    "imageUrl": "78_en-us.png"
+  },
+  {
+    "gameCode": "79",
+    "gameName": "Chameleon",
+    "gameType": "Slot",
+    "imageUrl": "79_en-us.png"
+  },
+  {
+    "gameCode": "8",
+    "gameName": "SoSweet",
+    "gameType": "Slot",
+    "imageUrl": "8_en-us.png"
+  },
+  {
+    "gameCode": "80",
+    "gameName": "Poseidon",
+    "gameType": "Slot",
+    "imageUrl": "80_en-us.png"
+  },
+  {
+    "gameCode": "81",
+    "gameName": "TreasureIsland",
+    "gameType": "Slot",
+    "imageUrl": "81_en-us.png"
+  },
+  {
+    "gameCode": "83",
+    "gameName": "Fire Queen",
+    "gameType": "Slot",
+    "imageUrl": "83_en-us.png"
+  },
+  {
+    "gameCode": "86",
+    "gameName": "RunningToro",
+    "gameType": "Slot",
+    "imageUrl": "86_en-us.png"
+  },
+  {
+    "gameCode": "89",
+    "gameName": "THOR",
+    "gameType": "Slot",
+    "imageUrl": "89_en-us.png"
+  },
+  {
+    "gameCode": "9",
+    "gameName": "ZhongKui",
+    "gameType": "Slot",
+    "imageUrl": "9_en-us.png"
+  },
+  {
+    "gameCode": "92",
+    "gameName": "World Cup Russia 2018",
+    "gameType": "Slot",
+    "imageUrl": "92_en-us.png"
+  },
+  {
+    "gameCode": "95",
+    "gameName": "Football Boots",
+    "gameType": "Slot",
+    "imageUrl": "95_en-us.png"
+  },
+  {
+    "gameCode": "96",
+    "gameName": "Football Baby",
+    "gameType": "Slot",
+    "imageUrl": "96_en-us.png"
+  },
+  {
+    "gameCode": "98",
+    "gameName": "All Star Team",
+    "gameType": "Slot",
+    "imageUrl": "98_en-us.png"
+  },
+  {
+    "gameCode": "99",
+    "gameName": "JumpHigher",
+    "gameType": "Slot",
+    "imageUrl": "99_en-us.png"
+  },
+  {
+    "gameCode": "AB3",
+    "gameName": "Paradise",
+    "gameType": "Fish",
+    "imageUrl": "AB3_en-us.png"
+  },
+  {
+    "gameCode": "AR01",
+    "gameName": "The Magic Brush",
+    "gameType": "Slot",
+    "imageUrl": "AR01_en-us.png"
+  },
+  {
+    "gameCode": "AR02",
+    "gameName": "Fortune Cats",
+    "gameType": "Slot",
+    "imageUrl": "AR02_en-us.png"
+  },
+  {
+    "gameCode": "AR03",
+    "gameName": "Backyard Gold",
+    "gameType": "Slot",
+    "imageUrl": "AR03_en-us.png"
+  },
+  {
+    "gameCode": "AR04",
+    "gameName": "Dou Di Zhu",
+    "gameType": "Slot",
+    "imageUrl": "AR04_en-us.png"
+  },
+  {
+    "gameCode": "AR05",
+    "gameName": "Dragon Gate",
+    "gameType": "Slot",
+    "imageUrl": "AR05_en-us.png"
+  },
+  {
+    "gameCode": "AR06",
+    "gameName": "Jungle Treasure",
+    "gameType": "Slot",
+    "imageUrl": "AR06_en-us.png"
+  },
+  {
+    "gameCode": "AR07",
+    "gameName": "Kickin' Kash",
+    "gameType": "Slot",
+    "imageUrl": "AR07_en-us.png"
+  },
+  {
+    "gameCode": "AR08",
+    "gameName": "Stone to Gold",
+    "gameType": "Slot",
+    "imageUrl": "AR08_en-us.png"
+  },
+  {
+    "gameCode": "AR09",
+    "gameName": "Hu Got Lucky",
+    "gameType": "Slot",
+    "imageUrl": "AR09_en-us.png"
+  },
+  {
+    "gameCode": "AR11",
+    "gameName": "Five Ghosts",
+    "gameType": "Slot",
+    "imageUrl": "AR11_en-us.png"
+  },
+  {
+    "gameCode": "AR12",
+    "gameName": "Typhoon Cash",
+    "gameType": "Slot",
+    "imageUrl": "AR12_en-us.png"
+  },
+  {
+    "gameCode": "AR13",
+    "gameName": "Doggone Lucky",
+    "gameType": "Slot",
+    "imageUrl": "AR13_en-us.png"
+  },
+  {
+    "gameCode": "AR14",
+    "gameName": "Double Happy",
+    "gameType": "Slot",
+    "imageUrl": "AR14_en-us.png"
+  },
+  {
+    "gameCode": "AR15",
+    "gameName": "Love Story",
+    "gameType": "Slot",
+    "imageUrl": "AR15_en-us.png"
+  },
+  {
+    "gameCode": "AR16",
+    "gameName": "Rabbit Rampage",
+    "gameType": "Slot",
+    "imageUrl": "AR16_en-us.png"
+  },
+  {
+    "gameCode": "AR17",
+    "gameName": "Le Cirque",
+    "gameType": "Slot",
+    "imageUrl": "AR17_en-us.png"
+  },
+  {
+    "gameCode": "AR18",
+    "gameName": "Eternal Fortune",
+    "gameType": "Slot",
+    "imageUrl": "AR18_en-us.png"
+  },
+  {
+    "gameCode": "AR20",
+    "gameName": "Lotus Lantern",
+    "gameType": "Slot",
+    "imageUrl": "AR20_en-us.png"
+  },
+  {
+    "gameCode": "AR21",
+    "gameName": "Magpie Bridge",
+    "gameType": "Slot",
+    "imageUrl": "AR21_en-us.png"
+  },
+  {
+    "gameCode": "AR22",
+    "gameName": "Mazu",
+    "gameType": "Slot",
+    "imageUrl": "AR22_en-us.png"
+  },
+  {
+    "gameCode": "AR23",
+    "gameName": "Five Lucky Elements",
+    "gameType": "Slot",
+    "imageUrl": "AR23_en-us.png"
+  },
+  {
+    "gameCode": "AR24",
+    "gameName": "Xiao Fu Xing",
+    "gameType": "Slot",
+    "imageUrl": "AR24_en-us.png"
+  },
+  {
+    "gameCode": "AR25",
+    "gameName": "Ba Xian Chuan Qi",
+    "gameType": "Slot",
+    "imageUrl": "AR25_en-us.png"
+  },
+  {
+    "gameCode": "AR26",
+    "gameName": "Sheng Xiao Chuan Qi",
+    "gameType": "Slot",
+    "imageUrl": "AR26_en-us.png"
+  },
+  {
+    "gameCode": "AR28",
+    "gameName": "Hungry Cats",
+    "gameType": "Slot",
+    "imageUrl": "AR28_en-us.png"
+  },
+  {
+    "gameCode": "AR29",
+    "gameName": "Wealthy Chicken",
+    "gameType": "Slot",
+    "imageUrl": "AR29_en-us.png"
+  },
+  {
+    "gameCode": "AR37",
+    "gameName": "Lucky Legend",
+    "gameType": "Slot",
+    "imageUrl": "AR37_en-us.png"
+  },
+  {
+    "gameCode": "AR39",
+    "gameName": "Zombie's Fortune",
+    "gameType": "Slot",
+    "imageUrl": "AR39_en-us.png"
+  },
+  {
+    "gameCode": "AR41",
+    "gameName": "Dou Di Zhu Plus",
+    "gameType": "Slot",
+    "imageUrl": "AR41_en-us.png"
+  },
+  {
+    "gameCode": "AS01",
+    "gameName": "Boots of Luck",
+    "gameType": "Slot",
+    "imageUrl": "AS01_en-us.png"
+  },
+  {
+    "gameCode": "AS02",
+    "gameName": "Cirque de fous",
+    "gameType": "Slot",
+    "imageUrl": "AS02_en-us.png"
+  },
+  {
+    "gameCode": "AS03",
+    "gameName": "Dragon Hunters",
+    "gameType": "Slot",
+    "imageUrl": "AS03_en-us.png"
+  },
+  {
+    "gameCode": "AS04",
+    "gameName": "Fortune Spirits",
+    "gameType": "Slot",
+    "imageUrl": "AS04_en-us.png"
+  },
+  {
+    "gameCode": "AS08",
+    "gameName": "Golden Mayan",
+    "gameType": "Slot",
+    "imageUrl": "AS08_en-us.png"
+  },
+  {
+    "gameCode": "AS09",
+    "gameName": "Hollywood Pets",
+    "gameType": "Slot",
+    "imageUrl": "AS09_en-us.png"
+  },
+  {
+    "gameCode": "AS10",
+    "gameName": "Lucky 3",
+    "gameType": "Slot",
+    "imageUrl": "AS10_en-us.png"
+  },
+  {
+    "gameCode": "AS17",
+    "gameName": "Treasure of Seti",
+    "gameType": "Slot",
+    "imageUrl": "AS17_en-us.png"
+  },
+  {
+    "gameCode": "AS18",
+    "gameName": "Wild Fudge",
+    "gameType": "Slot",
+    "imageUrl": "AS18_en-us.png"
+  },
+  {
+    "gameCode": "AS19",
+    "gameName": "Xmas Tales",
+    "gameType": "Slot",
+    "imageUrl": "AS19_en-us.png"
+  },
+  {
+    "gameCode": "AS20",
+    "gameName": "Queen Of Dead",
+    "gameType": "Slot",
+    "imageUrl": "AS20_en-us.png"
+  },
+  {
+    "gameCode": "AS33",
+    "gameName": "Pig Of Luck",
+    "gameType": "Slot",
+    "imageUrl": "AS33_en-us.png"
+  },
+  {
+    "gameCode": "AT01",
+    "gameName": "Oneshot Fishing",
+    "gameType": "Fish",
+    "imageUrl": "AT01_en-us.png"
+  },
+  {
+    "gameCode": "AT05",
+    "gameName": "LuckyFishing",
+    "gameType": "Fish",
+    "imageUrl": "AT05_en-us.png"
+  },
+  {
+    "gameCode": "AT101",
+    "gameName": "Supercar",
+    "gameType": "Arcade",
+    "imageUrl": "AT101_en-us.png"
+  },
+  {
+    "gameCode": "BA202",
+    "gameName": "Beauty & Beast",
+    "gameType": "Slot",
+    "imageUrl": "BA202_en-us.png"
+  },
+  {
+    "gameCode": "BA203",
+    "gameName": "Paywire",
+    "gameType": "Slot",
+    "imageUrl": "BA203_en-us.png"
+  },
+  {
+    "gameCode": "BU01",
+    "gameName": "Water Margin",
+    "gameType": "Slot",
+    "imageUrl": "BU01_en-us.png"
+  },
+  {
+    "gameCode": "BU02",
+    "gameName": "HUGA",
+    "gameType": "Slot",
+    "imageUrl": "BU02_en-us.png"
+  },
+  {
+    "gameCode": "BU03",
+    "gameName": "JIN LIAN PAN",
+    "gameType": "Slot",
+    "imageUrl": "BU03_en-us.png"
+  },
+  {
+    "gameCode": "BU04",
+    "gameName": "MONKEY KING",
+    "gameType": "Slot",
+    "imageUrl": "BU04_en-us.png"
+  },
+  {
+    "gameCode": "BU05",
+    "gameName": "Empress Wu",
+    "gameType": "Slot",
+    "imageUrl": "BU05_en-us.png"
+  },
+  {
+    "gameCode": "BU06",
+    "gameName": "Beanstalk",
+    "gameType": "Slot",
+    "imageUrl": "BU06_en-us.png"
+  },
+  {
+    "gameCode": "BU07",
+    "gameName": "TIGER HERO",
+    "gameType": "Slot",
+    "imageUrl": "BU07_en-us.png"
+  },
+  {
+    "gameCode": "BU08",
+    "gameName": "HAPPY BUDDHA",
+    "gameType": "Slot",
+    "imageUrl": "BU08_en-us.png"
+  },
+  {
+    "gameCode": "BU09",
+    "gameName": "Master Panda",
+    "gameType": "Slot",
+    "imageUrl": "BU09_en-us.png"
+  },
+  {
+    "gameCode": "BU10",
+    "gameName": "Myth",
+    "gameType": "Slot",
+    "imageUrl": "BU10_en-us.png"
+  },
+  {
+    "gameCode": "BU11",
+    "gameName": "PARTY ISLAND",
+    "gameType": "Slot",
+    "imageUrl": "BU11_en-us.png"
+  },
+  {
+    "gameCode": "BU12",
+    "gameName": "Nezha",
+    "gameType": "Slot",
+    "imageUrl": "BU12_en-us.png"
+  },
+  {
+    "gameCode": "BU13",
+    "gameName": "Da Fu Xing",
+    "gameType": "Slot",
+    "imageUrl": "BU13_en-us.png"
+  },
+  {
+    "gameCode": "BU14",
+    "gameName": "Fortune Gate",
+    "gameType": "Slot",
+    "imageUrl": "BU14_en-us.png"
+  },
+  {
+    "gameCode": "BU15",
+    "gameName": "The Legend Of Snake",
+    "gameType": "Slot",
+    "imageUrl": "BU15_en-us.png"
+  },
+  {
+    "gameCode": "BU16",
+    "gameName": "ROLLING DRAGON",
+    "gameType": "Slot",
+    "imageUrl": "BU16_en-us.png"
+  },
+  {
+    "gameCode": "BU17",
+    "gameName": "DRAGON CASH",
+    "gameType": "Slot",
+    "imageUrl": "BU17_en-us.png"
+  },
+  {
+    "gameCode": "BU18",
+    "gameName": "Sun Er Niang",
+    "gameType": "Slot",
+    "imageUrl": "BU18_en-us.png"
+  },
+  {
+    "gameCode": "BU19",
+    "gameName": "MULAN",
+    "gameType": "Slot",
+    "imageUrl": "BU19_en-us.png"
+  },
+  {
+    "gameCode": "BU20",
+    "gameName": "Rush Hour",
+    "gameType": "Slot",
+    "imageUrl": "BU20_en-us.png"
+  },
+  {
+    "gameCode": "BU21",
+    "gameName": "GENIE",
+    "gameType": "Slot",
+    "imageUrl": "BU21_en-us.png"
+  },
+  {
+    "gameCode": "BU22",
+    "gameName": "Lin Chong",
+    "gameType": "Slot",
+    "imageUrl": "BU22_en-us.png"
+  },
+  {
+    "gameCode": "BU23",
+    "gameName": "XIYOUJI",
+    "gameType": "Slot",
+    "imageUrl": "BU23_en-us.png"
+  },
+  {
+    "gameCode": "BU24",
+    "gameName": "Wild Chameleon",
+    "gameType": "Slot",
+    "imageUrl": "BU24_en-us.png"
+  },
+  {
+    "gameCode": "BU25",
+    "gameName": "JUNGLE ISLAND",
+    "gameType": "Slot",
+    "imageUrl": "BU25_en-us.png"
+  },
+  {
+    "gameCode": "CC01",
+    "gameName": "LongLongLong",
+    "gameType": "Slot",
+    "imageUrl": "CC01_en-us.png"
+  },
+  {
+    "gameCode": "GB1",
+    "gameName": "3 2 1Go!",
+    "gameType": "Arcade",
+    "imageUrl": "GB1_en-us.png"
+  },
+  {
+    "gameCode": "GO169",
+    "gameName": "Dragon Pachinko",
+    "gameType": "Arcade",
+    "imageUrl": "GO169_en-us.png"
+  }
+]

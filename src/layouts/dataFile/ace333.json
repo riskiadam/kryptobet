@@ -1,0 +1,277 @@
+[
+  {
+    "gameType": "arcade",
+    "gameCode": "ace333blackhorse",
+    "gameName": "Black Horse"
+  },
+  {
+    "gameType": "arcade",
+    "gameCode": "ace333circus",
+    "gameName": "Circus"
+  },
+  {
+    "gameType": "arcade",
+    "gameCode": "ace333monkeythunderbolt1",
+    "gameName": "Monkey Thunderbolt"
+  },
+  {
+    "gameType": "arcade",
+    "gameCode": "ace333monkeythunderbolt2",
+    "gameName": "Monkey Thunderbolt 2"
+  },
+  {
+    "gameType": "arcade",
+    "gameCode": "ace333monkeythunderbolt2x",
+    "gameName": "Monkey Thunderbolt 2X"
+  },
+  {
+    "gameType": "arcade",
+    "gameCode": "ace333oceanking2",
+    "gameName": "Ocean King 2"
+  },
+  {
+    "gameType": "arcade",
+    "gameCode": "ace333oceanking2special",
+    "gameName": "Ocean King 2 Special Edition"
+  },
+  {
+    "gameType": "arcade",
+    "gameCode": "ace333oceankingkiller",
+    "gameName": "Ocean King Killer Submarine"
+  },
+  {
+    "gameType": "arcade",
+    "gameCode": "ace333olymics",
+    "gameName": "Olymics"
+  },
+  {
+    "gameType": "arcade",
+    "gameCode": "ace333racingcar",
+    "gameName": "Racing Car"
+  },
+  {
+    "gameType": "arcade",
+    "gameCode": "ace333soccerboys",
+    "gameName": "Soccer Boys"
+  },
+  {
+    "gameType": "arcade",
+    "gameCode": "ace333wukong",
+    "gameName": "Wukong"
+  },
+  {
+    "gameType": "arcade",
+    "gameCode": "ace333wukong2",
+    "gameName": "Wukong 2"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "ace333artictreasure",
+    "gameName": "Artic Treasure"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "ace333bonusbear",
+    "gameName": "Bonus Bear"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "ace333boykingtreasure",
+    "gameName": "Boy King Treasure"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "ace333captaintreasure",
+    "gameName": "Captain Treasure"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "ace333dophinreef",
+    "gameName": "Dophin Reef"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "ace333fantasticfour",
+    "gameName": "Fantastic Four"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "ace333fongshen",
+    "gameName": "Fong Shen"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "ace333footballgirls",
+    "gameName": "Football Girls"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "ace333fortuneofthefox",
+    "gameName": "Fortune Of The Fox"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "ace333fortunes88",
+    "gameName": "Fortunes 88"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "ace333geishastory",
+    "gameName": "Geisha Story"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "ace333godofwealth",
+    "gameName": "God Of Wealth"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "ace333goldentour",
+    "gameName": "Golden Tour"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "ace333greatblue",
+    "gameName": "Great Blue"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "ace333highwayking",
+    "gameName": "Highway King"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "ace333hulk",
+    "gameName": "Hulk"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "ace333lottomadness",
+    "gameName": "Lotto Madness"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "ace333marilynmonroe",
+    "gameName": "Marilyn Monroe"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "ace333niannianyouyu",
+    "gameName": "Nian Nian You Yu"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "ace333panthermoon",
+    "gameName": "Panther Moon"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "ace333penguinvacation",
+    "gameName": "Penguin Vacation"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "ace333romeglory",
+    "gameName": "Rome & Glory"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "ace333safariheat",
+    "gameName": "Safari Heat"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "ace333sixiang",
+    "gameName": "Si Xiang"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "ace333silentsamurai",
+    "gameName": "Silent Samurai"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "ace333silverbullet",
+    "gameName": "Silver Bullet"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "ace333super8high",
+    "gameName": "Super8 High"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "ace333super8normal",
+    "gameName": "Super8 Normal"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "ace333thaiparadise",
+    "gameName": "Thai Paradise"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "ace333thor",
+    "gameName": "Thor"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "ace333threekingdom",
+    "gameName": "Three Kingdom"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "ace333zhaocaijinbao",
+    "gameName": "Zhao Cai Jin Bao"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "ace333zhaocaitongzi",
+    "gameName": "Zhao Cai Tong Zi"
+  },
+  {
+    "gameType": "table",
+    "gameCode": "ace333baccarat",
+    "gameName": "Baccarat"
+  },
+  {
+    "gameType": "table",
+    "gameCode": "ace333dadu",
+    "gameName": "Dadu"
+  },
+  {
+    "gameType": "table",
+    "gameCode": "ace333dragontiger",
+    "gameName": "Dragon Tiger"
+  },
+  {
+    "gameType": "table",
+    "gameCode": "ace333fantan",
+    "gameName": "Fantan"
+  },
+  {
+    "gameType": "table",
+    "gameCode": "ace333hulucock",
+    "gameName": "Hulu Cock"
+  },
+  {
+    "gameType": "table",
+    "gameCode": "ace333koprok",
+    "gameName": "Koprok"
+  },
+  {
+    "gameType": "table",
+    "gameCode": "ace333sedie",
+    "gameName": "Sedie"
+  },
+  {
+    "gameType": "table",
+    "gameCode": "ace333sicbo",
+    "gameName": "Sic Bo"
+  },
+  {
+    "gameType": "table",
+    "gameCode": "ace333superroulette",
+    "gameName": "Super Roulette"
+  }
+]

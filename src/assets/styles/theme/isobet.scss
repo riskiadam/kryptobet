@@ -1,0 +1,339 @@
+// All css components in 1 theme
+@import 'src/assets/styles/isobet/fonts.scss';
+@import "src/assets/styles/isobet/repository.scss";
+@import "src/assets/styles/isobet/header.scss";
+@import "src/assets/styles/isobet/nav.scss";
+@import "src/assets/styles/isobet/ticker.scss";
+@import "src/assets/styles/isobet/home.scss";
+@import "src/assets/styles/isobet/register.scss";
+@import "src/assets/styles/isobet/blog.scss";
+@import "src/assets/styles/isobet/report.scss";
+@import "src/assets/styles/isobet/wallet.scss";
+@import "src/assets/styles/isobet/promotion.scss";
+@import "src/assets/styles/isobet/games.scss";
+@import "src/assets/styles/isobet/profile.scss";
+@import "src/assets/styles/isobet/referral.scss";
+@import "src/assets/styles/isobet/help.scss";
+@import "src/assets/styles/isobet/footer.scss";
+
+// Desktop Devices (pc and laptop, 1200px)
+#app{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size:14px;
+    font-weight: lighter;
+    margin:0px;
+    padding: 0px;
+    background-color:#000;
+}
+body{
+    background-color: #000;
+    width: 100%;
+}
+.index-web{
+    background-color: #000;
+    width: 100%;
+}
+body{
+    background-color: #000;
+    width: 100%;
+}
+.max-width{
+    width:100%;
+}
+.popup-images{
+    width: 100%;    
+}
+.row{
+    margin-left: 0%;
+    margin-right: 0%;
+}
+.center{
+    text-align: center;
+}
+.right{
+    text-align:right;
+}
+.padding-lr-5{
+    padding-left:5px;
+    padding-right:5px;
+}
+.modal-header{
+    background-color: #000;
+}
+.modal-body{
+    background-color: #000;
+}
+.modal-header-forgot-password{
+    width:100%; 
+    padding:0%; 
+    margin:0%; 
+    background-color:black;
+}
+.modal-row-header-forgot-password{
+width:100%; 
+bottom: 20%; 
+left: 50%; 
+transform: translate(-50%, -50%); 
+padding: 0px; 
+margin:0%;
+}
+.modal-row-header-forgot-password-title{
+color:white; 
+font-size:18px; 
+padding:0%; 
+margin:0%;
+}
+.modal-row-header-forgot-password-5p{
+margin-left:0px; 
+margin-right:0px; 
+margin-top:5%;
+width: 100%;
+}
+.b-sidebar{
+    .b-sidebar-header{
+        background-color: #000;
+        padding: 1rem 1rem;
+    }    
+}
+.home-description-text{
+    font-size:12px; 
+    margin:0px; 
+    padding:0px; 
+    text-align: justify;     
+    text-justify: inter-word; 
+    word-spacing: 2px;
+    line-height: 130%;
+}
+.home-description-text-2{
+    font-size:12px; 
+    margin:0px; 
+    padding:0px; 
+    text-align: justify;     
+    text-justify: inter-word; 
+    word-spacing: 2px;
+    line-height: 130%;
+    margin-left: 15px;
+}
+.home-description-title{
+    color:#FFCC33; 
+    font-size:14px;
+    font-weight: bold;
+    text-align: left; 
+    word-spacing: 2px;
+    margin:0px; 
+    padding: 0px;
+    margin-bottom: 1px;
+    margin-left: 15px;
+}
+.home-description-title-2{
+    color:#FFCC33; 
+    font-size:17px;
+    font-weight: bold;
+    text-align: left; 
+    word-spacing: 2px;
+    margin:0px; 
+    padding: 0px;
+    margin-bottom: 1px;
+}
+.home-description-title-3{
+    color:#FFCC33; 
+    font-size:17px;
+    font-weight: bold;
+    text-align: left; 
+    word-spacing: 2px;
+    margin:0px; 
+    padding: 0px;
+    margin-bottom: 15px;
+}
+.carousel-dekstop{   
+    display: $desktopA; 
+}
+.carousel-mobile{   
+    display: $mobileA;
+}
+.vue-notification{
+    padding: 10px;
+    margin: 0 5px 5px;  
+    font-size: 15px;
+
+    .notification-title{
+        color: #000;
+        font-weight: bold;
+        font-size: 20px;
+        margin-bottom: 5px;
+    }
+
+    color: #000;
+    background: #44A4FC;
+    border-left: 5px solid #187FE7;
+
+    &.warn{
+        background: #f18713;
+        border-left-color: #f48a06;
+        color: #000;
+    }
+
+    &.error{
+        background: #E54D42;
+        border-left-color: #B82E24;
+        color: #000;
+    }
+
+    &.success{
+        background: #68CD86;
+        border-left-color: #42A85F;
+        color: #000;
+    }
+}
+.modal-title-20{
+    color:white; 
+    font-weight:bold; 
+    font-size:20px;
+}
+.row-pm-0{
+    padding:0px; 
+    margin:0px;
+}
+.game-img-slot{
+    cursor: pointer;
+    width:100%;
+    margin-top:10px; 
+    margin-bottom:10px;
+} 
+.ButtonHome{
+    display: none;
+}
+.KategoriHome{
+    display: none;
+}
+.title-modal-header{
+    color:white;
+}  
+.img-modal-contact-header{
+padding:0%; 
+margin:0%; 
+width:100%; 
+border-left:1px solid white; 
+border-bottom:1px solid white; 
+border-right:1px solid white;
+}
+.img-header-forgot-password{
+padding:0%; 
+margin:0%; 
+width:100%; 
+border: 1px solid white;
+}
+.contact-form{
+width:100%;
+margin-left: 10%;
+margin-right: 10%;
+}
+.contact-form-input{
+width: 100%; 
+padding: 12px; 
+border: 1px solid #ccc; 
+border-radius: 4px; 
+box-sizing: border-box; 
+margin-top: 6px; 
+margin-bottom: 16px; 
+resize: vertical;
+}
+.contact-form-button{
+border-radius:10px; 
+background-color: #FBE80D; 
+color:black; 
+font-size:18px; 
+font-weight:bold; 
+width:100%; 
+padding: 5px 10px;
+}  
+
+// Mobile Devices (landscape phones, 850px)
+@media (max-width: 850px) {
+    .ButtonHome{
+        width: 100%;
+        display: block;
+        background-image: linear-gradient( #f1e60d, #999502, #252400, #000000);
+        padding:0px; 
+        margin:0px;
+    }    
+    .ButtonHomeRow{
+        width: 100%;
+        padding:0px; 
+        margin:0px;
+        content: "";
+        display: table;
+        clear: both;
+    }
+    .ButtonHomeCol{
+        float: left;
+        width: 33.33%;
+        padding:0px; 
+        margin:0px;
+    }
+    .ButtonHomeLogin{
+        cursor: pointer;
+        width:100%;
+        padding:10px 0px; 
+        margin:0px; 
+        border-radius:0px; 
+        border: 0.5px solid gray; 
+        background-image: linear-gradient( #f1e60d, #999502, #252400, #000000);
+    }
+    .ButtonHomeSpan{
+        font-size:17px; 
+        color:white;
+    }
+    .ButtonHomeImage{
+        width: 30px;
+        height: 30px;
+    }
+    .KategoriHome{
+        display: block;
+        background-color: #000000;
+        padding:0px; 
+        margin:0px;
+    }
+    .KategoriHomeCol{
+        padding:0px; 
+        margin:0px;
+    }    
+    .game-img-slot{
+        height:inherit;
+        margin-top:10px; 
+        margin-bottom:10px;
+    }    
+    .carousel-dekstop{   
+        display: $desktopB;
+    }    
+    .carousel-mobile{   
+        display: $mobileB;
+    }
+    .row{
+        margin-left: 0%;
+        margin-right: 0%;
+    }
+    .modal.show .modal-dialog{
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+    div#bv-modal-example___BV_modal_content_.modal-content{
+        margin: 0%;
+        transform: translate(-50%,0%);
+        left: 50%;
+        top: 0%;
+        padding: 0%;
+        width: 350px;
+    }
+    .modal-text-games{
+        font-size: 20px;
+        font-weight: bold;
+        vertical-align: middle;
+    }
+    button.btn.btn-outline-danger{
+        background-color: #dc3545;
+    }
+    button.btn.btn-outline-danger.disabled{
+        background-color: transparent;
+    }   
+}

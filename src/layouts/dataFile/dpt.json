@@ -1,0 +1,777 @@
+[
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_hb",
+    "gameName": "ANightOut"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_agoeg",
+    "gameName": "AgeofEgypt"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_aeolus",
+    "gameName": "AgeoftheGodsGodofStorms"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_athn",
+    "gameName": "AgeoftheGodsGoddessOfWisdom"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_kolymp",
+    "gameName": "AgeoftheGodsKingofOlympus"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_aogmm",
+    "gameName": "AgeoftheGodsMedusaMonsters"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_hrcls",
+    "gameName": "AgeoftheGodsPrinceOfOlympus"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_aogrots",
+    "gameName": "AgeoftheGodsRuleroftheSky"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_arc",
+    "gameName": "Archer"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "gpas_aluck_pop",
+    "gameName": "ArowanasLuck"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_gtsatq",
+    "gameName": "AtlantisQueen"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_bs",
+    "gameName": "BaiShi"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_bzxt",
+    "gameName": "BaoZhuXuanTian"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_bt",
+    "gameName": "BermudaTriangle"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_bbbo",
+    "gameName": "BerryBerryBonanza"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_bb",
+    "gameName": "BigBuffalo"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_bl",
+    "gameName": "BigLion"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "gpas_bwizard_pop",
+    "gameName": "BlueWizard"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_bob",
+    "gameName": "BonusBears"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_bd",
+    "gameName": "BonusDigger"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_bosl",
+    "gameName": "BookofShangriLa"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_bfb",
+    "gameName": "BuffaloBlitz"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "gpas_bblitz2_pop",
+    "gameName": "BuffaloBlitz2"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_bul",
+    "gameName": "BuffaloLightning"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_ct",
+    "gameName": "CaptainTreasure"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_catqc",
+    "gameName": "CatQueen"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_ch8",
+    "gameName": "Choj888"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_chl",
+    "gameName": "CherryLove"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_chwi",
+    "gameName": "CheshireWild"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_cm",
+    "gameName": "ChineseKitchen"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_cts",
+    "gameName": "ChoisTravellingShow"
+  },
+  {
+    "gameType": "Table",
+    "gameCode": "pt_ro",
+    "gameName": "ClassicRoulette"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_ccccny",
+    "gameName": "CoinCoinCoin"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_c7",
+    "gameName": "Crazy7"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_mobdt",
+    "gameName": "DesertTreasure"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_dnr",
+    "gameName": "DolphinReef"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_dj",
+    "gameName": "DoubleJungle"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "gpas_dbond_pop",
+    "gameName": "DragonBond"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_drgch",
+    "gameName": "DragonChampions"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_dg",
+    "gameName": "DragonGems"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_drgo",
+    "gameName": "DragonGong"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_ewb",
+    "gameName": "EastWindBattle"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_eas",
+    "gameName": "EasterSurprise"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_epa",
+    "gameName": "EpicApe"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "gpas_elady_pop",
+    "gameName": "EternalLady"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_fcgz",
+    "gameName": "FeiCuiGongZhu"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_gtsflzt",
+    "gameName": "FeiLongZaiTian"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_fkmj",
+    "gameName": "FengKuangMaJiang"
+  },
+  {
+    "gameType": "Table",
+    "gameCode": "sw_fish_prawn_crab",
+    "gameName": "FishPrawnCrab"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_fbr",
+    "gameName": "FootballRules"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_fl",
+    "gameName": "FortuneLions"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_fxf",
+    "gameName": "FortunesOfTheFox"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_foy",
+    "gameName": "FountainOfYouth"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_fg",
+    "gameName": "FruityGirl"
+  },
+  {
+    "gameType": "Fishing",
+    "gameCode": "sw_fufarm",
+    "gameName": "FuFarm"
+  },
+  {
+    "gameType": "Fishing",
+    "gameCode": "sw_fufish",
+    "gameName": "FuFish"
+  },
+  {
+    "gameType": "Fishing",
+    "gameCode": "sw_fuqsg",
+    "gameName": "FuFruits"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_fsqt",
+    "gameName": "FuShouQiTian"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_fzyq",
+    "gameName": "FuZaiYanQian"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_mopa",
+    "gameName": "FullMoonMadness"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_fff",
+    "gameName": "FunkyFruitsFarm"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_fm",
+    "gameName": "FunkyMonkey"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_fmjp",
+    "gameName": "FunkyMonkeyJackpot"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_popc",
+    "gameName": "GaelicLuck"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_gq",
+    "gameName": "GemQueen"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_glrj",
+    "gameName": "GladiatorJackpot"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_gg",
+    "gameName": "GoGold"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_gol",
+    "gameName": "GodofLightning"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_gos",
+    "gameName": "GoldenTour"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_gr",
+    "gameName": "GorillasRealm"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_bib",
+    "gameName": "GreatBlue"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_grbjp",
+    "gameName": "GreatBlueJackpot"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_hlf",
+    "gameName": "HalloweenFortune"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_hlf2",
+    "gameName": "HalloweenFortune2"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_hh",
+    "gameName": "HauntedHouse"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_h2h",
+    "gameName": "Heart2Heart"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_hp",
+    "gameName": "HeavenlyPhoenix"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_hr",
+    "gameName": "HeavenlyRuler"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_hk",
+    "gameName": "Highwaykings"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_hwilds",
+    "gameName": "HologramWilds"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_gts50",
+    "gameName": "HotGems"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_hlcs",
+    "gameName": "HuanLeCaiShen"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_ashicv",
+    "gameName": "IceCave"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_ijp",
+    "gameName": "IncaJackpot"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_infdrg",
+    "gameName": "InfinityDragon"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_jpgt",
+    "gameName": "JackpotGiant"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_prli",
+    "gameName": "JaguarGold"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_gtsjxb",
+    "gameName": "JiXiang8"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_jqw",
+    "gameName": "JinQianWa"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_jogowi",
+    "gameName": "JokerGoesWild"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_jnglg",
+    "gameName": "JungleGiants"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_kog",
+    "gameName": "KingofGods"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_kxcs",
+    "gameName": "KuXuanCaiShen"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_legwld",
+    "gameName": "LegacyOfTheWild"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_ght_a",
+    "gameName": "LieYanZuanShi"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_lll",
+    "gameName": "LongLongLong"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_lm",
+    "gameName": "LottoMadness"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_lcc",
+    "gameName": "LuckyChanChu"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_luckyfim",
+    "gameName": "LuckyFisherman"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_mm",
+    "gameName": "MayaMillions"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_mwol",
+    "gameName": "MayaWheelofLuck"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_mer",
+    "gameName": "MermaidBeauty"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_mj",
+    "gameName": "MermaidJewels"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_mc",
+    "gameName": "MissCandy"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_dmzc",
+    "gameName": "MoneyCat"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_mpp",
+    "gameName": "MonkeyPoolParty"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_nian",
+    "gameName": "NianNianYouYu"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_nilazhnu",
+    "gameName": "NiuLangZhiNu"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_pg",
+    "gameName": "PandaGold"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_pp",
+    "gameName": "PandaPrize"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_pmn",
+    "gameName": "PantherMoon"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_pgv",
+    "gameName": "PenguinVacation"
+  },
+  {
+    "gameType": "Table",
+    "gameCode": "pt_ro_g",
+    "gameName": "PremiumEuropeanRoulette"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_qotp",
+    "gameName": "QueenOfThePharaohs"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_qow",
+    "gameName": "QueenofWands"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_cada",
+    "gameName": "ReadySetCASH"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_sfh",
+    "gameName": "SafariHeat"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_ssp",
+    "gameName": "SantaSurprise"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_sc",
+    "gameName": "SavannahCash"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_sx",
+    "gameName": "ShuangXi"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_sgcf",
+    "gameName": "ShuiGuoCaiFu"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_sl",
+    "gameName": "SiLing"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_sixng",
+    "gameName": "SiXiang"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_sis",
+    "gameName": "SilentSamurai"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_sctz",
+    "gameName": "SongCaiTongZi"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_gtsswk",
+    "gameName": "SunWuKong"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_suli",
+    "gameName": "SuperLion"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_sld",
+    "gameName": "SuperLuckyDollar"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_tr",
+    "gameName": "TRexCash"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_t2d",
+    "gameName": "TaleOfTwoDragons"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_tpd2",
+    "gameName": "ThaiParadise"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_gtsgme",
+    "gameName": "TheGreatMingEmpire"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_totiatp",
+    "gameName": "TheOrcaTheIcebergAndThePenguin"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_tc",
+    "gameName": "TigerCash"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_tigc",
+    "gameName": "TigerClaw"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_tiki_luck",
+    "gameName": "TikiLuck"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_tm",
+    "gameName": "TripleMonkey"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_trl",
+    "gameName": "TrueLove"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_twfr",
+    "gameName": "TwinFruits"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_vcstd",
+    "gameName": "VacationStationDeluxe"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_wotp",
+    "gameName": "WaysofthePhoenix"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_whk2",
+    "gameName": "WhiteKingII"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_wifl",
+    "gameName": "WickedFlamingo"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_www",
+    "gameName": "WolvesWolvesWolves"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_wfww",
+    "gameName": "WuFuWaWa"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_xwk",
+    "gameName": "XiaoWukong"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_xybl",
+    "gameName": "XingYunBianLian"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_xyjc",
+    "gameName": "XingYunJinChan"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_xufe",
+    "gameName": "XuanPuLianHuan"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_ycs",
+    "gameName": "YingCaiShen"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_yyy",
+    "gameName": "YuYuYu"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_yclong",
+    "gameName": "YunCongLong"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_zcjb",
+    "gameName": "ZhaoCaiJinBao"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "pt_zcjbjp",
+    "gameName": "ZhaoCaiJinBaoJackpot"
+  },
+  {
+    "gameType": "VideoSlot",
+    "gameCode": "sw_shctz",
+    "gameName": "ZhaoCaiTongZi"
+  }
+]

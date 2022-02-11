@@ -1,0 +1,90 @@
+.DesktopTicker{
+    display: $desktopA;
+  }
+  
+.MobileTicker{
+    display: $mobileA;
+}
+
+.AudioTicker:hover
+{
+    color: #EAA247;
+}
+
+.AudioTicker
+{
+    color:white;
+}
+
+.ticker-container{
+    background-color:#34313a;
+    color:#f0dd1d;
+    border-top: 2px solid #666666;
+    border-bottom: 2px solid #666666; 
+}
+
+.row-ticker{
+    height:30px;
+}
+
+.ticker-container-info{
+    background-color:#000; 
+    padding-top:2px;
+    padding-bottom:2px;
+}
+
+.ticker-container-marquee{
+    background-color:black; 
+}
+
+.ticker-container-info-text{
+    color:#f0dd1d; 
+    font-size:14px;
+    margin-left:5px;
+}
+
+.ticker{
+    color:#f0dd1d; 
+    font-size:14px;
+    margin-top:0.2%;
+}
+
+// Small devices (landscape phones, 576px and up)
+@media (max-width: 850px) {
+
+    .DesktopTicker{
+        display: $desktopB;
+      }
+      
+    .MobileTicker{
+        display: $mobileB;
+    }
+
+    .navbar-toggler{
+        margin-left: auto;
+        margin-right: 15px;
+        margin-bottom: 15px;
+    }
+
+    .row-ticker{
+        height:60px;
+    }
+
+    .ticker-container-marquee{
+        background-color:black;           
+    }
+
+    .ticker-container-info{
+        background-color:black; 
+        padding-top:2px;
+        padding-bottom: 2px;
+    }
+
+    .ticker{
+        color:#f0dd1d; 
+        font-size:12px;
+        margin: 0px;
+        padding: 0px;
+    }
+
+}

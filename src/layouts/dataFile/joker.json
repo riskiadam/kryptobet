@@ -1,0 +1,830 @@
+[
+  {
+    "gameName": "A Night Out",
+    "gameCode": "69xaiyrbo4dae"
+  },
+  {
+    "gameName": "Aladdin",
+    "gameCode": "113qm5xnhxoqn"
+  },
+  {
+    "gameName": "Alice",
+    "gameCode": "kia1eetdryo1c"
+  },
+  {
+    "gameName": "Amazon",
+    "gameCode": "kj4nqm3cfwtng"
+  },
+  {
+    "gameName": "Ancient Artifact",
+    "gameCode": "ie9eti6w4zfcs"
+  },
+  {
+    "gameName": "Ancient Egypt",
+    "gameCode": "naagsa5ycfugq"
+  },
+  {
+    "gameName": "Archer",
+    "gameCode": "wfo7bzs95uq7r"
+  },
+  {
+    "gameName": "Arctic Treasure",
+    "gameCode": "7rw3tfwz11kaw"
+  },
+  {
+    "gameName": "Atom",
+    "gameCode": "sy1jp1qq39gc4"
+  },
+  {
+    "gameName": "Aztec Temple",
+    "gameCode": "6o5emdcnoqyen"
+  },
+  {
+    "gameName": "Azteca",
+    "gameCode": "oqt9p9876m39y"
+  },
+  {
+    "gameName": "Bagua",
+    "gameCode": "gn1bc1kqj7gr4"
+  },
+  {
+    "gameName": "Bagua 2",
+    "gameCode": "quofrdenycyyn"
+  },
+  {
+    "gameName": "Beanstalk",
+    "gameCode": "ne4gq55cpitgg"
+  },
+  {
+    "gameName": "Big Game Safari",
+    "gameCode": "96k1k6d3x39za"
+  },
+  {
+    "gameName": "Blackbeard Legacy",
+    "gameCode": "swt38osdadyhc"
+  },
+  {
+    "gameName": "Bonus Bear",
+    "gameCode": "bwwza4umpbwsh"
+  },
+  {
+    "gameName": "Book Of Ra",
+    "gameCode": "ioheiiqk3xrc1"
+  },
+  {
+    "gameName": "Book Of Ra Deluxe",
+    "gameCode": "hf5hx8w9u1q3r"
+  },
+  {
+    "gameName": "Bounty Hunter",
+    "gameCode": "uafejs6a58xp6"
+  },
+  {
+    "gameName": "Burning Pearl",
+    "gameCode": "ur8593z8hu17w"
+  },
+  {
+    "gameName": "Burning Pearl Bingo",
+    "gameCode": "tocki7xk7xwq1"
+  },
+  {
+    "gameName": "Bushido Blade",
+    "gameCode": "86burqb38a9ua"
+  },
+  {
+    "gameName": "Caishen Riches",
+    "gameCode": "zygj7oqga9nck"
+  },
+  {
+    "gameName": "Caishen Riches Bingo",
+    "gameCode": "ezjsgctugyauc"
+  },
+  {
+    "gameName": "Captain Roger",
+    "gameCode": "numgk5mncpogn"
+  },
+  {
+    "gameName": "Captain's Treasure",
+    "gameCode": "bes8675wqiigs"
+  },
+  {
+    "gameName": "Captain's Treasure Pro",
+    "gameCode": "qieoeyodyyyoc"
+  },
+  {
+    "gameName": "Captains Treasure Progressive",
+    "gameCode": "awn5jciusna5c"
+  },
+  {
+    "gameName": "Cash Or Crash",
+    "gameCode": "r43yaw4okfmfq"
+  },
+  {
+    "gameName": "Chilli Hunter",
+    "gameCode": "n1ydr5mncpogn"
+  },
+  {
+    "gameName": "Chilli Hunter Bingo",
+    "gameCode": "fn6yhwksk7kfk"
+  },
+  {
+    "gameName": "China",
+    "gameCode": "dkzdo35rcipfs"
+  },
+  {
+    "gameName": "Chinese Boss",
+    "gameCode": "7tccifcktqre1"
+  },
+  {
+    "gameName": "Choy Sun Doa",
+    "gameCode": "k6p1webbrau1e"
+  },
+  {
+    "gameName": "Cluster Mania",
+    "gameCode": "iw7az1sm3drhh"
+  },
+  {
+    "gameName": "Columbus",
+    "gameCode": "aij68ciusna5c"
+  },
+  {
+    "gameName": "Crypto Mania",
+    "gameCode": "4akkze7ywgukq"
+  },
+  {
+    "gameName": "Cryptomania Bingo",
+    "gameCode": "z7k6mqf3z495a"
+  },
+  {
+    "gameName": "Cyber Race",
+    "gameCode": "nqyun5dpcjtsy"
+  },
+  {
+    "gameName": "Dia De Los Muertos",
+    "gameCode": "cd4rcge6dhqb4"
+  },
+  {
+    "gameName": "Dinosaurs Hunter T-rex Awaken",
+    "gameCode": "gu5rkuknepyrn"
+  },
+  {
+    "gameName": "Dolphin Reef",
+    "gameCode": "rh8iwwntk3mie"
+  },
+  {
+    "gameName": "Dolphin Treasure",
+    "gameCode": "ateqfxp1sqamn"
+  },
+  {
+    "gameName": "Dolphins Pearl",
+    "gameCode": "43bx3e7ywgukq"
+  },
+  {
+    "gameName": "Dragon Of The Eastern Sea",
+    "gameCode": "fqho1inijjfwo"
+  },
+  {
+    "gameName": "Dragon Phoenix",
+    "gameCode": "w4ypzw6o48mpq"
+  },
+  {
+    "gameName": "Dragon Power Flame",
+    "gameCode": "3yfmucpss64mk"
+  },
+  {
+    "gameName": "Dragons Legend",
+    "gameCode": "p4sygnaebr8y6"
+  },
+  {
+    "gameName": "Dragon's Realm",
+    "gameCode": "4eekxm7cistkg"
+  },
+  {
+    "gameName": "Dynamite Reels",
+    "gameCode": "8u9r4tj48chd1"
+  },
+  {
+    "gameName": "Egypt Queen",
+    "gameCode": "igg7tisz4ukhw"
+  },
+  {
+    "gameName": "Empress Regnant",
+    "gameCode": "o7f9ih8t6559e"
+  },
+  {
+    "gameName": "Enchanted Forest",
+    "gameCode": "kxyznmbpret1y"
+  },
+  {
+    "gameName": "Enter The KTV",
+    "gameCode": "srd3xusx3ughr"
+  },
+  {
+    "gameName": "Fabulous Eights",
+    "gameCode": "5cx47jffukp3o"
+  },
+  {
+    "gameName": "Fafafa",
+    "gameCode": "gz4weo1debywc"
+  },
+  {
+    "gameName": "Fat Choy Choy Sun",
+    "gameCode": "x46x869a989x6"
+  },
+  {
+    "gameName": "Fei Long Zai Tian",
+    "gameCode": "o3nxzh9o685xq"
+  },
+  {
+    "gameName": "Feng Huang",
+    "gameCode": "d4fyes4amfxf6"
+  },
+  {
+    "gameName": "Fifty Dragons",
+    "gameCode": "k9gz4ebbrau1e"
+  },
+  {
+    "gameName": "Fifty Lions",
+    "gameCode": "fk9yoi4wkifrs"
+  },
+  {
+    "gameName": "Fire Reel",
+    "gameCode": "yxdzc9d7qj3zy"
+  },
+  {
+    "gameName": "Fire Reign",
+    "gameCode": "ofy9b9z99u69r"
+  },
+  {
+    "gameName": "Fish Golden Dragon",
+    "gameCode": "pqzthfyibefoo"
+  },
+  {
+    "gameName": "Fish Hunter : Bird Hunter /  Bird Paradise",
+    "gameCode": "xq9ohbyf9m79o"
+  },
+  {
+    "gameName": "Fish Hunter 2",
+    "gameCode": "nr4sy5uxptssr"
+  },
+  {
+    "gameName": "Fish Hunter 2 EX - My Club",
+    "gameCode": "ary5bxi9z165r"
+  },
+  {
+    "gameName": "Fish Hunter 2 EX - Newbie",
+    "gameCode": "xkhy6baryz7xs"
+  },
+  {
+    "gameName": "Fish Hunter 2 EX - Novice",
+    "gameCode": "qq5ocdypyeboy"
+  },
+  {
+    "gameName": "Fish Hunter 2 EX - Pro",
+    "gameCode": "g54rso4yefdrq"
+  },
+  {
+    "gameName": "Fish Hunter Haiba",
+    "gameCode": "kk8nqm3cfwtng"
+  },
+  {
+    "gameName": "Fish Hunter Monster Awaken",
+    "gameCode": "1jeqx59c7ztqg"
+  },
+  {
+    "gameName": "Fish Hunter Spongebob",
+    "gameCode": "4omkmmpnwqokn"
+  },
+  {
+    "gameName": "Fish Hunter: Dragon Palace Wukong",
+    "gameCode": "ijwp9i6w4zfcs"
+  },
+  {
+    "gameName": "Fish Hunting: Da Sheng Nao Hai",
+    "gameCode": "8d7r1okge7nrk"
+  },
+  {
+    "gameName": "Fish Hunting: Golden Toad",
+    "gameCode": "b8rzo7uzqt4sw"
+  },
+  {
+    "gameName": "Fish Hunting: Happy Fish 5",
+    "gameCode": "st5cmuqnaxycn"
+  },
+  {
+    "gameName": "Fish Hunting: Li Kui Pi Yu",
+    "gameCode": "nzkseaudcbosc"
+  },
+  {
+    "gameName": "Fish Hunting: Yao Qian Shu",
+    "gameCode": "wi17jwsu4de7c"
+  },
+  {
+    "gameName": "Fish Legend of Phoenix",
+    "gameCode": "q15ykdenycyyn"
+  },
+  {
+    "gameName": "Fish Prawn Crab",
+    "gameCode": "p91iknyjba8oa"
+  },
+  {
+    "gameName": "Fish Raiden Hunter",
+    "gameCode": "cntbnge6dhqb4"
+  },
+  {
+    "gameName": "Fishermans Wharf",
+    "gameCode": "p63ornyjba8oa"
+  },
+  {
+    "gameName": "Five Dragons",
+    "gameCode": "ghxwwonbe3dwe"
+  },
+  {
+    "gameName": "Five Kois",
+    "gameCode": "s34czo6ya8dcq"
+  },
+  {
+    "gameName": "Five Tiger Generals",
+    "gameCode": "j6j1rkbjfaz1a"
+  },
+  {
+    "gameName": "Flames Of Fortune",
+    "gameCode": "3erm9p7wssiks"
+  },
+  {
+    "gameName": "Football",
+    "gameCode": "s6xhiogba5dhe"
+  },
+  {
+    "gameName": "Football Strike",
+    "gameCode": "dngdhamgc71gk"
+  },
+  {
+    "gameName": "Forest Treasure",
+    "gameCode": "wr5axzs95uq7r"
+  },
+  {
+    "gameName": "Four Dragons",
+    "gameCode": "wykepsq659qp4"
+  },
+  {
+    "gameName": "Four Tigers",
+    "gameCode": "rsjogw1ukbeic"
+  },
+  {
+    "gameName": "Geisha",
+    "gameCode": "qxoindypyeboy"
+  },
+  {
+    "gameName": "Genie",
+    "gameCode": "1q36p58phmt6y"
+  },
+  {
+    "gameName": "Gold Trail",
+    "gameCode": "x5ikj69a989x6"
+  },
+  {
+    "gameName": "Golden Crab",
+    "gameCode": "cxawn8y7nejty"
+  },
+  {
+    "gameName": "Golden Dragon",
+    "gameCode": "9w6aa6u5xbhzh"
+  },
+  {
+    "gameName": "Golden Island",
+    "gameCode": "ywozehuuqbazc"
+  },
+  {
+    "gameName": "Golden Monkey King",
+    "gameCode": "9mqe9bhroi78s"
+  },
+  {
+    "gameName": "Golden Rooster",
+    "gameCode": "jpiuhpbifei1o"
+  },
+  {
+    "gameName": "Great Blue",
+    "gameCode": "t656f48j75z6a"
+  },
+  {
+    "gameName": "Happy Buddha",
+    "gameCode": "55hj8ghaugxj6"
+  },
+  {
+    "gameName": "Happy Miners",
+    "gameCode": "tyqk7hxs694xk"
+  },
+  {
+    "gameName": "Happy Party",
+    "gameCode": "ebudnqj68h6d4"
+  },
+  {
+    "gameName": "Haunted House",
+    "gameCode": "exesnxb7ge3uy"
+  },
+  {
+    "gameName": "Hercules",
+    "gameCode": "jsguaktmfyw1h"
+  },
+  {
+    "gameName": "Highway Kings",
+    "gameCode": "axt5pxf7sk35y"
+  },
+  {
+    "gameName": "HighwayKings Progressive",
+    "gameCode": "nh9swadbc3use"
+  },
+  {
+    "gameName": "Horus Eye",
+    "gameCode": "j9nzkkbjfaz1a"
+  },
+  {
+    "gameName": "Hot Fruits",
+    "gameCode": "soojfuqnaxycn"
+  },
+  {
+    "gameName": "Huga",
+    "gameCode": "pirtanombyroh"
+  },
+  {
+    "gameName": "Immortals",
+    "gameCode": "qd1fcneqbhgy4"
+  },
+  {
+    "gameName": "Insect Paradise",
+    "gameCode": "ddpg1amgc71gk"
+  },
+  {
+    "gameName": "Jin Fu Xing Yun",
+    "gameCode": "ahf5icfts455e"
+  },
+  {
+    "gameName": "Jing Ping Mei",
+    "gameCode": "de6g635rcipfs"
+  },
+  {
+    "gameName": "Joker Madness",
+    "gameCode": "gkubyu4cjibrg"
+  },
+  {
+    "gameName": "Jungle Island",
+    "gameCode": "xbxy1yegyhnyk"
+  },
+  {
+    "gameName": "Just Jewels",
+    "gameCode": "satj3o6ya8dcq"
+  },
+  {
+    "gameName": "Justice Bao",
+    "gameCode": "hhi3irrt14m3e"
+  },
+  {
+    "gameName": "Keno",
+    "gameCode": "1ynmp4xq79sq4"
+  },
+  {
+    "gameName": "Lady Hawk",
+    "gameCode": "wcaadzg74mj7y"
+  },
+  {
+    "gameName": "Lightning God",
+    "gameCode": "1ru5x5zx7us6r"
+  },
+  {
+    "gameName": "Lions Dance",
+    "gameCode": "wtupmzq14xepn"
+  },
+  {
+    "gameName": "Lord Of The Ocean",
+    "gameCode": "xmzfobaryz7xs"
+  },
+  {
+    "gameName": "Lucky Drum",
+    "gameCode": "wpu7pzg74mj7y"
+  },
+  {
+    "gameName": "Lucky God",
+    "gameCode": "dhdirsn3m3xia"
+  },
+  {
+    "gameName": "Lucky God Progressive",
+    "gameCode": "ef1uyxt98o6ur"
+  },
+  {
+    "gameName": "Lucky God Progressive 2",
+    "gameCode": "3hj4fkfji4z4a"
+  },
+  {
+    "gameName": "Lucky Joker",
+    "gameCode": "r8oiyz19mtqir"
+  },
+  {
+    "gameName": "Lucky Lady Charm",
+    "gameCode": "7f9h9fwz11kaw"
+  },
+  {
+    "gameName": "Lucky Panda",
+    "gameCode": "59d3fgr3u4x3a"
+  },
+  {
+    "gameName": "Lucky Panda",
+    "gameCode": "tbfxuhxs694xk"
+  },
+  {
+    "gameName": "Lucky Rooster",
+    "gameCode": "7cz37fritkfao"
+  },
+  {
+    "gameName": "Lucky Streak",
+    "gameCode": "3fx69pizs144w"
+  },
+  {
+    "gameName": "Lucky Wheel",
+    "gameCode": "j8xs6ptzgo41w"
+  },
+  {
+    "gameName": "Mammamia",
+    "gameCode": "9xpa7brfxj7zo"
+  },
+  {
+    "gameName": "Mayan Gems",
+    "gameCode": "ha1jzrho1gmjq"
+  },
+  {
+    "gameName": "Miami",
+    "gameCode": "tqi9778i7mi6o"
+  },
+  {
+    "gameName": "Money Tree",
+    "gameCode": "fdif1wksk7kfk"
+  },
+  {
+    "gameName": "Money Vault",
+    "gameCode": "oajk3h9o685xq"
+  },
+  {
+    "gameName": "MoneyBangBang",
+    "gameCode": "k3anse3yrrunq"
+  },
+  {
+    "gameName": "Monkey King",
+    "gameCode": "9upe5bm4xph81"
+  },
+  {
+    "gameName": "Monkey King 2",
+    "gameCode": "pfgtofoznokow"
+  },
+  {
+    "gameName": "Mulan",
+    "gameCode": "bcizh7dipjiso"
+  },
+  {
+    "gameName": "Mythical Sand",
+    "gameCode": "m94wkgy3daxta"
+  },
+  {
+    "gameName": "Mythological",
+    "gameCode": "hb4cpgc6u6qj4"
+  },
+  {
+    "gameName": "Neptune Bingo",
+    "gameCode": "cz3wgrounyetc"
+  },
+  {
+    "gameName": "Neptune Treasure",
+    "gameCode": "5ii9zgw5unc3h"
+  },
+  {
+    "gameName": "Ni Shu Shen Me",
+    "gameCode": "99bzr6d3x39za"
+  },
+  {
+    "gameName": "Nugget Hunter",
+    "gameCode": "84igeq3a8r9d6"
+  },
+  {
+    "gameName": "Ocean Paradise",
+    "gameCode": "kf41ymtxfos1r"
+  },
+  {
+    "gameName": "Ocean Spray",
+    "gameCode": "7b6c7rcs16kjk"
+  },
+  {
+    "gameName": "Octagon Gem",
+    "gameCode": "4tyxfmpnwqokn"
+  },
+  {
+    "gameName": "Octagon Gem 2",
+    "gameCode": "gsttgo1debywc"
+  },
+  {
+    "gameName": "Ong Bak 2",
+    "gameCode": "a7q65cfts455e"
+  },
+  {
+    "gameName": "Ongbak",
+    "gameCode": "93ine65axf986"
+  },
+  {
+    "gameName": "Pan Jin Lian",
+    "gameCode": "79mafnrjt48aa"
+  },
+  {
+    "gameName": "Panther Moon",
+    "gameCode": "u6d7fsg355x7a"
+  },
+  {
+    "gameName": "Peach Banquet",
+    "gameCode": "s77hiogba5dhe"
+  },
+  {
+    "gameName": "Pharaoh's Tomb",
+    "gameCode": "kdn8ckjqfhsn4"
+  },
+  {
+    "gameName": "Phoenix 888",
+    "gameCode": "d8cso3u8ct1iw"
+  },
+  {
+    "gameName": "Pirate King",
+    "gameCode": "i6mhf1gj358ha"
+  },
+  {
+    "gameName": "Power Stars",
+    "gameCode": "hcu3p8r71kj3y"
+  },
+  {
+    "gameName": "Queen",
+    "gameCode": "gd3rn1kqj7gr4"
+  },
+  {
+    "gameName": "Queen Of The Nile",
+    "gameCode": "8nsbhokge7nrk"
+  },
+  {
+    "gameName": "Respin Mania",
+    "gameCode": "d5qfgs4amfxf6"
+  },
+  {
+    "gameName": "Robin Hood",
+    "gameCode": "i4rc816e388c6"
+  },
+  {
+    "gameName": "Roma",
+    "gameCode": "5m6k9j7rwspjs"
+  },
+  {
+    "gameName": "Safari Heat",
+    "gameCode": "4d5kdkpqi6sk4"
+  },
+  {
+    "gameName": "Safari Life",
+    "gameCode": "xtpy4bx49xhx1"
+  },
+  {
+    "gameName": "Santa Surprise",
+    "gameCode": "ufc6t3z8hu17w"
+  },
+  {
+    "gameName": "Shaolin",
+    "gameCode": "pd6rhresnhkbk"
+  },
+  {
+    "gameName": "Silver Bullet",
+    "gameCode": "z1pc5tp4zqhm1"
+  },
+  {
+    "gameName": "SilverBullet Progressive",
+    "gameCode": "ruufkzk1kpefn"
+  },
+  {
+    "gameName": "Sizzling Hot",
+    "gameCode": "ww3a8wsu4de7c"
+  },
+  {
+    "gameName": "Songkran Festival",
+    "gameCode": "hytjdgc6u6qj4"
+  },
+  {
+    "gameName": "Sparta",
+    "gameCode": "jbzd1cjsgh4dk"
+  },
+  {
+    "gameName": "Super Stars",
+    "gameCode": "b5ggg45epfzg6"
+  },
+  {
+    "gameName": "Supreme Caishen",
+    "gameCode": "byz81hmsq748k"
+  },
+  {
+    "gameName": "Tai Shang Lao Jun",
+    "gameCode": "dxxsh3dfmjpio"
+  },
+  {
+    "gameName": "Thai Paradise",
+    "gameCode": "5864tji8w113w"
+  },
+  {
+    "gameName": "The 4 Invention",
+    "gameCode": "rqaonzn7kjjiy"
+  },
+  {
+    "gameName": "Third Prince's Journey",
+    "gameCode": "bzgza4umpbwsh"
+  },
+  {
+    "gameName": "Three Kingdoms Quest",
+    "gameCode": "fwria11mjbrwh"
+  },
+  {
+    "gameName": "Thug Life",
+    "gameCode": "b1cnw7mkppwg1"
+  },
+  {
+    "gameName": "Thunder God",
+    "gameCode": "8rqwot18etnuw"
+  },
+  {
+    "gameName": "Tigers Lair",
+    "gameCode": "y5n8sh5oqf58q"
+  },
+  {
+    "gameName": "Tropical Crush",
+    "gameCode": "cuarr8e1ncebn"
+  },
+  {
+    "gameName": "Tsai Shen's Gift",
+    "gameCode": "6c5apdrpokbay"
+  },
+  {
+    "gameName": "Virtual Baccarat",
+    "gameCode": "xxwi1byf9m79o"
+  },
+  {
+    "gameName": "Water Margin",
+    "gameCode": "foff4ikkjprr1"
+  },
+  {
+    "gameName": "Water Reel",
+    "gameCode": "5ypkuepgw61kk"
+  },
+  {
+    "gameName": "White Snake",
+    "gameCode": "u17q53q45xcp1"
+  },
+  {
+    "gameName": "Wild Fairies",
+    "gameCode": "1wt58azdhdo6c"
+  },
+  {
+    "gameName": "Wild Giant Panda",
+    "gameCode": "q9gi4yybyadoe"
+  },
+  {
+    "gameName": "Wild Protector",
+    "gameCode": "pxcw1fyibefoo"
+  },
+  {
+    "gameName": "Wild Spirit",
+    "gameCode": "itzp5iqk3xrc1"
+  },
+  {
+    "gameName": "Winter Sweets",
+    "gameCode": "ipz77igi3mfho"
+  },
+  {
+    "gameName": "Witch's Brew",
+    "gameCode": "bmr8675wqiigs"
+  },
+  {
+    "gameName": "Wizard",
+    "gameCode": "c85wq8o9doqtr"
+  },
+  {
+    "gameName": "Xuan Pu Lian Huan",
+    "gameCode": "c41bsraonrmbq"
+  },
+  {
+    "gameName": "Yeh Hsien",
+    "gameCode": "uwf5zss55dc7h"
+  },
+  {
+    "gameName": "Yggdrasil",
+    "gameCode": "9ii7s6u5xbhzh"
+  },
+  {
+    "gameName": "Zhao Cai Jin Bao",
+    "gameCode": "aodmmxp1sqamn"
+  },
+  {
+    "gameName": "Zodiac",
+    "gameCode": "jzpssktmfyw1h"
+  },
+  {
+    "gameName": "Zombie Land",
+    "gameCode": "wndpdsq659qp4"
+  }
+]

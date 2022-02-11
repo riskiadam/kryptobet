@@ -1,0 +1,997 @@
+[
+  {
+    "gameType": "Slots",
+    "gameCode": "sw_taoftwdrjaed",
+    "gameName": "TaleofTwoDragonsJackpotEdition"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "sw_nilazhnu",
+    "gameName": "NiuLangZhiNu"
+  },
+  {
+    "gameType": "Cascade",
+    "gameCode": "sw_zhhu",
+    "gameName": "ZhanHun"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "sw_filifo",
+    "gameName": "FeiLianFortune"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "sw_roriyang",
+    "gameName": "RoyalRings"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "sw_tiki_luck",
+    "gameName": "TikiLuck"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "sw_remamere",
+    "gameName": "RespinManiaMegaReels"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "sw_wfl",
+    "gameName": "WuFuLong"
+  },
+  {
+    "gameType": "Cascade",
+    "gameCode": "sw_gt",
+    "gameName": "GemTemple"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "sw_gemerenigael",
+    "gameName": "GenieMegaReels"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "sw_dc",
+    "gameName": "DoubleChilli"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "sw_fofefa",
+    "gameName": "FourFemmeFatales"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "sw_yyy",
+    "gameName": "YuYuYu"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "sw_chwi",
+    "gameName": "CheshireWild"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "sw_ggrizzly",
+    "gameName": "GoldenGrizzly"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "sw_hg",
+    "gameName": "HighwayGold"
+  },
+  {
+    "gameType": "Slots",
+    "gameCode": "sw_luckyfim",
+    "gameName": "LuckyFisherman"
+  },
+  {
+    "gameType": "Table",
+    "gameCode": "sw_bac",
+    "gameName": "Baccarat"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_jogowi",
+    "gameName": "JokerGoesWild"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_pote",
+    "gameName": "PirateontheEdge"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_es",
+    "gameName": "EgyptSpin"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_ylns",
+    "gameName": "YueLiangNuShen"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_ex",
+    "gameName": "Explosion"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_lomutabangno",
+    "gameName": "LongMuTanBao"
+  },
+  {
+    "gameType": "Arcade",
+    "gameCode": "sw_or",
+    "gameName": "OceanRuler"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_twfr",
+    "gameName": "TwinFruits"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_hlcs",
+    "gameName": "HuanLeCaiShen"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_lomathtt",
+    "gameName": "LotharMatthausBeaWinner"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_wg",
+    "gameName": "WarriorsGold"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_xybl",
+    "gameName": "XingYunBianLian"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_8tr1qu",
+    "gameName": "8Treasures1Queen"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_dosc7s",
+    "gameName": "DoubleScatter7s"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_loofthsp",
+    "gameName": "LordoftheSpins"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_sdjg",
+    "gameName": "SiDaJinGang"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_suli",
+    "gameName": "SuperLion"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_ylxn",
+    "gameName": "YueLiangXianNu"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_kiwi",
+    "gameName": "KITTYWILD"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_gq_ab_jp",
+    "gameName": "GEMQUEENJACKPOT"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_ksm",
+    "gameName": "KINGSOLOMONMINES"
+  },
+  {
+    "gameType": "Shooting",
+    "gameCode": "sw_fufarm_jp",
+    "gameName": "FUFARMJACKPOT"
+  },
+  {
+    "gameType": "Table",
+    "gameCode": "sw_jackob",
+    "gameName": "JACKSORBETTER"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_wfww",
+    "gameName": "WUFUWAWA"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_fcase",
+    "gameName": "FORTUNECASE"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_sld",
+    "gameName": "SUPERLUCKYDOLLAR"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_sog",
+    "gameName": "SEAOFGOLD"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_2pd",
+    "gameName": "2POWERFULDRAGONS"
+  },
+  {
+    "gameType": "Shooting",
+    "gameCode": "sw_fufarm",
+    "gameName": "FUFARM"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_wfot",
+    "gameName": "WILDFLIPONTOP"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_cf",
+    "gameName": "CHILLIFESTIVAL"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_rsyg",
+    "gameName": "RISHENGYUEGENG"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_dtc",
+    "gameName": "DIAMONDSTOPCODE"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_rcr",
+    "gameName": "RUNCHICKENRUN"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_gatc",
+    "gameName": "GEMSANDTHECITY"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_wf",
+    "gameName": "WILDFIVE"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_ges",
+    "gameName": "GENIESHOT"
+  },
+  {
+    "gameType": "Table",
+    "gameCode": "sw_fish_prawn_crab",
+    "gameName": "FISHPRAWNCRAB"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_gtg",
+    "gameName": "GENGHISTHEGREAT"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_cscf",
+    "gameName": "CAISHENCIFU"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_slws",
+    "gameName": "SHAOLINWUSENG"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_mpp",
+    "gameName": "MONKEYPOOLPARTY"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_ec",
+    "gameName": "EGYPTCASH"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_fsqt",
+    "gameName": "FUSHOUQITIAN"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_vos",
+    "gameName": "VALLEYOFSPIRITS"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_tm",
+    "gameName": "TRIPLEMONKEY"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_sc",
+    "gameName": "SAVANNAHCASH"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_pt",
+    "gameName": "POLARTALE"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_sfy",
+    "gameName": "THESEVENTHFAIRY"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_fg",
+    "gameName": "FRUITYGIRL"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_bm",
+    "gameName": "BUTTERFLYMOON"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_hr",
+    "gameName": "HEAVENLYRULER"
+  },
+  {
+    "gameType": "slot",
+    "gameCode": "sw_bd",
+    "gameName": "BONUSDIGGER"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_slbs_jp",
+    "gameName": "SHENLONGBAOSHIJACKPOT"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_ks",
+    "gameName": "KNIGHTSSAGA"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_fbbls",
+    "gameName": "FIREBAODINGBALLS"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_dmzc",
+    "gameName": "DAMAOZHAOCAIMONEYCAT"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_fd",
+    "gameName": "SHENQIJIULONG"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_cmw",
+    "gameName": "CHINAMEGAWILD"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_nyg",
+    "gameName": "NEWYORKGANGS"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_mm",
+    "gameName": "MAYAMILLIONS"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_jjbx",
+    "gameName": "JINJIBAOXI"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_vfv",
+    "gameName": "VIVAFRUITVEGAS"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_gr",
+    "gameName": "GORILLASREALM"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_xwk",
+    "gameName": "XIAOWUKONG"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_tlotws",
+    "gameName": "THELEGENDOFTHEWHITESNAKE"
+  },
+  {
+    "gameType": "Cascade",
+    "gameCode": "sw_lfs",
+    "gameName": "LIUFUSHOU"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_mpays",
+    "gameName": "MONKEYPAYS"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_bul",
+    "gameName": "BUFFALOLIGHTNING"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_ws",
+    "gameName": "WESTSHOT"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_sgcf_ab_jp",
+    "gameName": "SHUIGUOCAIFUJACKPOT"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_bzxt",
+    "gameName": "BAOZHUXUANTIAN"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_xw",
+    "gameName": "XUANWU"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_fzyq",
+    "gameName": "FUZAIYANQIAN"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_btrb",
+    "gameName": "BYTHERIVERSOFBUFFALO"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_ewb",
+    "gameName": "EASTWINDBATTLE"
+  },
+  {
+    "gameType": "Cascade",
+    "gameCode": "sw_myjp",
+    "gameName": "MAYAJACKPOT"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_moo",
+    "gameName": "MAGICOFOZ"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_ms",
+    "gameName": "MAVERICKSALOON"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_mwol",
+    "gameName": "MAYAWHEELOFLUCK"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_xyjc",
+    "gameName": "XINGYUNJINCHAN"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_sctz",
+    "gameName": "SONGCAITONGZI"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_lcc",
+    "gameName": "LUCKYCHANCHU"
+  },
+  {
+    "gameType": "Table",
+    "gameCode": "sw_er",
+    "gameName": "EUROPEANROULETTE"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_ff",
+    "gameName": "FIREFESTIVAL"
+  },
+  {
+    "gameType": "Arcade",
+    "gameCode": "sw_dragon_dozer",
+    "gameName": "DRAGONDOZER"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_mr",
+    "gameName": "METALREEL"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_lohy",
+    "gameName": "LEGENDOFHOUYI"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_vi",
+    "gameName": "VOLCANOISLAND"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_mdls",
+    "gameName": "MIDDLESHOT"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_rmac",
+    "gameName": "THEREELMACAU"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_hd",
+    "gameName": "HEARTS&DRAGONS"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_mp",
+    "gameName": "MOONPALACE"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_sl",
+    "gameName": "SILING"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_wws",
+    "gameName": "WILDWUSHI"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_af",
+    "gameName": "ASIANFANTASY"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_whmj",
+    "gameName": "FIVETIGERGENERALS"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_hcs",
+    "gameName": "HAOSHICHENGSHUANG"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_fl",
+    "gameName": "FORTUNELIONS"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_ch8",
+    "gameName": "CHAOJI888"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_sixng",
+    "gameName": "SIXIANG"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_gq",
+    "gameName": "GEMQUEEN"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_fkmj",
+    "gameName": "FENGKUANGMAJIANG"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_ijp",
+    "gameName": "INCAJACKPOT"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_qow",
+    "gameName": "QUEENOFWANDS"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_shctz",
+    "gameName": "ZHAOCAITONGZI"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_jqw",
+    "gameName": "JINQIANWA"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_lll",
+    "gameName": "LONGLONGLONG"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_ps",
+    "gameName": "POTSHOT"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_gs",
+    "gameName": "GOLDSHOT"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_rr",
+    "gameName": "RIVERBOATREEL"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_qotp",
+    "gameName": "QUEENOFTHEPHARAOHS"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_ar",
+    "gameName": "AZTECREEL"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_fb",
+    "gameName": "SIMEI"
+  },
+  {
+    "gameType": "Table",
+    "gameCode": "sw_tcb",
+    "gameName": "3CARDBRAG"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_wrl",
+    "gameName": "WATERREEL"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_fr",
+    "gameName": "FIREREEL"
+  },
+  {
+    "gameType": "Table",
+    "gameCode": "sw_bjc",
+    "gameName": "BLACKJACK"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_lucky_omq",
+    "gameName": "LUCKYOMQ"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_gk",
+    "gameName": "GEMKING"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_zcxm",
+    "gameName": "ZHAOCAIXIONGMAO"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_pe",
+    "gameName": "PIRATEEMPRESS"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_kxcs",
+    "gameName": "KUXUANCAISHEN"
+  },
+  {
+    "gameType": "Shooting",
+    "gameCode": "sw_fuqsg",
+    "gameName": "FUQISHUIGUO"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_dld",
+    "gameName": "DALANDELUXE"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_bl",
+    "gameName": "BIGLION"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_rc",
+    "gameName": "ROCKETCANDIES"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_tr",
+    "gameName": "T-REXCASH"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_ts",
+    "gameName": "THREESISTERS"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_go8d",
+    "gameName": "GODDESSOF8DIRECTIONS"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_pvg",
+    "gameName": "PANDAVSGOAT"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_kog",
+    "gameName": "KINGOFGODS"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_jxl",
+    "gameName": "JIXIANGLONG"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_csy",
+    "gameName": "CAISHENYE"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_t2d",
+    "gameName": "TALEOFTWODRAGONS"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_sx",
+    "gameName": "SHUANGXI"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_gg",
+    "gameName": "GOGOLD"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_totiatp",
+    "gameName": "THEORCATHEICEBERGANDTHEPENGUIN"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_fc",
+    "gameName": "FORTUNECASTLE"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_pp",
+    "gameName": "PANDAPRIZE"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_qv",
+    "gameName": "QUEENOFTHEVIKINGS"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_pg",
+    "gameName": "PANDAGOLD"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_mt",
+    "gameName": "MIGHTYTRIO"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_88sf",
+    "gameName": "88SHIFU"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_cts",
+    "gameName": "CHOISTRAVELLINGSHOW"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_mj",
+    "gameName": "MERMAIDJEWELS"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_9s1k",
+    "gameName": "9SONS1KING"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_wq",
+    "gameName": "WILDQILIN"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_ld",
+    "gameName": "LEGENDARYDRAGONS"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_ggdn",
+    "gameName": "GOLDENGARDEN"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_hp",
+    "gameName": "HEAVENLYPHOENIX"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_h2h",
+    "gameName": "HEART2HERT"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_ycs",
+    "gameName": "YINGCAISHEN"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_tc",
+    "gameName": "TIGERCASH"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_sod",
+    "gameName": "SYMPHONYOFDIAMONDS"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_sq",
+    "gameName": "SNOWFALLQUEEN"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_sgcf",
+    "gameName": "SHUIGUOCAIFU"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_scyd",
+    "gameName": "SHENGCAIYOUDAO"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_slbs",
+    "gameName": "SHENLONGBAOSHI"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_sf",
+    "gameName": "SANFU"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_rs",
+    "gameName": "RISINGSAMURAI"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_rm",
+    "gameName": "RESPINMANIA"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_rf",
+    "gameName": "RAMESSESFORTUNE"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_qoiaf",
+    "gameName": "QUEENSOFICEANDFIRE"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_pc",
+    "gameName": "PANDACHEF"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_omqjp",
+    "gameName": "OLDMASTERQ"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_mrmnky",
+    "gameName": "MRMONKEY"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_fbb",
+    "gameName": "FUBAOBAO"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_mer",
+    "gameName": "MERMAIDBEAUTY"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_fp",
+    "gameName": "FLAMINGPHOENIX"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_mf",
+    "gameName": "MANEKIFORTUNES"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_dj",
+    "gameName": "DOUBLEJUNGLE"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_lodk",
+    "gameName": "LEGENDOFDRAGONKOI"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_db",
+    "gameName": "DOUBLEBONUSslot"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_gm",
+    "gameName": "GORILLAMOON"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_dd",
+    "gameName": "DOLPHINDELIGHT"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_gol",
+    "gameName": "GODOFLIGHTNING"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_dhcf",
+    "gameName": "DAHEICIFU"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_al",
+    "gameName": "AMAZONLADY"
+  },
+  {
+    "gameType": "Shooting",
+    "gameCode": "sw_fufish_intw",
+    "gameName": "FUFISH"
+  },
+  {
+    "gameType": "Slot",
+    "gameCode": "sw_888t",
+    "gameName": "888TURTLES"
+  }
+]

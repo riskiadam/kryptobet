@@ -1,0 +1,692 @@
+[
+  {
+    "gameType": "",
+    "gameCode": "king5x251",
+    "gameName": "king5x25"
+  },
+  {
+    "gameType": "",
+    "gameCode": "train210",
+    "gameName": "train2"
+  },
+  {
+    "gameType": "",
+    "gameCode": "rocket6x25100",
+    "gameName": "rocket6x25"
+  },
+  {
+    "gameType": "",
+    "gameCode": "naruto101",
+    "gameName": "naruto"
+  },
+  {
+    "gameType": "",
+    "gameCode": "dash102",
+    "gameName": "dash"
+  },
+  {
+    "gameType": "",
+    "gameCode": "seiya103",
+    "gameName": "seiya"
+  },
+  {
+    "gameType": "",
+    "gameCode": "alchemist104",
+    "gameName": "alchemist"
+  },
+  {
+    "gameType": "",
+    "gameCode": "jungle105",
+    "gameName": "jungle"
+  },
+  {
+    "gameType": "",
+    "gameCode": "bxgh5x25106",
+    "gameName": "bxgh5x25"
+  },
+  {
+    "gameType": "",
+    "gameCode": "piratetreasure107",
+    "gameName": "piratetreasure"
+  },
+  {
+    "gameType": "",
+    "gameCode": "cheekyemojis108",
+    "gameName": "cheekyemojis"
+  },
+  {
+    "gameType": "",
+    "gameCode": "mysticalstones109",
+    "gameName": "mysticalstones"
+  },
+  {
+    "gameType": "",
+    "gameCode": "rocknight211",
+    "gameName": "rocknight2"
+  },
+  {
+    "gameType": "",
+    "gameCode": "superstar5x50110",
+    "gameName": "superstar5x50"
+  },
+  {
+    "gameType": "",
+    "gameCode": "crystal111",
+    "gameName": "crystal"
+  },
+  {
+    "gameType": "",
+    "gameCode": "shopping5x243112",
+    "gameName": "shopping5x243"
+  },
+  {
+    "gameType": "",
+    "gameCode": "vampire113",
+    "gameName": "vampire"
+  },
+  {
+    "gameType": "",
+    "gameCode": "football114",
+    "gameName": "football"
+  },
+  {
+    "gameType": "",
+    "gameCode": "dollmachine115",
+    "gameName": "dollmachine"
+  },
+  {
+    "gameType": "",
+    "gameCode": "easyrider116",
+    "gameName": "easyrider"
+  },
+  {
+    "gameType": "",
+    "gameCode": "bikini117",
+    "gameName": "bikini"
+  },
+  {
+    "gameType": "",
+    "gameCode": "xiaoxiaole7x50118",
+    "gameName": "xiaoxiaole7x50"
+  },
+  {
+    "gameType": "",
+    "gameCode": "crossing119",
+    "gameName": "crossing"
+  },
+  {
+    "gameType": "",
+    "gameCode": "fortuneNewYear5x2512",
+    "gameName": "fortuneNewYear5x25"
+  },
+  {
+    "gameType": "",
+    "gameCode": "wildchaser5x20120",
+    "gameName": "wildchaser5x20"
+  },
+  {
+    "gameType": "",
+    "gameCode": "pethouse121",
+    "gameName": "pethouse"
+  },
+  {
+    "gameType": "",
+    "gameCode": "opera122",
+    "gameName": "opera"
+  },
+  {
+    "gameType": "",
+    "gameCode": "oceanpark5x50123",
+    "gameName": "oceanpark5x50"
+  },
+  {
+    "gameType": "",
+    "gameCode": "fantasyforest3x1124",
+    "gameName": "fantasyforest3x1"
+  },
+  {
+    "gameType": "",
+    "gameCode": "hiphop5x25125",
+    "gameName": "hiphop5x25"
+  },
+  {
+    "gameType": "",
+    "gameCode": "diceslot1x1126",
+    "gameName": "diceslot1x1"
+  },
+  {
+    "gameType": "",
+    "gameCode": "wanderingEarth5x243127",
+    "gameName": "wanderingEarth5x243"
+  },
+  {
+    "gameType": "",
+    "gameCode": "hotspot5x9128",
+    "gameName": "hotspot5x9"
+  },
+  {
+    "gameType": "",
+    "gameCode": "hiphopman129",
+    "gameName": "hiphopman"
+  },
+  {
+    "gameType": "",
+    "gameCode": "bigred13",
+    "gameName": "bigred"
+  },
+  {
+    "gameType": "",
+    "gameCode": "crusader130",
+    "gameName": "crusader"
+  },
+  {
+    "gameType": "",
+    "gameCode": "guhuozai131",
+    "gameName": "guhuozai"
+  },
+  {
+    "gameType": "",
+    "gameCode": "restaurant132",
+    "gameName": "restaurant"
+  },
+  {
+    "gameType": "",
+    "gameCode": "casinomagnates133",
+    "gameName": "casinomagnates"
+  },
+  {
+    "gameType": "",
+    "gameCode": "dessert5x20134",
+    "gameName": "dessert5x20"
+  },
+  {
+    "gameType": "",
+    "gameCode": "fourbeauty135",
+    "gameName": "fourbeauty"
+  },
+  {
+    "gameType": "",
+    "gameCode": "zombie136",
+    "gameName": "zombie"
+  },
+  {
+    "gameType": "",
+    "gameCode": "perfectdet137",
+    "gameName": "perfectdet"
+  },
+  {
+    "gameType": "",
+    "gameCode": "france138",
+    "gameName": "france"
+  },
+  {
+    "gameType": "",
+    "gameCode": "train14",
+    "gameName": "train"
+  },
+  {
+    "gameType": "",
+    "gameCode": "boss5x2015",
+    "gameName": "boss5x20"
+  },
+  {
+    "gameType": "",
+    "gameCode": "honor16",
+    "gameName": "honor"
+  },
+  {
+    "gameType": "",
+    "gameCode": "clash17",
+    "gameName": "clash"
+  },
+  {
+    "gameType": "",
+    "gameCode": "museum18",
+    "gameName": "museum"
+  },
+  {
+    "gameType": "",
+    "gameCode": "aladdin5x24319",
+    "gameName": "aladdin5x243"
+  },
+  {
+    "gameType": "",
+    "gameCode": "legendMir5x252",
+    "gameName": "legendMir5x25"
+  },
+  {
+    "gameType": "",
+    "gameCode": "onenight5x24320",
+    "gameName": "onenight5x243"
+  },
+  {
+    "gameType": "",
+    "gameCode": "genie21",
+    "gameName": "genie"
+  },
+  {
+    "gameType": "",
+    "gameCode": "tlod22",
+    "gameName": "tlod"
+  },
+  {
+    "gameType": "",
+    "gameCode": "nightclub5x2023",
+    "gameName": "nightclub5x20"
+  },
+  {
+    "gameType": "",
+    "gameCode": "legendary24",
+    "gameName": "legendary"
+  },
+  {
+    "gameType": "",
+    "gameCode": "bloodmoon25",
+    "gameName": "bloodmoon"
+  },
+  {
+    "gameType": "",
+    "gameCode": "legend5x2526",
+    "gameName": "legend5x25"
+  },
+  {
+    "gameType": "",
+    "gameCode": "dnp27",
+    "gameName": "dnp"
+  },
+  {
+    "gameType": "",
+    "gameCode": "westwild28",
+    "gameName": "westwild"
+  },
+  {
+    "gameType": "",
+    "gameCode": "pirate5x2529",
+    "gameName": "pirate5x25"
+  },
+  {
+    "gameType": "",
+    "gameCode": "cute5x503",
+    "gameName": "cute5x50"
+  },
+  {
+    "gameType": "",
+    "gameCode": "klnz5x2030",
+    "gameName": "klnz5x20"
+  },
+  {
+    "gameType": "",
+    "gameCode": "shokudo31",
+    "gameName": "shokudo"
+  },
+  {
+    "gameType": "",
+    "gameCode": "casino32",
+    "gameName": "casino"
+  },
+  {
+    "gameType": "",
+    "gameCode": "camgirl5x2533",
+    "gameName": "camgirl5x25"
+  },
+  {
+    "gameType": "",
+    "gameCode": "sweethouse34",
+    "gameName": "sweethouse"
+  },
+  {
+    "gameType": "",
+    "gameCode": "dragonball235",
+    "gameName": "dragonball2"
+  },
+  {
+    "gameType": "",
+    "gameCode": "muaythai36",
+    "gameName": "muaythai"
+  },
+  {
+    "gameType": "",
+    "gameCode": "whackamole37",
+    "gameName": "whackamole"
+  },
+  {
+    "gameType": "",
+    "gameCode": "wrathofthor38",
+    "gameName": "wrathofthor"
+  },
+  {
+    "gameType": "",
+    "gameCode": "hotpot5x2539",
+    "gameName": "hotpot5x25"
+  },
+  {
+    "gameType": "",
+    "gameCode": "sgkill5x204",
+    "gameName": "sgkill5x20"
+  },
+  {
+    "gameType": "",
+    "gameCode": "circus40",
+    "gameName": "circus"
+  },
+  {
+    "gameType": "",
+    "gameCode": "estate5x2541",
+    "gameName": "estate5x25"
+  },
+  {
+    "gameType": "",
+    "gameCode": "greatgatsby42",
+    "gameName": "greatgatsby"
+  },
+  {
+    "gameType": "",
+    "gameCode": "chess43",
+    "gameName": "chess"
+  },
+  {
+    "gameType": "",
+    "gameCode": "icefire44",
+    "gameName": "icefire"
+  },
+  {
+    "gameType": "",
+    "gameCode": "rocknight45",
+    "gameName": "rocknight"
+  },
+  {
+    "gameType": "",
+    "gameCode": "nightclub46",
+    "gameName": "nightclub"
+  },
+  {
+    "gameType": "",
+    "gameCode": "kof47",
+    "gameName": "kof"
+  },
+  {
+    "gameType": "",
+    "gameCode": "bird48",
+    "gameName": "bird"
+  },
+  {
+    "gameType": "",
+    "gameCode": "worldCup5x2549",
+    "gameName": "worldCup5x25"
+  },
+  {
+    "gameType": "",
+    "gameCode": "dragonball5",
+    "gameName": "dragonball"
+  },
+  {
+    "gameType": "",
+    "gameCode": "sincity50",
+    "gameName": "sincity"
+  },
+  {
+    "gameType": "",
+    "gameCode": "sd51",
+    "gameName": "sd"
+  },
+  {
+    "gameType": "",
+    "gameCode": "streetdance5x2552",
+    "gameName": "streetdance5x25"
+  },
+  {
+    "gameType": "",
+    "gameCode": "onepiece53",
+    "gameName": "onepiece"
+  },
+  {
+    "gameType": "",
+    "gameCode": "nezha54",
+    "gameName": "nezha"
+  },
+  {
+    "gameType": "",
+    "gameCode": "fls55",
+    "gameName": "fls"
+  },
+  {
+    "gameType": "",
+    "gameCode": "newyear56",
+    "gameName": "newyear"
+  },
+  {
+    "gameType": "",
+    "gameCode": "wheel57",
+    "gameName": "wheel"
+  },
+  {
+    "gameType": "",
+    "gameCode": "kof5x958",
+    "gameName": "kof5x9"
+  },
+  {
+    "gameType": "",
+    "gameCode": "armorCrisis5x2559",
+    "gameName": "armorCrisis5x25"
+  },
+  {
+    "gameType": "",
+    "gameCode": "treasures6",
+    "gameName": "treasures"
+  },
+  {
+    "gameType": "",
+    "gameCode": "whitesnake60",
+    "gameName": "whitesnake"
+  },
+  {
+    "gameType": "",
+    "gameCode": "magicbean61",
+    "gameName": "magicbean"
+  },
+  {
+    "gameType": "",
+    "gameCode": "shogun62",
+    "gameName": "shogun"
+  },
+  {
+    "gameType": "",
+    "gameCode": "garden63",
+    "gameName": "garden"
+  },
+  {
+    "gameType": "",
+    "gameCode": "watermargin5x2564",
+    "gameName": "watermargin5x25"
+  },
+  {
+    "gameType": "",
+    "gameCode": "secretdate65",
+    "gameName": "secretdate"
+  },
+  {
+    "gameType": "",
+    "gameCode": "fantasyforest66",
+    "gameName": "fantasyforest"
+  },
+  {
+    "gameType": "",
+    "gameCode": "egyptian67",
+    "gameName": "egyptian"
+  },
+  {
+    "gameType": "",
+    "gameCode": "magician68",
+    "gameName": "magician"
+  },
+  {
+    "gameType": "",
+    "gameCode": "foryouth5x2569",
+    "gameName": "foryouth5x25"
+  },
+  {
+    "gameType": "",
+    "gameCode": "vikings7",
+    "gameName": "vikings"
+  },
+  {
+    "gameType": "",
+    "gameCode": "candycrush70",
+    "gameName": "candycrush"
+  },
+  {
+    "gameType": "",
+    "gameCode": "tgow71",
+    "gameName": "tgow"
+  },
+  {
+    "gameType": "",
+    "gameCode": "xiyouji5x2572",
+    "gameName": "xiyouji5x25"
+  },
+  {
+    "gameType": "",
+    "gameCode": "starburst73",
+    "gameName": "starburst"
+  },
+  {
+    "gameType": "",
+    "gameCode": "sd574",
+    "gameName": "sd5"
+  },
+  {
+    "gameType": "",
+    "gameCode": "baseball75",
+    "gameName": "baseball"
+  },
+  {
+    "gameType": "",
+    "gameCode": "jtw76",
+    "gameName": "jtw"
+  },
+  {
+    "gameType": "",
+    "gameCode": "dinosaur5x2577",
+    "gameName": "dinosaur5x25"
+  },
+  {
+    "gameType": "",
+    "gameCode": "fourss78",
+    "gameName": "fourss"
+  },
+  {
+    "gameType": "",
+    "gameCode": "lnd5x2579",
+    "gameName": "lnd5x25"
+  },
+  {
+    "gameType": "",
+    "gameCode": "goldrat5x2438",
+    "gameName": "goldrat5x243"
+  },
+  {
+    "gameType": "",
+    "gameCode": "bluesea80",
+    "gameName": "bluesea"
+  },
+  {
+    "gameType": "",
+    "gameCode": "doraemon3x581",
+    "gameName": "doraemon3x5"
+  },
+  {
+    "gameType": "",
+    "gameCode": "watermargin82",
+    "gameName": "watermargin"
+  },
+  {
+    "gameType": "",
+    "gameCode": "bacteria83",
+    "gameName": "bacteria"
+  },
+  {
+    "gameType": "",
+    "gameCode": "lovefighters84",
+    "gameName": "lovefighters"
+  },
+  {
+    "gameType": "",
+    "gameCode": "san85",
+    "gameName": "san"
+  },
+  {
+    "gameType": "",
+    "gameCode": "tombshadow86",
+    "gameName": "tombshadow"
+  },
+  {
+    "gameType": "",
+    "gameCode": "sailor87",
+    "gameName": "sailor"
+  },
+  {
+    "gameType": "",
+    "gameCode": "hotpotfeast88",
+    "gameName": "hotpotfeast"
+  },
+  {
+    "gameType": "",
+    "gameCode": "newyear5x2589",
+    "gameName": "newyear5x25"
+  },
+  {
+    "gameType": "",
+    "gameCode": "girlgroup5x259",
+    "gameName": "girlgroup5x25"
+  },
+  {
+    "gameType": "",
+    "gameCode": "boxingarena90",
+    "gameName": "boxingarena"
+  },
+  {
+    "gameType": "",
+    "gameCode": "galaxywars91",
+    "gameName": "galaxywars"
+  },
+  {
+    "gameType": "",
+    "gameCode": "crazy5x24392",
+    "gameName": "crazy5x243"
+  },
+  {
+    "gameType": "",
+    "gameCode": "xjqy5x993",
+    "gameName": "xjqy5x9"
+  },
+  {
+    "gameType": "",
+    "gameCode": "halloween94",
+    "gameName": "halloween"
+  },
+  {
+    "gameType": "",
+    "gameCode": "goldjade5x5095",
+    "gameName": "goldjade5x50"
+  },
+  {
+    "gameType": "",
+    "gameCode": "merryxmas96",
+    "gameName": "merryxmas"
+  },
+  {
+    "gameType": "",
+    "gameCode": "bwzq5x2597",
+    "gameName": "bwzq5x25"
+  },
+  {
+    "gameType": "",
+    "gameCode": "btball5x2098",
+    "gameName": "btball5x20"
+  },
+  {
+    "gameType": "",
+    "gameCode": "sq5x24399",
+    "gameName": "sq5x243"
+  }
+]

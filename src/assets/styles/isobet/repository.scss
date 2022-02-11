@@ -1,0 +1,9 @@
+// > 1024px
+$desktopA: block;
+$mobileA: none;
+$footerA: none;
+
+// < 1024px
+$desktopB: none;
+$mobileB: block;
+$footerB: block;

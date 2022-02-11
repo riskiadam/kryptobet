@@ -1,0 +1,733 @@
+[
+    {
+        "gameCode": "SGNineTails",
+        "gameName": "Nine Tails ",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "SGFly",
+        "gameName": "Fly",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "SGMysticFortuneDeluxe",
+        "gameName": "Mystic Fortune Deluxe",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "SGCalaverasExplosivas",
+        "gameName": "Calaveras Explosivas",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "SGMarvelousFurlongs",
+        "gameName": "Marvelous Furlongs",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "SGCandyTower",
+        "gameName": "Candy Tower",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "SGReturnToTheFeature",
+        "gameName": "Return To The Feature",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "SGBeforeTimeRunsOut",
+        "gameName": "Before Time Runs Out",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "SGOrbsOfAtlantis",
+        "gameName": "Orbs Of Atlantis",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "SGTotemTowers",
+        "gameName": "Totem Towers",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "SGTabernaDeLosMuertosUltra",
+        "gameName": "Taberna De Los Muertos Ultra",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "SGChristmasGiftRush",
+        "gameName": "Christmas Gift Rush",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "SGTabernaDeLosMuertos",
+        "gameName": "Taberna De Los Muertos",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "SGHappyApe",
+        "gameName": "Happy Ape",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "SGJellyFishFlowUltra",
+        "gameName": "JellyFish Flow Ultra",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "SGJellyFishFlow",
+        "gameName": "JellyFish Flow",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "SGWealthInn",
+        "gameName": "Wealth Inn",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "SGHeySushi",
+        "gameName": "Hey Sushi",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "SGScopa",
+        "gameName": "Scopa",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "SGTechnoTumble",
+        "gameName": "Techno Tumble ",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "SGLuckyFortuneCat",
+        "gameName": "Lucky Fortune Cat",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "SGKnockoutFootballRush",
+        "gameName": "Knockout Football Rush",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "SGLoonyBlox",
+        "gameName": "Loony Blox",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0165",
+        "gameCode": "SGFaCaiShenDeluxe",
+        "gameName": "Fa Cai Shen Deluxe",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0164",
+        "gameCode": "SGNaughtySanta",
+        "gameName": "Naughty Santa",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "SGHotHotHalloween",
+        "gameName": "Hot Hot Halloween",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0163",
+        "gameCode": "SGWizardsWantWar",
+        "gameName": "Wizards Want War!",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0162",
+        "gameCode": "SGColossalGems",
+        "gameName": "Colossal Gems",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0161",
+        "gameCode": "SGNuwa",
+        "gameName": "Nuwa",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0160",
+        "gameCode": "SGWildTrucks",
+        "gameName": "Wild Trucks",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0159",
+        "gameCode": "SGLuckyLucky",
+        "gameName": "Lucky Lucky",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0158",
+        "gameCode": "SGMagicOak",
+        "gameName": "Magic Oak",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0156",
+        "gameCode": "SGMountMazuma",
+        "gameName": "Mount Mazuma",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0154",
+        "gameCode": "SG5LuckyLions",
+        "gameName": "5 Lucky Lions",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0153",
+        "gameCode": "SGHotHotFruit",
+        "gameName": "Hot Hot Fruit",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0151",
+        "gameCode": "SGHappiestChristmasTree",
+        "gameName": "Happiest Christmas Tree",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0149",
+        "gameCode": "SGPumpkinPatch",
+        "gameName": "Pumpkin Patch",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0148",
+        "gameCode": "SGJump",
+        "gameName": "Jump!",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0147",
+        "gameCode": "SGEgyptianDreamsDeluxe",
+        "gameName": "Egyptian Dreams Deluxe",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0146",
+        "gameCode": "SGWaysOfFortune",
+        "gameName": "Ways Of Fortune",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0145",
+        "gameCode": "SGKnockoutFootball",
+        "gameName": "Knockout Football",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0144",
+        "gameCode": "SGFortuneDogs",
+        "gameName": "Fortune Dogs",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0143",
+        "gameCode": "SGPresto",
+        "gameName": "Presto!",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0142",
+        "gameCode": "SGLondonHunter",
+        "gameName": "London Hunter",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0141",
+        "gameCode": "SGFourDivineBeasts",
+        "gameName": "Four Divine Beasts",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0135",
+        "gameCode": "SG5Mariachis",
+        "gameName": "5 Mariachis",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0136",
+        "gameCode": "SGSantasVillage",
+        "gameName": "Santa's Village",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0137",
+        "gameCode": "SGRollingRoger",
+        "gameName": "Rolling Roger",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0138",
+        "gameCode": "SGCakeValley",
+        "gameName": "Cake Valley",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0139",
+        "gameCode": "SGScruffyScallywags",
+        "gameName": "Scruffy Scallywags",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0001",
+        "gameCode": "SGTheDeadEscape",
+        "gameName": "The Dead Escape",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0002",
+        "gameCode": "SGPandaPanda",
+        "gameName": "Panda Panda",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0003",
+        "gameCode": "SGBirdOfThunder",
+        "gameName": "Bird of Thunder",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0004",
+        "gameCode": "SGTheKoiGate",
+        "gameName": "Koi Gate",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "SGFireRooster",
+        "gameName": "Fire Rooster",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0006",
+        "gameCode": "SGFenghuang",
+        "gameName": "Fenghuang",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0007",
+        "gameCode": "SGJugglenaut",
+        "gameName": "Jugglenaut",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0008",
+        "gameCode": "SGOceansCall",
+        "gameName": "Ocean's Call",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0009",
+        "gameCode": "SGGangsters",
+        "gameName": "Gangsters",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0010",
+        "gameCode": "SGSparta",
+        "gameName": "Sparta",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0011",
+        "gameCode": "SGSuperTwister",
+        "gameName": "Super Twister",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0012",
+        "gameCode": "SG12Zodiacs",
+        "gameName": "12 Zodiacs",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0013",
+        "gameCode": "SGArcaneElements",
+        "gameName": "Arcane Elements",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0014",
+        "gameCode": "SGDragonsThrone",
+        "gameName": "Dragon's Throne",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0015",
+        "gameCode": "SGCoyoteCrash",
+        "gameName": "Coyote Crash",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0016",
+        "gameCode": "SGRomanEmpire",
+        "gameName": "Roman Empire",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0017",
+        "gameCode": "SGRuffledUp",
+        "gameName": "Ruffled Up",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0018",
+        "gameCode": "SGFaCaiShen",
+        "gameName": "Fa Cai Shen",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0019",
+        "gameCode": "SGBombsAway",
+        "gameName": "Bombs Away",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0020",
+        "gameCode": "SGGoldRush",
+        "gameName": "Gold Rush",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0021",
+        "gameCode": "SGWickedWitch",
+        "gameName": "Wicked Witch",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0022",
+        "gameCode": "SGGalacticCash",
+        "gameName": "Galactic Cash",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0023",
+        "gameCode": "SGBuggyBonus",
+        "gameName": "Buggy Bonus",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0024",
+        "gameCode": "SGKanesInferno",
+        "gameName": "Kane's Inferno",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0025",
+        "gameCode": "SGAllForOne",
+        "gameName": "All For One",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0026",
+        "gameCode": "SGArcticWonders",
+        "gameName": "Arctic Wonders",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0027",
+        "gameCode": "SGAzlandsGold",
+        "gameName": "Aztlan's Gold",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0028",
+        "gameCode": "SGBarnstormerBucks",
+        "gameName": "Barnstormer Bucks",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0029",
+        "gameCode": "SGBikiniIsland",
+        "gameName": "Bikini Island",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0030",
+        "gameCode": "SGBlackbeardsBounty",
+        "gameName": "Blackbeard's Bounty",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0031",
+        "gameCode": "SGCarnivalCash",
+        "gameName": "Carnival Cash",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0032",
+        "gameCode": "SGCashosaurus",
+        "gameName": "Cashosaurus",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0033",
+        "gameCode": "SGCashReef",
+        "gameName": "Cash Reef",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0034",
+        "gameCode": "SGDiscoFunk",
+        "gameName": "Disco Funk",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0035",
+        "gameCode": "SGDoubleODollars",
+        "gameName": "Double O Dollars",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "SGDragonsRealm",
+        "gameName": "Dragon's Realm",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0036",
+        "gameCode": "SGDrFeelgood",
+        "gameName": "Dr Feelgood",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0037",
+        "gameCode": "SGEgyptianDreams",
+        "gameName": "Egyptian Dreams",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0038",
+        "gameCode": "SGFlyingHigh",
+        "gameName": "Flying High",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0039",
+        "gameCode": "SGFrontierFortunes",
+        "gameName": "Frontier Fortunes",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0040",
+        "gameCode": "SGGlamRock",
+        "gameName": "Glam Rock",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0041",
+        "gameCode": "SGGoldenUnicorn",
+        "gameName": "Golden Unicorn",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0042",
+        "gameCode": "SGGrapeEscape",
+        "gameName": "Grape Escape",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0043",
+        "gameCode": "SGHauntedHouse",
+        "gameName": "Haunted House",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0044",
+        "gameCode": "SGIndianCashCatcher",
+        "gameName": "Indian Cash Catcher",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0045",
+        "gameCode": "SGJungleRumble",
+        "gameName": "Jungle Rumble",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0046",
+        "gameCode": "SGKingTutsTomb",
+        "gameName": "King Tut's Tomb",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0047",
+        "gameCode": "SGLittleGreenMoney",
+        "gameName": "Little Green Money",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0048",
+        "gameCode": "SGMonsterMashCash",
+        "gameName": "Monster Mash Cash",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0049",
+        "gameCode": "SGMrBling",
+        "gameName": "Mr Bling",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0050",
+        "gameCode": "SGMummyMoney",
+        "gameName": "Mummy Money",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0051",
+        "gameCode": "SGMysticFortune",
+        "gameName": "Mystic Fortune",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0052",
+        "gameCode": "SGPamperMe",
+        "gameName": "Pamper Me",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0053",
+        "gameCode": "SGPiratesPlunder",
+        "gameName": "Pirate's Plunder",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0054",
+        "gameCode": "SGPoolShark",
+        "gameName": "Pool Shark",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0055",
+        "gameCode": "SGPuckerUpPrince",
+        "gameName": "Pucker Up Prince",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0023",
+        "gameCode": "SGQueenOfQueens1024",
+        "gameName": "Queen of Queens II",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0057",
+        "gameCode": "SGQueenOfQueens243",
+        "gameName": "Queen of Queens",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0058",
+        "gameCode": "SGRideEmCowboy",
+        "gameName": "Ride 'em Cowboy",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0059",
+        "gameCode": "SGRodeoDrive",
+        "gameName": "Rodeo Drive",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0060",
+        "gameCode": "SGShaolinFortunes100",
+        "gameName": "Shaolin Fortunes 100",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0061",
+        "gameCode": "SGShaolinFortunes243",
+        "gameName": "Shaolin Fortunes",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0062",
+        "gameCode": "SGShogunsLand",
+        "gameName": "Shogun's Land",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0063",
+        "gameCode": "SGSirBlingalot",
+        "gameName": "Sir Blingalot",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0064",
+        "gameCode": "SGSkysTheLimit",
+        "gameName": "Sky's the Limit",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0065",
+        "gameCode": "SGSOS",
+        "gameName": "S.O.S!",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0066",
+        "gameCode": "SGSpaceFortune",
+        "gameName": "Space Fortune",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0067",
+        "gameCode": "SGSuperStrike",
+        "gameName": "Super Strike",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0068",
+        "gameCode": "SGTheBigDeal",
+        "gameName": "The Big Deal",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0069",
+        "gameCode": "SGTheDragonCastle",
+        "gameName": "Dragon Castle",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0070",
+        "gameCode": "SGTowerOfPizza",
+        "gameName": "Tower Of Pizza",
+        "alternate": "none"
+    },
+    {
+        "Old Game Type": "HB0071",
+        "gameCode": "SGTreasureDiver",
+        "gameName": "Treasure Diver",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "SGTreasureTomb",
+        "gameName": "Treasure Tomb",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "SGVikingsPlunder",
+        "gameName": "Viking's Plunder",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "SGWeirdScience",
+        "gameName": "Weird Science",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "SGZeus",
+        "gameName": "Zeus",
+        "alternate": "none"
+    },
+    {
+        "gameCode": "SGZeus2",
+        "gameName": "Zeus 2",
+        "alternate": "none"
+    }
+]

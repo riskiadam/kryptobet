@@ -1,0 +1,10 @@
+User-agent: Googlebot
+User-agent: Slurp
+User-agent: bingbot
+Allow:/
+
+Disallow: /wallet
+Disallow: /report
+Disallow: /profile
+
+Sitemap:  http://158.255.47.199/sitemap.xml
