@@ -1548,7 +1548,7 @@ export default {
       <!-- SEO Description -->
       <b-row class="DesktopHome home-text-title" align-v="center">
         <h1 class="home-text-description">
-          Slot Online Depo Pulsa Kripto707 Situs Slot
+          Slot Online Depo Pulsa IsoBet Situs Slot
         </h1>
       </b-row>
       <b-row class="DesktopHome home-text-subtitle">
@@ -1588,10 +1588,10 @@ export default {
           potongan apa yang direkomendasikan terutama di rekomendasikan pada
           daftar slot terpercaya. Pilihlah situs judi slot online yang memang
           sudah memiliki rekam jejak dan feedback bagus di internet, seperti
-          <strong>Kripto707 slot depo pulsa</strong>. Kripto707 mengkhususkan diri
+          <strong>IsoBet slot depo pulsa</strong>. Isobet mengkhususkan diri
           pada slot online deposit pulsa tanpa potongan yang tentunya adalah
           judi slot deposit pulsa dai beragam jenis. <br /><br />
-          Kripto707 <strong>situs judi slot</strong> merupakan official partner
+          IsoBet <strong>situs judi slot</strong> merupakan official partner
           dari beberapa publisher games judi online terkemuka dunia dan terkenal
           sebagai <strong>agen judi slot online</strong> yang bonafide. Anda
           bisa bermain judi slot online deposit pulsa ternama, seperti
