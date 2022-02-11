@@ -156,7 +156,7 @@ export default {
           this.$notify({
             group: "login1",
             title: "SUKSES LOGIN",
-            text: "Selamat bermain di Isobet!",
+            text: "Selamat bermain di Kripto707!",
             type: "success",
             closeOnClick: true,
             max: 1,
@@ -498,7 +498,7 @@ export default {
       this.$notify({
         group: "login1",
         title: "SUKSES LOGIN",
-        text: "Selamat bermain di Isobet!",
+        text: "Selamat bermain di Kripto707!",
         type: "success",
         closeOnClick: true,
         max: 1,
@@ -715,12 +715,15 @@ export default {
     <div class="MobileNav">
       <b-navbar toggleable="lg" type="dark" class="custom-bg">
         <router-link :to="{ name: 'HomeMobile' }">
-          <img
+          <!-- <img
             loading="lazy"
             :src="require('@/assets/images/logo/logo-mobile.png')"
             style="width: 100px"
             alt="logo Isobet"
-          />
+          /> -->
+          <span style="font-size:30px; color: white;">
+            Kripto707
+          </span>
         </router-link>
         <b-navbar-toggle
           target="sidebar-1"
@@ -738,7 +741,7 @@ export default {
       >
         <template v-slot:title>
           <div v-if="!isAuthenticated">
-            <span class="welcome">Welcome to ISOBET BET</span>
+            <span class="welcome">Welcome to Kripto707</span>
             <b-row style="padding: 0px; margin: 0px; margin-top: 10px">
               <b-col cols="6" style="padding: 0px; margin: 0px">
                 <b-btn
@@ -1194,7 +1197,7 @@ export default {
               <span
                 class="center text-center justify-content-center"
                 style="font-size: 10px; color: white; background-color: black"
-                >Copyright @2021 Isobet</span
+                >Copyright @2021 Kripto707</span
               >
             </div>
           </div>

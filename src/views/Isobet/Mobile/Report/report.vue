@@ -413,7 +413,7 @@ export default {
         <b-img
           style="width: 100%; border-bottom: 1px solid white"
           class="center align-center max-width"
-          :src="require('@/assets/images/banner/slide21.jpg')"
+          :src="require('@/assets/images/banner/slide5.jpg')"
           alt="Banner Promotion Isobet"
         />
       </div>

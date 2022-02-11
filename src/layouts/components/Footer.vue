@@ -40,6 +40,6 @@ export default {
         </a>
       </b-col>
     </b-row>
-    <div class="copyright-container"> Copyright &copy; 2021 Isobet All Rights Reserved </div>
+    <div class="copyright-container"> Copyright &copy; 2022 Kripto707 All Rights Reserved </div>
   </div>
 </template>
